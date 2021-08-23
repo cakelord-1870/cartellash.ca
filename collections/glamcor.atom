@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cartellash.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cartellash.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cartellash.ca/collections/glamcor.atom"/>
+  <title>CARTEL LASH &amp; SUPPLY CO</title>
+  <updated>2017-10-25T11:22:59-07:00</updated>
+  <author>
+    <name>CARTEL LASH &amp; SUPPLY CO</name>
+  </author>
+  <entry>
+    <id>https://cartellash.ca/products/10852846728</id>
+    <published>2017-10-25T11:22:59-07:00</published>
+    <updated>2017-10-25T11:22:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/glamcor-classic-elite-2"/>
+    <title>Glamcor - Classic Elite 2</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>GLAMCOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/classic_elite.jpg?v=1556960213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GLAMCOR<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            385.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><span class="s1">• Powerful premium 5,600K daylight LED</span></p>
+<p class="p1"><span class="s1">• Super lightweight</span></p>
+<p class="p1"><span class="s1">• Five stage touch dimming</span></p>
+<p class="p1"><span class="s1">• Most powerful Elite model to date</span></p>
+<p class="p2"><span class="s2">• Portable</span></p>
+<p class="p2"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glamcor</s:tag>
+    <s:tag>lamps</s:tag>
+    <s:tag>lighting</s:tag>
+    <s:tag>lights</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/10852846728</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">385.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

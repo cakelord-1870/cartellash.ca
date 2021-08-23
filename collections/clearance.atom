@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cartellash.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cartellash.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cartellash.ca/collections/clearance.atom"/>
+  <title>CARTEL LASH &amp; SUPPLY CO</title>
+  <updated>2020-08-28T14:37:56-07:00</updated>
+  <author>
+    <name>CARTEL LASH &amp; SUPPLY CO</name>
+  </author>
+  <entry>
+    <id>https://cartellash.ca/products/4650973036592</id>
+    <published>2020-08-28T14:37:56-07:00</published>
+    <updated>2020-08-28T14:37:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/black-face-mask"/>
+    <title>Black Face Mask</title>
+    <s:type>Sanitization | PPE</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/600.jpg?v=1622147003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Sanitization | PPE<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><b>[IDEAL FOR]</b><br><span>Keeping the face covered while looking stylish</span><br><span>Could be worn during cardio exercise</span><br><span>Protecting the nose and mouth from pollutants in the air</span><br><br><b>[INGREDIENTS/MATERIAL]</b><br><span>Dense mesh filter to block pollen and dust</span><br><span>Pourous fabric for breathability</span><br><span>Thin yet durable polyurethane construction</span><br><br><b>[FEATURES]</b><br><span>Effectively keeps out pollutants such as pollen and dust</span><br><span>Soft and dimensional design that imparts comfort</span><br><span>Spongy and elastic material that doesn't irritate the skin</span><br></p>
+<p>3 Mask Included </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Face Mask</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4650973036592</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4627322765360</id>
+    <published>2020-07-13T19:55:05-07:00</published>
+    <updated>2020-07-13T19:55:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/max2originale-lash-sealant-1"/>
+    <title>Max2Originale - Lash Sealant</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>MAX2LASH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/image.png?v=1594695369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAX2LASH<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p> </p>
+<h3>ㆍProtects extended eyelashes from moisture, oils, perspiration, dust, and debris. <br>ㆍThis specialized formula shapes and holds eyelash extensions into place. <br>ㆍProlongs the life of eyelash extensions <br>ㆍColor : Clear/Black/Blue <br>ㆍType : Mascara Brush/ Pen Brush <br>ㆍ10ML <br><br><br><b>HOW TO USE : </b><br>ㆍApply Coating Sealant 10 minutes after the eyelash extension procedure. <br>ㆍRe-apply to eyelashes every 2-3 days. <br>ㆍApply sparingly and build up coverage from roots to tips. <br>ㆍUse before make up. <br><br><br><b>CAUTIONS : </b><br>Do not use max2 Lash Coating Sealant if you are over sensitive or allergic to this product. Do not use max2 Lash Coating Sealant if you have any disorder or open wound around the eye. Keep away from children. Avoid direct sunlight.</h3>
+<div class="f1 animate stack"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cosmetic</s:tag>
+    <s:tag>MAX2LASH</s:tag>
+    <s:tag>max2originale</s:tag>
+    <s:tag>Special Mascara Gold</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4627322765360</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4603321057328</id>
+    <published>2020-06-19T18:49:03-07:00</published>
+    <updated>2020-06-19T18:49:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/foam-bottles"/>
+    <title>Empty Foam Bottle</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/1pcs-50ml-Plastic-Clear-Foaming-Bottle-Soap-Mousses-Liquid-Dispenser-Froth-Pump-Shampoo-Lotion-Bottling-Foam.jpg?v=1622147747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Foaming pump adds the needed air to turn your favourite liquid soap into a rich foam! </span></p>
+<p><span data-mce-fragment="1">*Combine 1 part liquid soap with 8 parts water or fill with foaming soap solution, dilute with more water if needed*</span></p>
+<p><span data-mce-fragment="1">50ml</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aftercare</s:tag>
+    <s:tag>Bottle</s:tag>
+    <s:tag>Foam</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4603321057328</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4598304243760</id>
+    <published>2020-06-17T07:50:15-07:00</published>
+    <updated>2020-06-17T07:50:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/social-distancing-floor-decals-8-round"/>
+    <title>Social Distancing Floor Decals - 8&quot; Round (Pack of 4)</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/unnamed.gif?v=1594417432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>covid19</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4598304243760</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4598286254128</id>
+    <published>2020-06-17T07:50:15-07:00</published>
+    <updated>2020-06-17T07:50:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/disposable-face-masks-level-1"/>
+    <title>Disposable Face Masks - Level 1</title>
+    <s:type>Sanitization | PPE</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/mask_1_1024x1024_50c7a688-ab46-4efd-a952-3b89cf586176.png?v=1622146944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Sanitization | PPE<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">FDA/CE Compliant, Meets EN14683 Rating, Medical Use, High Fluid Resistance Level</span></li>
+<li><span class="a-list-item">PERFORMANCE: BFE: &gt;95% at 3 microns, Fluid Resistance: 120 mm Hg, Breathability-Delta P &lt; 5.0 mm H2O/cm2.</span></li>
+<li><span class="a-list-item">Made of 3-ply Environment-friendly Material, Moisture-proof, Non-toxic, Non-irritant, Soft and Comfortable, Adjustable Nose Piece, Stretchable Ear-loops</span></li>
+<li><span class="a-list-item">Due to hygienic reasons, this product is non-returnable &amp; non-refundable</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>covid</s:tag>
+    <s:tag>covid19</s:tag>
+    <s:tag>facemask</s:tag>
+    <s:tag>PPE</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4598286254128</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4480677380144</id>
+    <published>2020-03-25T14:48:01-07:00</published>
+    <updated>2020-03-25T14:48:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/dr-althea-gel-hand-sanitizer"/>
+    <title>Dr. Althea - Gel Hand Sanitizer</title>
+    <s:type>Sanitization | PPE</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Dr.Althea_Instant_hand_cleanser_gel_800x_82c1fb38-7e4e-43c2-ae3a-f8f3fa16555b.png?v=1622145271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Sanitization | PPE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h2><em><strong>Advanced Handcare Recipe</strong></em></h2>
+<ul>
+<li>Hand Sanitizer — for cleansing, protecting and moisturizing</li>
+<li>62.7% Alcohol</li>
+<li>Made in South Korea</li>
+</ul>
+<p><span>Action 1</span>: Protects and cleans hands without water or soap</p>
+<p><span>Action 2</span>: A convenient instant, on-the-go hand cleansing gel</p>
+<p><span>Net Weight: 50ml</span></p>
+<p> </p>
+<ul></ul>
+<p><span><strong>KEY INGREDIENTS</strong></span></p>
+<p><em><span>Alcohol, Water, Glycerin, Triethanolamine, Carbomer, Fragrance, Tocopheryl Acetate, 1,2-Hexanediol, Hamamelis Virginiana (Witch Hazel) Leaf Extract, Butylene glycol, Pentylene Glycol, Aloe Barbadensis Leaf Extract, Camellia Sinensis Leaf Extract</span></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/4480677380144</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4471732174896</id>
+    <published>2020-03-12T11:42:55-07:00</published>
+    <updated>2020-03-12T11:42:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/dr-belter-make-up-remover"/>
+    <title>Dr. Belter Make-up Remover</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>DR.BELTER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/88bb10_8d8d93a67f61495694cb7ac4b3bd2c85.jpg?v=1622148142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DR.BELTER<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Radiant eyes reflect your inner beauty…</span></p>
+<p><span style="font-weight: 400;">They deserve to be given the best care and attention.</span></p>
+<p><span style="font-weight: 400;">Eyes can tell tales. Tales of our soul and mental state. Sometimes tales of sleepless nights, worry and fatigue.</span></p>
+<p><span style="font-weight: 400;">Due to its fragile anatomy and constant facial expressions the eye area is particularly in need of timely, specific and gentle care.</span></p>
+<p><span style="font-weight: 400;">Line »ocula« achieves a successful balance of natural, skin identical especially compatible ingredients combined with effective, highly innovative yet non-irritant actives.</span></p>
+<p><span style="font-weight: 400;">The »ocula« products have a wonderfully relaxing and calming effect on the eyes, reducing dryness, wrinkles and puffiness while preventing premature tissue exhaustion. Our special tip for the beauty of your eyes: sunglasses are an essential you should never be without!</span></p>
+<p><span style="font-weight: 400;">The »ocula« care line is suitable for any age - prevention is better than cure.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aftercare</s:tag>
+    <s:tag>Dr.Belter</s:tag>
+    <s:tag>Makeup</s:tag>
+    <s:tag>Remover</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4471732174896</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4110990213168</id>
+    <published>2019-09-18T17:31:15-07:00</published>
+    <updated>2019-09-18T17:31:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/tile-buddies"/>
+    <title>Eyelash Tile Buddies</title>
+    <s:type>Application</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/unnamed.jpg?v=1622147759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Organize and protect your eyelash tile!</p>
+<p>- Sticks easily onto lashing surfaces</p>
+<p>- Reusable</p>
+<p>- Labelled and ready to use! </p>
+<p>1 sheet</p>
+<div dir="auto"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/4110990213168</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/3860545667120</id>
+    <published>2019-08-14T14:07:37-07:00</published>
+    <updated>2019-08-14T14:07:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lash-tile"/>
+    <title>Eyelash Tile</title>
+    <s:type>Application</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/kk-a0410306_d_7dc19ea6-7a36-469c-8015-3b16dab7815f.jpg?v=1568243657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Glass eyelash tile holds eyelash strips securely in place. Smooth surface allows for easy clean up! Tiles also include backings that make them slip proof!</p>
+<p>14.7cm * 7.2cm* 0.7cm </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/3860545667120</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/2325502951472</id>
+    <published>2019-04-20T09:32:47-07:00</published>
+    <updated>2019-04-20T09:32:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/mini-tile-scraper"/>
+    <title>Mini Tile Scraper</title>
+    <s:type>Application</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/razor.jpg?v=1622147465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Instantly peels leftover adhesive residue and sticker backing from your lash tiles.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/2325502951472</id>
+      <title>Black</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/2324326613040</id>
+    <published>2019-04-19T16:26:57-07:00</published>
+    <updated>2019-04-19T16:26:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lint-free-glue-wipes"/>
+    <title>Lint Free Glue Wipes (200pcs)</title>
+    <s:type>Application</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/3.jpg?v=1622145123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/2324326613040</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/2164285374512</id>
+    <published>2018-12-04T13:33:10-08:00</published>
+    <updated>2018-12-04T13:33:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/cotton-pads-90ct"/>
+    <title>Cotton Pads - 90ct</title>
+    <s:type>Application</s:type>
+    <s:vendor>EYELASH MAKER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/EMBOSSING-COTTON-PAD-0.png?v=1622147189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EYELASH MAKER<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">High quality, dense textured lint free cotton pads.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton pads</s:tag>
+    <s:tag>tools</s:tag>
+    <s:tag>tools for extension</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/2164285374512</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>76</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/684722028592</id>
+    <published>2018-05-01T22:32:20-07:00</published>
+    <updated>2018-05-01T22:32:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/adhesive-pin"/>
+    <title>Adhesive Pin</title>
+    <s:type>Application</s:type>
+    <s:vendor>EYELASH MAKER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Adhesive_Pin.png?v=1622146910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EYELASH MAKER<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="woocommerce-product-details__short-description">
+<p>Use on adhesive nozzle to prevent clogging. Includes quantity of 5.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>tools</s:tag>
+    <s:tag>tools for extension</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/684722028592</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/10738458696</id>
+    <published>2017-09-25T13:10:36-07:00</published>
+    <updated>2017-09-25T13:10:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/duct-tape"/>
+    <title>Lash Palette Tape</title>
+    <s:type>Application</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/white-duct-tape.jpg?v=1622147772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Great tool for protecting surfaces, such as eyelash headbands or tiles. Creates a disposable and smooth workspace!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/10738458696</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>81</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/10205847368</id>
+    <published>2017-07-18T06:45:38-07:00</published>
+    <updated>2017-07-18T06:45:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/microbrush-regular"/>
+    <title>Microbrush - 100pcs</title>
+    <s:type>Application</s:type>
+    <s:vendor>EYELASH MAKER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/micro-brush-regular-25-mm.jpg?v=1622146098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EYELASH MAKER<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For Eyelash Extensions and Lash Lifts / Perms</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/10205847368</id>
+      <title>Blue - Regular (2.5mm)</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>69</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/10070704712</id>
+    <published>2017-07-06T03:44:41-07:00</published>
+    <updated>2017-07-06T03:44:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/magic-pack"/>
+    <title>Magic Pack</title>
+    <s:type>Application</s:type>
+    <s:vendor>EYELASH MAKER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/mp.JPG?v=1622142171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EYELASH MAKER<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            0.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Premium Eyelash Glue Magic Pack</strong><br><br><span>The Magic Pack prevents the deterioration when the glues are exposed to air, so it makes the glue shelf-life longer. It also keeps the viscosity and the bonding power better for application. It is highly recommended to use the Magic Pack if you would like to get the best result.</span><br><br><span>After using the glues, remove the residue on the nozzle completely and put them into the Magic Pack with the desiccant.</span><br><br><span>Make sure to remove the air from the Magic Pack after you put the glue inside. Keep it in dry and cool place.</span><br><br><span>Price/1pcs</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/10070704712</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/9039293768</id>
+    <published>2017-03-27T17:35:00-07:00</published>
+    <updated>2017-03-27T17:35:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/max2originale-glue-ring"/>
+    <title>Glue Ring</title>
+    <s:type>Application</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/26.jpg?v=1490661453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            0.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Disposable ring holds glue while lashing</p>
+<div class="f1 animate stack">
+<p><span>NOTE -DO NOT turn your hand when you have this ring on, glue can run down the side of the ring onto your finger and/or client! </span></p>
+<p><span>Made by:<b> max2</b>originale</span></p>
+<p><span>1 piece</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glue ring</s:tag>
+    <s:tag>MAX2LASH</s:tag>
+    <s:tag>max2originale</s:tag>
+    <s:tag>tools</s:tag>
+    <s:tag>tools for extension</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/9039293768</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.15</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/9038964744</id>
+    <published>2017-03-27T17:01:00-07:00</published>
+    <updated>2017-03-27T17:01:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/max2originale-mannequin-head"/>
+    <title>Mannequin Head</title>
+    <s:type>Application</s:type>
+    <s:vendor>EYELASH MAKER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/MANNEQUIN-HEAD-1.png?v=1547336847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EYELASH MAKER<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><br></p>
+<meta charset="utf-8">
+<p>ㆍeyelash extension training mannequin head. <br>ㆍBest to use with false eyelash for training.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mannequin Head</s:tag>
+    <s:tag>MAX2LASH</s:tag>
+    <s:tag>max2originale</s:tag>
+    <s:tag>tools</s:tag>
+    <s:tag>tools for extension</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/9038964744</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>508</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/9037126344</id>
+    <published>2017-03-27T14:18:00-07:00</published>
+    <updated>2017-03-27T14:18:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/max2originale-tonic-essence-gold-dark-and-rich-eyelash-eyebrows-tonic-essence-gold"/>
+    <title>Max2Originale - Tonic Essence Gold - Dark And Rich - Eyelash/Eyebrows Serum</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>MAX2LASH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/essence.png?v=1622147329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAX2LASH<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>max2originale</strong></p>
+<p><strong>DARK AND RICH - EYELASH <br>EYEBROWS TONIC ESSENCE GOLD</strong></p>
+<meta charset="utf-8">
+<p>ㆍEssence and Tonic, 2in1 Type. <br>ㆍMore Than 20 Herb Extracts Make Your Eyelashes Grow Longer and healthier. <br>ㆍDramatically enhance the appearance of natural lash length, thickness and fullness in just 8 weeks. <br>ㆍType : Mascara Brush/ Pen Brush <br>ㆍ10ML</p>
+<p><strong>Eyelash Essence + Tonic :</strong><br>Over 10 herb extracts nourishes and fortifies eyelashes and eyebrows. Botanical elements in this special product strengthen natural eyelashes resulting in an ideal foundation for eyelash extension application. <br><br><strong>How To Use : </strong><br></p>
+<ul>
+<li>Mix well before use.</li>
+<li>Apply to the roots of lashes or brows in a similar manner as eyeliner.</li>
+<li>Apply twice a day, after washing face in the morning and night.</li>
+<li>Use before make up.</li>
+</ul>
+<p><strong>Cautions : </strong><br>Do not use max2 Lash Tonic Essence if you are over sensitive or allergic to this product. Do not use max2 Lash Tonic Essence if you have any disorder or open wound around the eye. Keep away from children. Avoid direct sunlight.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cosmetic</s:tag>
+    <s:tag>MAX2LASH</s:tag>
+    <s:tag>max2originale</s:tag>
+    <s:tag>tonic essence gold</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/9037126344</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/9036531528</id>
+    <published>2017-03-27T13:25:00-07:00</published>
+    <updated>2017-03-27T13:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/max2originale-special-mascara-gold-volume-up-water-washable-royal-jelly-natural-herb-extracts"/>
+    <title>Max2Originale - Special Mascara Gold - Volume Up, Water Washable.  Royal Jelly &amp; Natural Herb Extracts.</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>MAX2LASH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/mascara.png?v=1552697939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAX2LASH<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><b></b><strong>VOLUME UP, WATER WASHABLE. <br>ROYAL JELLY &amp; NATURAL HERB EXTRACTS.</strong></p>
+<meta charset="utf-8">
+<p>ㆍMoisturizing formula that lasts all day. <br>ㆍRoyal Jelly, Vitamin, mineral, oil, and herb extracts nourish and protect the eyelashes from unwanted contamination. <br>ㆍSmooth and Creamy texture. <br>ㆍCoates each lash evenly for a great look that lasts. <br>ㆍMakes lashes look fuller and thicker without clumping. <br>ㆍ8ml</p>
+<p> </p>
+<meta charset="utf-8">
+<div class="f1 animate stack">
+<p><strong>Max2lash Originale Special Mascara Gold Is Registered On The FDA. </strong><br>This premium quality water washable mascara is compatible with eyelash extension and natural lashes. Royal jelly and herb extract nourish and protect the eyelashes. Moisturizing formula coats each lash evenly for a great look that lasts all day. <br><br><strong>How To Use : </strong><br>Allow 24 hours after eyelash extension procedure before applying. Gently brush up evenly. Remove with soap and water. <br><br><strong>Cautions : </strong><br>Do not use Max2 Lash Royal Volume-up Mascara if you are oversensitive or allergic to this product. Do not use Max2 Lash Royal Volume-up Mascara if you have any disorder or open wound around the eye. Keep away from children. Avoid direct sunlight.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cosmetic</s:tag>
+    <s:tag>MAX2LASH</s:tag>
+    <s:tag>max2originale</s:tag>
+    <s:tag>Special Mascara Gold</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/9036531528</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+</feed>

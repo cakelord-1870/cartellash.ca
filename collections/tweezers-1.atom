@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cartellash.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cartellash.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cartellash.ca/collections/tweezers-1.atom"/>
+  <title>CARTEL LASH &amp; SUPPLY CO</title>
+  <updated>2019-12-23T14:06:48-08:00</updated>
+  <author>
+    <name>CARTEL LASH &amp; SUPPLY CO</name>
+  </author>
+  <entry>
+    <id>https://cartellash.ca/products/4408103403568</id>
+    <published>2019-12-23T14:06:48-08:00</published>
+    <updated>2019-12-23T14:06:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/untamed-artistry-tweezers"/>
+    <title>Untamed Artistry Tweezers</title>
+    <s:type>Tweezers</s:type>
+    <s:vendor>UNTAMED ARTISTRY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/CustomSize_30.png?v=1621736253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UNTAMED ARTISTRY<br>
+        <strong>Type: </strong>Tweezers<br>
+        <strong>Price: </strong>
+            25.00 - 65.00
+            <a href="https://cartellash.ca/products/untamed-artistry-tweezers">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>tweezers</s:tag>
+    <s:tag>untamed artistry</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4408103403568</id>
+      <title>the m.o.</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4408103403568</id>
+      <title>the o.g.</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4408103403568</id>
+      <title>the b.f.f. long</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4408103403568</id>
+      <title>the b.f.f. short</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4408103403568</id>
+      <title>down to fan.</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4408103403568</id>
+      <title>sharp shooter.</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4408103403568</id>
+      <title>jet setter.</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4408103403568</id>
+      <title>pitch perfect.</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4408103403568</id>
+      <title>pick me up.</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4308381106224</id>
+    <published>2019-10-24T17:41:11-07:00</published>
+    <updated>2019-10-24T17:41:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/my-brand-lashes-tweezers"/>
+    <title>My Brand Lashes Tweezers</title>
+    <s:type>Tweezers</s:type>
+    <s:vendor>MYBRANDLASHES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Screen_Shot_2019-06-30_at_3.46.43_PM_1024x1024_2x_dd1f2fa1-e2c4-4180-bc21-d0ea129a56fb.png?v=1606697394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MYBRANDLASHES<br>
+        <strong>Type: </strong>Tweezers<br>
+        <strong>Price: </strong>
+            35.00 - 65.00
+            <a href="https://cartellash.ca/products/my-brand-lashes-tweezers">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>tools</s:tag>
+    <s:tag>tools for extension</s:tag>
+    <s:tag>tweezers</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4308381106224</id>
+      <title>Ava Volume Tweezers</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4308381106224</id>
+      <title>Coco Volume Tweezers</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4308381106224</id>
+      <title>Violet Volume Tweezers</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4308381106224</id>
+      <title>ZSA-ZSA Volume Tweezers</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>49</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4174072447024</id>
+    <published>2019-10-03T11:01:52-07:00</published>
+    <updated>2019-10-03T11:01:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/vetus-tweezers"/>
+    <title>Vetus Tweezers</title>
+    <s:type>Tweezers</s:type>
+    <s:vendor>EYELASH MAKER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/0ae639d34b010ec99ad6225b71f87328.jpg?v=1622142195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EYELASH MAKER<br>
+        <strong>Type: </strong>Tweezers<br>
+        <strong>Price: </strong>
+            16.00 - 25.00
+            <a href="https://cartellash.ca/products/vetus-tweezers">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/4174072447024</id>
+      <title>ST-11</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4174072447024</id>
+      <title>ST-15</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4174072447024</id>
+      <title>ST-17</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4174072447024</id>
+      <title>5A-SA</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4174072447024</id>
+      <title>5B-SA</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4174072447024</id>
+      <title>6A-SA</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4174072447024</id>
+      <title>MSC-12 - Emerald</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4174072447024</id>
+      <title>MSC-12 - Metallic</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4174072447024</id>
+      <title>MCS-12 - Gold</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4174072447024</id>
+      <title>MCS-12 - Blue</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4174072447024</id>
+      <title>MCS-15 - Emerald</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4174072447024</id>
+      <title>MCS-15 - Metallic</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4174072447024</id>
+      <title>MSC-18 - Emerald</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>33</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4174072447024</id>
+      <title>MCS-18 - Metallic</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>33</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4174072447024</id>
+      <title>MCS-19 - Emerald</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4174072447024</id>
+      <title>MCS-19 - Metallic</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4174072447024</id>
+      <title>MCS- 24A - Blue</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4174072447024</id>
+      <title>MCS- 31B - Blue</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4174072447024</id>
+      <title>MCS- 19 - Blue</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4174072447024</id>
+      <title>MCS- 19 - Gold</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/2194320228400</id>
+    <published>2019-01-29T15:56:07-08:00</published>
+    <updated>2019-01-29T15:56:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/cartel-tweezers"/>
+    <title>Cartel Tweezers</title>
+    <s:type>Tweezers</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Crest_Crown_Product_17_IMG_0002.jpg?v=1622142062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Tweezers<br>
+        <strong>Price: </strong>
+            18.00 - 35.00
+            <a href="https://cartellash.ca/products/cartel-tweezers">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All tweezers made of high quality stainless steel.</p>
+<p>L TYPE VOLUME 90 DEGREE- 7860</p>
+<p>65 DEGREE, 10MM - <meta charset="utf-8"><span data-mce-fragment="1">TL424 </span></p>
+<p>35 DEGREE, 10MM - TL418</p>
+<p>STRAIGHT TYPE - ST-11</p>
+<p>L TYPE VOLUME 90 DEGREE - AI414</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>tools</s:tag>
+    <s:tag>tools for extension</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/2194320228400</id>
+      <title>L TYPE VOLUME - TL424</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/2194320228400</id>
+      <title>65 DEGREE, 10MM - TL424</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/2194320228400</id>
+      <title>35 DEGREE, 10MM - TL418</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/2194320228400</id>
+      <title>STRAIGHT TYPE - ST-11</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/2194320228400</id>
+      <title>L TYPE VOLUME - AI414</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/2172950216752</id>
+    <published>2018-12-18T16:41:22-08:00</published>
+    <updated>2018-12-18T16:41:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/eyelash-maker-tweezers"/>
+    <title>Eyelash Maker Tweezers</title>
+    <s:type>Tweezers</s:type>
+    <s:vendor>EYELASH MAKER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/eyelash-maker-bird-beak-e1050.jpg?v=1622145287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EYELASH MAKER<br>
+        <strong>Type: </strong>Tweezers<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made of high quality stainless steal.</p>
+<p>E-1064</p>
+<p>E-1212</p>
+<p>E-1063</p>
+<p>E-1230</p>
+<p>E-1050</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>tools</s:tag>
+    <s:tag>tools for extension</s:tag>
+    <s:tag>tweezers</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/2172950216752</id>
+      <title>E-1050</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/2172950216752</id>
+      <title>E-1230</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/2172950216752</id>
+      <title>E-1063</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/2172950216752</id>
+      <title>E-1212</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/2172950216752</id>
+      <title>E-1064</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+</feed>

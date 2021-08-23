@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cartellash.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cartellash.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cartellash.ca/collections/aftercare-retail-1.atom"/>
+  <title>CARTEL LASH &amp; SUPPLY CO</title>
+  <updated>2021-08-18T13:08:36-07:00</updated>
+  <author>
+    <name>CARTEL LASH &amp; SUPPLY CO</name>
+  </author>
+  <entry>
+    <id>https://cartellash.ca/products/6890592305329</id>
+    <published>2021-08-18T13:08:36-07:00</published>
+    <updated>2021-08-18T13:08:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/assorted-mascara-brush-tube-case-10pcs"/>
+    <title>Assorted Mascara Brush Tube Case - 10pcs</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-18at11.37.52AM.png?v=1629317316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case</s:tag>
+    <s:tag>Mascara Wand</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890592305329</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6872408326321</id>
+    <published>2021-08-11T14:47:45-07:00</published>
+    <updated>2021-08-11T14:47:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/eyelash-cleansing-brush"/>
+    <title>Eyelash Cleansing Brush</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-11at2.43.29PM.png?v=1628718465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aftercare</s:tag>
+    <s:tag>Lash Cleanser</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872408326321</id>
+      <title>White Gold</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872408326321</id>
+      <title>White Silver</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872408326321</id>
+      <title>Pink Gold</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6709396930737</id>
+    <published>2021-05-25T23:45:29-07:00</published>
+    <updated>2021-05-25T23:45:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/eyenvy-serum-2ml-inventory-use-only"/>
+    <title>EE 2</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content indent pict2">
+<div class="container">
+<meta charset="UTF-8">
+<ul class="list8">
+<li class="wow fadeInUp">
+<ul class="list8">
+<li class="wow fadeInUp">
+<h3 align="left"></h3>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/6709396930737</id>
+      <title>2ml</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku/>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6709398732977</id>
+    <published>2021-05-25T23:44:07-07:00</published>
+    <updated>2021-05-25T23:44:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/eyenvy-serum-3-5ml-for-inventory-use-only"/>
+    <title>EE 3</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content indent pict2">
+<div class="container">
+<meta charset="UTF-8">
+<ul class="list8">
+<li class="wow fadeInUp">
+<h3 align="left"></h3>
+</li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/6709398732977</id>
+      <title>3.5ml</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku/>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6676715438257</id>
+    <published>2021-04-24T18:14:19-07:00</published>
+    <updated>2021-04-24T18:14:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/eyenvy-serum-3-5ml-in-store-only"/>
+    <title>EyEnvy Serum 3.5ml (in-store only)</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/image_991d9b74-50aa-49fc-9318-1d992d7cdbe3.jpg?v=1619296396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content indent pict2">
+<div class="container">
+<meta charset="UTF-8">
+<ul class="list8">
+<li class="wow fadeInUp">
+<h3 align="left">Our EYENVY must be purchased in store only. This specific product is for end users, not for resale. We do not offer discounts or promotions of any sort for this particular product. The pricing has been set in accordance to EYENVY’s suggested MRSP. If you are a first time purchaser, we will include a brochure and explain application and use for the product. Please call, email or come in for price inquiries. </h3>
+<ul class="list8">
+<li class="wow fadeInUp">
+<h3 align="left">
+<br>Q: HOW DO I APPLY EYENVY<sup>®</sup>?</h3>
+<p align="left">Firstly, ensure that the eye lid is clean. Shake the ingredients in the bottle; remove the excess of product from the tip of the wand by stroking it on the neck of the bottle 3 times. Apply EyEnvy<sup>®</sup> to the skin of the eyelid from the exterior to the interior area. Apply in the morning every day for 3 months and every other day for maintenance.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: WHAT IF I HAVE SENSITIVE EYES?</h3>
+<p align="left">We recognize that EyEnvy is not for everyone. If you are sensitive or allergic to any of our ingredients, EyEnvy<sup>®</sup> is probably not for you. We recommend usage every other day for sensitive eyes. Your results may take 2 extra weeks, but you will achieve results.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: WHEN WILL I SEE RESULTS?</h3>
+<p align="left">Everyone’s results may vary based on factors like age, sex, and application frequency. You may also achieve different results due to genetics, or if you are taking medication that affects your hormonal system. Typically most individuals <strong>start</strong> seeing results within 4-6 weeks. Full results are achieved within 3 months.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: HOW DO I MAINTAIN MY LONG LASHES?</h3>
+<p align="left">After daily use of EyEnvy<sup>®</sup> for 3 months we recommend applying our conditioner every other day. For sensitive eyes apply the conditioner every third day.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: I WEAR LASH EXTENSIONS, CAN I USE THIS PRODUCT?</h3>
+<p align="left">Yes. Because the product is applied to the skin and not the lashes it will not interfere with the bond of the glue. Make sure to wait 48 hours after your refill or full-set to allow the glue to adhere well. Many lash technicians recognize the benefits of using a lash conditioner with lash extensions for many reasons. The benefits of adding vitamins to the root of your lashes help to strengthen the bulb, disallowing the hair follicle from prematurely falling (due to the extra weight of an artificial lash). Due to the added length and volume of your lashes the technician can successfully increase more lash placement. Clients who want longer lashes but are limited due to their very short lashes can achieve longer length results because their lashes are long enough for the technician to apply even longer lashes which will adhere. Due to the increased density the technician may apply thicker lashes. We do recommend applying the product every other day while you are wearing individual lash extensions.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: HOW LONG DOES A TUBE OF EYENVY<sup>®</sup> LAST?</h3>
+<p align="left">A tube of 3.5ml of EyEnvy<sup>®</sup> will last up to five months and a tube of 2.0ml of EyEnvy<sup>TM</sup> will last up to 3 months if used daily as recommended. Once opened, the formula will remain active for 9 months. Unopened, a tube of EyEnvy<sup>®</sup> is good for 18 months.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: I WEAR CONTACT LENSES? CAN I USE EYENVY<sup>®</sup>?</h3>
+<p align="left">Yes. We recommend inserting contact lenses approximately 15 minutes <strong>after</strong> applying EyEnvy<sup>®</sup>.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: WHERE CAN I PURCHASE EYENVY<sup>®</sup>?</h3>
+<p align="left">EyEnvy<sup>®</sup> is Spa/Salon Exclusive. If you would like to purchase a tube kindly check our Locations to purchase section to find a location near you.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: MY EYES ARE IRRITATED, ITCHY, OR RED FROM THE PRODUCT, WHAT SHOULD I DO?</h3>
+<p align="left">The skin surrounding your eyes is highly sensitive. Certain individuals may be sensitive to one or more of the ingredients in EyEnvy<sup>®</sup>. Please take special care in following the application procedure. A high percentage of irritation for most clients is due to overuse or over application of our product. If mild or moderate redness or irritation occurs, discontinue use of the product at least temporarily until symptoms resolve.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: I NOTICED SOME SKIN DISCOLORATION WHERE I APPLY EYENVY<sup>TM</sup>, SHOULD I BE CONCERNED?</h3>
+<p align="left">Some customers have noted a slight darkening of the skin on the eyelid where they have applied EyEnvy<sup>®</sup>over a prolonged period of time. In most situations this will naturally fade with discontinued use of the product.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: IS EYENVY<sup>®</sup> SAFE DURING PREGNANCY AND/OR BREASTFEEDING?</h3>
+<p align="left">EyEnvy<sup>®</sup> has not been tested in all situations; therefore we do not recommend using EyEnvy<sup>®</sup>during pregnancy or breastfeeding.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: CAN I USE EYENVY<sup>®</sup> ON MY EYEBROWS?</h3>
+<p align="left">Yes. EyEnvy<sup>®</sup> can significantly improve the density of your eyebrows. Always keep in mind that if there has been any trauma to the eyebrow area which includes <strong>scar tissue, hair will not grow.</strong></p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: WHY IS IT BETTER TO PUT ON EYENVY<sup>®</sup> IN THE MORNING?</h3>
+<p align="left">The reason why EyEnvy<sup>®</sup> is best to be used in the morning is because studies have shown that when products near the eyes are applied at night, they have an increased chance of sensitivity to product due to various factors. When used in the morning the eye’s lacrimal glands are more active, sensitivity is reduced leading to a healthier experience with any product. Because we are unaware of the sensitivity levels of all clients we have created a general rule for everyone to use the product in the morning.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: CAN I APPLY MAKEUP AFTER USING EYENVY<sup>®</sup>?</h3>
+<p align="left">Yes, you can use all forms of make-up after applying EyEnvy. We suggest that you first apply EyEnvy<sup>®</sup> to a clean lid and then let it dry for 1-2 minutes. You may then apply make-up as usual.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: CAN I PUT ON MASCARA AFTER APPLYING EYENVY<sup>®</sup>?</h3>
+<p align="left">Yes. Mascara can be used 1-2 minutes after applying the serum. It is recommended to use the EyEnvy<sup>®</sup>&gt; mascara as it will also condition the lashes.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: I HAVE/HAD CANCER/TREATMENTS, CAN I USE EYENVY<sup>®</sup>?</h3>
+<p align="left">It is recommended to begin using EyEnvy 6 months after the last chemotherapy treatment. It will not have any interference, but rather because the effects of chemotherapy to kill cells in the body will not allow EyEnvy<sup>®</sup> to take its full effect. Thus, using EyEnvy<sup>®</sup> 6 months after treatment will ensure more accurate and stable results. Lastly, due to heightened sensitivity from chemotherapy, you should start use under the instructions for sensitive eyes, which would be to apply the product as instructed every other day.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: WHAT ARE THE INGREDIENTS IN EYENVY<sup>®</sup>?</h3>
+</li>
+<li class="wow fadeInUp">
+<p align="left">Water (Aqua), Myristoyl Pentapeptide 17, Butylene Glycol, Dextran, Acetyl Tetrapeptide 3, Trifolium Pratense (Clover) Flower Extract, Glycerin, Panthenol, Sodium Citrate, Leuconostroc/Radish Root Ferment Filtrate, Polysorbate 20, Gluconolactone, Vitis Vinifera (Grape) Seed Extract, Caprylyl Glycol, Sodium Benzoate, Hydroxyethylcellulose, Propylene Glycol, Yeast Extract, Ethylhexylglycerin, Sodium PCA, Sodium Lactate, Chamomilla Recutita (Matricaria) Flower Extract, Panax Ginseng Root Extract, Arginine, Aspartic Acid, PCA, Hydrolyzed Glycosaminoglycans, Glycine, Alanine, Serine, Valine, Isoleucine, Proline, Threonine, Tocopheryl Acetate, Histidine, Phenylalanine, Sodium Hyaluronate, Arctostaphylosa Uva-Ursi Leaf Extract, Magnisium Ascorbyl Phosphate, Phenoxyethanol, Benzoic Acid, Sodium, Metabisulfite, Triethanolamine.</p>
+</li>
+</ul>
+<h3 align="left"></h3>
+</li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/6676715438257</id>
+      <title>2ml - Lash Serum</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku/>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6676698300593</id>
+    <published>2021-04-24T18:13:57-07:00</published>
+    <updated>2021-04-24T18:13:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/eyenvy-serum-2ml-in-store-only"/>
+    <title>EyEnvy Serum 2ml (in-store only)</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/image_05d6ce5f-16c5-406e-9994-58d8f996bd7e.jpg?v=1619296375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content indent pict2">
+<div class="container">
+<meta charset="UTF-8">
+<ul class="list8">
+<li class="wow fadeInUp">
+<ul class="list8">
+<li class="wow fadeInUp">
+<h3 align="left">Our EYENVY must be purchased in store only. This specific product is for end users, not for resale. We do not offer discounts or promotions of any sort for this particular product. The pricing has been set in accordance to EYENVY’s suggested MRSP. If you are a first time purchaser, we will include a brochure and explain application and use for the product. Please call, email or come in for price inquiries. </h3>
+<h3 align="left">
+<br>Q: HOW DO I APPLY EYENVY<sup>®</sup>?</h3>
+<p align="left">Firstly, ensure that the eye lid is clean. Shake the ingredients in the bottle; remove the excess of product from the tip of the wand by stroking it on the neck of the bottle 3 times. Apply EyEnvy<sup>®</sup> to the skin of the eyelid from the exterior to the interior area. Apply in the morning every day for 3 months and every other day for maintenance.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: WHAT IF I HAVE SENSITIVE EYES?</h3>
+<p align="left">We recognize that EyEnvy is not for everyone. If you are sensitive or allergic to any of our ingredients, EyEnvy<sup>®</sup> is probably not for you. We recommend usage every other day for sensitive eyes. Your results may take 2 extra weeks, but you will achieve results.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: WHEN WILL I SEE RESULTS?</h3>
+<p align="left">Everyone’s results may vary based on factors like age, sex, and application frequency. You may also achieve different results due to genetics, or if you are taking medication that affects your hormonal system. Typically most individuals <strong>start</strong> seeing results within 4-6 weeks. Full results are achieved within 3 months.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: HOW DO I MAINTAIN MY LONG LASHES?</h3>
+<p align="left">After daily use of EyEnvy<sup>®</sup> for 3 months we recommend applying our conditioner every other day. For sensitive eyes apply the conditioner every third day.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: I WEAR LASH EXTENSIONS, CAN I USE THIS PRODUCT?</h3>
+<p align="left">Yes. Because the product is applied to the skin and not the lashes it will not interfere with the bond of the glue. Make sure to wait 48 hours after your refill or full-set to allow the glue to adhere well. Many lash technicians recognize the benefits of using a lash conditioner with lash extensions for many reasons. The benefits of adding vitamins to the root of your lashes help to strengthen the bulb, disallowing the hair follicle from prematurely falling (due to the extra weight of an artificial lash). Due to the added length and volume of your lashes the technician can successfully increase more lash placement. Clients who want longer lashes but are limited due to their very short lashes can achieve longer length results because their lashes are long enough for the technician to apply even longer lashes which will adhere. Due to the increased density the technician may apply thicker lashes. We do recommend applying the product every other day while you are wearing individual lash extensions.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: HOW LONG DOES A TUBE OF EYENVY<sup>®</sup> LAST?</h3>
+<p align="left">A tube of 3.5ml of EyEnvy<sup>®</sup> will last up to five months and a tube of 2.0ml of EyEnvy<sup>TM</sup> will last up to 3 months if used daily as recommended. Once opened, the formula will remain active for 9 months. Unopened, a tube of EyEnvy<sup>®</sup> is good for 18 months.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: I WEAR CONTACT LENSES? CAN I USE EYENVY<sup>®</sup>?</h3>
+<p align="left">Yes. We recommend inserting contact lenses approximately 15 minutes <strong>after</strong> applying EyEnvy<sup>®</sup>.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: WHERE CAN I PURCHASE EYENVY<sup>®</sup>?</h3>
+<p align="left">EyEnvy<sup>®</sup> is Spa/Salon Exclusive. If you would like to purchase a tube kindly check our Locations to purchase section to find a location near you.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: MY EYES ARE IRRITATED, ITCHY, OR RED FROM THE PRODUCT, WHAT SHOULD I DO?</h3>
+<p align="left">The skin surrounding your eyes is highly sensitive. Certain individuals may be sensitive to one or more of the ingredients in EyEnvy<sup>®</sup>. Please take special care in following the application procedure. A high percentage of irritation for most clients is due to overuse or over application of our product. If mild or moderate redness or irritation occurs, discontinue use of the product at least temporarily until symptoms resolve.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: I NOTICED SOME SKIN DISCOLORATION WHERE I APPLY EYENVY<sup>TM</sup>, SHOULD I BE CONCERNED?</h3>
+<p align="left">Some customers have noted a slight darkening of the skin on the eyelid where they have applied EyEnvy<sup>®</sup>over a prolonged period of time. In most situations this will naturally fade with discontinued use of the product.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: IS EYENVY<sup>®</sup> SAFE DURING PREGNANCY AND/OR BREASTFEEDING?</h3>
+<p align="left">EyEnvy<sup>®</sup> has not been tested in all situations; therefore we do not recommend using EyEnvy<sup>®</sup>during pregnancy or breastfeeding.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: CAN I USE EYENVY<sup>®</sup> ON MY EYEBROWS?</h3>
+<p align="left">Yes. EyEnvy<sup>®</sup> can significantly improve the density of your eyebrows. Always keep in mind that if there has been any trauma to the eyebrow area which includes <strong>scar tissue, hair will not grow.</strong></p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: WHY IS IT BETTER TO PUT ON EYENVY<sup>®</sup> IN THE MORNING?</h3>
+<p align="left">The reason why EyEnvy<sup>®</sup> is best to be used in the morning is because studies have shown that when products near the eyes are applied at night, they have an increased chance of sensitivity to product due to various factors. When used in the morning the eye’s lacrimal glands are more active, sensitivity is reduced leading to a healthier experience with any product. Because we are unaware of the sensitivity levels of all clients we have created a general rule for everyone to use the product in the morning.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: CAN I APPLY MAKEUP AFTER USING EYENVY<sup>®</sup>?</h3>
+<p align="left">Yes, you can use all forms of make-up after applying EyEnvy. We suggest that you first apply EyEnvy<sup>®</sup> to a clean lid and then let it dry for 1-2 minutes. You may then apply make-up as usual.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: CAN I PUT ON MASCARA AFTER APPLYING EYENVY<sup>®</sup>?</h3>
+<p align="left">Yes. Mascara can be used 1-2 minutes after applying the serum. It is recommended to use the EyEnvy<sup>®</sup>&gt; mascara as it will also condition the lashes.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: I HAVE/HAD CANCER/TREATMENTS, CAN I USE EYENVY<sup>®</sup>?</h3>
+<p align="left">It is recommended to begin using EyEnvy 6 months after the last chemotherapy treatment. It will not have any interference, but rather because the effects of chemotherapy to kill cells in the body will not allow EyEnvy<sup>®</sup> to take its full effect. Thus, using EyEnvy<sup>®</sup> 6 months after treatment will ensure more accurate and stable results. Lastly, due to heightened sensitivity from chemotherapy, you should start use under the instructions for sensitive eyes, which would be to apply the product as instructed every other day.</p>
+</li>
+<li class="wow fadeInUp">
+<h3 align="left">Q: WHAT ARE THE INGREDIENTS IN EYENVY<sup>®</sup>?</h3>
+</li>
+<li class="wow fadeInUp">
+<p align="left">Water (Aqua), Myristoyl Pentapeptide 17, Butylene Glycol, Dextran, Acetyl Tetrapeptide 3, Trifolium Pratense (Clover) Flower Extract, Glycerin, Panthenol, Sodium Citrate, Leuconostroc/Radish Root Ferment Filtrate, Polysorbate 20, Gluconolactone, Vitis Vinifera (Grape) Seed Extract, Caprylyl Glycol, Sodium Benzoate, Hydroxyethylcellulose, Propylene Glycol, Yeast Extract, Ethylhexylglycerin, Sodium PCA, Sodium Lactate, Chamomilla Recutita (Matricaria) Flower Extract, Panax Ginseng Root Extract, Arginine, Aspartic Acid, PCA, Hydrolyzed Glycosaminoglycans, Glycine, Alanine, Serine, Valine, Isoleucine, Proline, Threonine, Tocopheryl Acetate, Histidine, Phenylalanine, Sodium Hyaluronate, Arctostaphylosa Uva-Ursi Leaf Extract, Magnisium Ascorbyl Phosphate, Phenoxyethanol, Benzoic Acid, Sodium, Metabisulfite, Triethanolamine.</p>
+</li>
+</ul>
+<h3 align="left"></h3>
+</li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/6676698300593</id>
+      <title>2ml - Lash Serum</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku/>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4471733846064</id>
+    <published>2021-04-24T18:13:34-07:00</published>
+    <updated>2021-04-24T18:13:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/eyenvy-eyelash-eyebrow-conditioner"/>
+    <title>EyEnvy Products</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/image_7b13d1dc-6237-4033-80eb-dcd28666f0a7.jpg?v=1622147061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br>
+Q: HOW DO I APPLY EYENVY<sup>®</sup>?
+<p align="left">Firstly, ensure that the eye lid is clean. Shake the ingredients in the bottle; remove the excess of product from the tip of the wand by stroking it on the neck of the bottle 3 times. Apply EyEnvy<sup>®</sup> to the skin of the eyelid from the exterior to the interior area. Apply in the morning every day for 3 months and every other day for maintenance.</p>
+<br>
+Q: WHAT IF I HAVE SENSITIVE EYES?
+<p align="left">We recognize that EyEnvy is not for everyone. If you are sensitive or allergic to any of our ingredients, EyEnvy<sup>®</sup> is probably not for you. We recommend usage every other day for sensitive eyes. Your results may take 2 extra weeks, but you will achieve results.</p>
+<br>
+Q: WHEN WILL I SEE RESULTS?
+<p align="left">Everyone’s results may vary based on factors like age, sex, and application frequency. You may also achieve different results due to genetics, or if you are taking medication that affects your hormonal system. Typically most individuals <strong>start</strong> seeing results within 4-6 weeks. Full results are achieved within 3 months.</p>
+<br>
+Q: HOW DO I MAINTAIN MY LONG LASHES?
+<p align="left">After daily use of EyEnvy<sup>®</sup> for 3 months we recommend applying our conditioner every other day. For sensitive eyes apply the conditioner every third day.</p>
+<br>
+Q: I WEAR LASH EXTENSIONS, CAN I USE THIS PRODUCT?
+<p align="left">Yes. Because the product is applied to the skin and not the lashes it will not interfere with the bond of the glue. Make sure to wait 48 hours after your refill or full-set to allow the glue to adhere well. Many lash technicians recognize the benefits of using a lash conditioner with lash extensions for many reasons. The benefits of adding vitamins to the root of your lashes help to strengthen the bulb, disallowing the hair follicle from prematurely falling (due to the extra weight of an artificial lash). Due to the added length and volume of your lashes the technician can successfully increase more lash placement. Clients who want longer lashes but are limited due to their very short lashes can achieve longer length results because their lashes are long enough for the technician to apply even longer lashes which will adhere. Due to the increased density the technician may apply thicker lashes. We do recommend applying the product every other day while you are wearing individual lash extensions.</p>
+<br>
+Q: HOW LONG DOES A TUBE OF EYENVY<sup>®</sup> LAST?
+<p align="left">A tube of 3.5ml of EyEnvy<sup>®</sup> will last up to five months and a tube of 2.0ml of EyEnvy<sup>TM</sup> will last up to 3 months if used daily as recommended. Once opened, the formula will remain active for 9 months. Unopened, a tube of EyEnvy<sup>®</sup> is good for 18 months.</p>
+<br>
+Q: I WEAR CONTACT LENSES? CAN I USE EYENVY<sup>®</sup>?
+<p align="left">Yes. We recommend inserting contact lenses approximately 15 minutes <strong>after</strong> applying EyEnvy<sup>®</sup>.</p>
+<br>
+Q: WHERE CAN I PURCHASE EYENVY<sup>®</sup>?
+<p align="left">EyEnvy<sup>®</sup> is Spa/Salon Exclusive. If you would like to purchase a tube kindly check our Locations to purchase section to find a location near you.</p>
+<br>
+Q: MY EYES ARE IRRITATED, ITCHY, OR RED FROM THE PRODUCT, WHAT SHOULD I DO?
+<p align="left">The skin surrounding your eyes is highly sensitive. Certain individuals may be sensitive to one or more of the ingredients in EyEnvy<sup>®</sup>. Please take special care in following the application procedure. A high percentage of irritation for most clients is due to overuse or over application of our product. If mild or moderate redness or irritation occurs, discontinue use of the product at least temporarily until symptoms resolve.</p>
+<br>
+Q: I NOTICED SOME SKIN DISCOLORATION WHERE I APPLY EYENVY<sup>TM</sup>, SHOULD I BE CONCERNED?
+<p align="left">Some customers have noted a slight darkening of the skin on the eyelid where they have applied EyEnvy<sup>®</sup>over a prolonged period of time. In most situations this will naturally fade with discontinued use of the product.</p>
+<br>
+Q: IS EYENVY<sup>®</sup> SAFE DURING PREGNANCY AND/OR BREASTFEEDING?
+<p align="left">EyEnvy<sup>®</sup> has not been tested in all situations; therefore we do not recommend using EyEnvy<sup>®</sup>during pregnancy or breastfeeding.</p>
+<br>
+Q: CAN I USE EYENVY<sup>®</sup> ON MY EYEBROWS?
+<p align="left">Yes. EyEnvy<sup>®</sup> can significantly improve the density of your eyebrows. Always keep in mind that if there has been any trauma to the eyebrow area which includes <strong>scar tissue, hair will not grow.</strong></p>
+<br>
+Q: WHY IS IT BETTER TO PUT ON EYENVY<sup>®</sup> IN THE MORNING?
+<p align="left">The reason why EyEnvy<sup>®</sup> is best to be used in the morning is because studies have shown that when products near the eyes are applied at night, they have an increased chance of sensitivity to product due to various factors. When used in the morning the eye’s lacrimal glands are more active, sensitivity is reduced leading to a healthier experience with any product. Because we are unaware of the sensitivity levels of all clients we have created a general rule for everyone to use the product in the morning.</p>
+<br>
+Q: CAN I APPLY MAKEUP AFTER USING EYENVY<sup>®</sup>?
+<p align="left">Yes, you can use all forms of make-up after applying EyEnvy. We suggest that you first apply EyEnvy<sup>®</sup> to a clean lid and then let it dry for 1-2 minutes. You may then apply make-up as usual.</p>
+<br>
+Q: CAN I PUT ON MASCARA AFTER APPLYING EYENVY<sup>®</sup>?
+<p align="left">Yes. Mascara can be used 1-2 minutes after applying the serum. It is recommended to use the EyEnvy<sup>®</sup>&gt; mascara as it will also condition the lashes.</p>
+<br>
+Q: I HAVE/HAD CANCER/TREATMENTS, CAN I USE EYENVY<sup>®</sup>?
+<p align="left">It is recommended to begin using EyEnvy 6 months after the last chemotherapy treatment. It will not have any interference, but rather because the effects of chemotherapy to kill cells in the body will not allow EyEnvy<sup>®</sup> to take its full effect. Thus, using EyEnvy<sup>®</sup> 6 months after treatment will ensure more accurate and stable results. Lastly, due to heightened sensitivity from chemotherapy, you should start use under the instructions for sensitive eyes, which would be to apply the product as instructed every other day.</p>
+<br>
+Q: WHAT ARE THE INGREDIENTS IN EYENVY<sup>®</sup>?
+<p align="left">Water (Aqua), Myristoyl Pentapeptide 17, Butylene Glycol, Dextran, Acetyl Tetrapeptide 3, Trifolium Pratense (Clover) Flower Extract, Glycerin, Panthenol, Sodium Citrate, Leuconostroc/Radish Root Ferment Filtrate, Polysorbate 20, Gluconolactone, Vitis Vinifera (Grape) Seed Extract, Caprylyl Glycol, Sodium Benzoate, Hydroxyethylcellulose, Propylene Glycol, Yeast Extract, Ethylhexylglycerin, Sodium PCA, Sodium Lactate, Chamomilla Recutita (Matricaria) Flower Extract, Panax Ginseng Root Extract, Arginine, Aspartic Acid, PCA, Hydrolyzed Glycosaminoglycans, Glycine, Alanine, Serine, Valine, Isoleucine, Proline, Threonine, Tocopheryl Acetate, Histidine, Phenylalanine, Sodium Hyaluronate, Arctostaphylosa Uva-Ursi Leaf Extract, Magnisium Ascorbyl Phosphate, Phenoxyethanol, Benzoic Acid, Sodium, Metabisulfite, Triethanolamine.</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/4471733846064</id>
+      <title>Fibre Mascara</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4471733846064</id>
+      <title>Define Mascara</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6537975988401</id>
+    <published>2021-02-24T14:39:55-08:00</published>
+    <updated>2021-02-24T14:39:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/ruthie-belle-cleaning-11"/>
+    <title>Ruthie Belle - Cleaning 11</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>RUTHIE BELLE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-02-24at2.34.53PM.png?v=1622150408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RUTHIE BELLE<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="description-tag-trigger" data-mce-fragment="1">Clean 11 Concentrate makes a high-quality pH balanced purifying foam that removes all makeup from the face and eyes, including waterproof mascara. The foam was initially invented for professional lash and brow artists, but is now available for home use. It can be used daily and is compatible with eyelash extensions.<br>
+</div>
+<div class="description-tag-content" data-mce-fragment="1">
+<p data-mce-fragment="1">- Removes all makeup, including waterproof mascara<br data-mce-fragment="1">- Suitable for eyes and entire face<br data-mce-fragment="1">- Compatible with eyelash extensions<br data-mce-fragment="1">- Produces foam that does not dehydrate lashes and skin<br data-mce-fragment="1">- Contains tea tree oil<br data-mce-fragment="1">- Helps prevent inflammation of the eyelids<br data-mce-fragment="1">- Suitable for professional and home use<br data-mce-fragment="1"> </p>
+</div>
+<div class="description-tag-trigger" data-mce-fragment="1"><strong>HOW IT WORKS</strong></div>
+<div class="description-tag-content" data-mce-fragment="1">
+<p data-mce-fragment="1">Ruthie Belle Eyeliner was developed specifically to be compatible with eyelash extension wearers and does not affect adhesive bonds. It creates a defined and deep black line that stays on well, but does not contain nano carbon black, the smallest and most popular carbon black that is used in cosmetic products. The smaller the carbon black particles that are used to make eyeliners black, the quicker they enter the human body, which can lead to irritation. The lack of nano carbon black makes this eyeliner suitable for even very sensitive eyes.<br data-mce-fragment="1"> </p>
+</div>
+<div class="description-tag-trigger" data-mce-fragment="1"><strong>HOW TO USE</strong></div>
+<div class="description-tag-content" data-mce-fragment="1">
+<p data-mce-fragment="1">NB: Only to be used diluted!<br data-mce-fragment="1">- Dilute 4ml of Clean 11 Concentrate per 60ml foamer with distilled water and 10ml of Clean 11 Concentrate per 170ml foamer with distilled water (empty foamers are available in our online shop)<br data-mce-fragment="1">- Apply foam and let it soak for 30 seconds<br data-mce-fragment="1">- Remove all eye makeup, including waterproof mascara<br data-mce-fragment="1">You can also use the foam made from Clean 11 Concentrate to remove makeup residue from eyelash extensions after applying eye makeup. Just use a tiny bit of foam on a mascara brush and brush through lashes until residue is gone. No need to rinse afterwards.<br data-mce-fragment="1"> </p>
+</div>
+<div class="description-tag-trigger" data-mce-fragment="1"><strong>PROFESSIONAL USE</strong></div>
+<div class="description-tag-content" data-mce-fragment="1">
+<p data-mce-fragment="1">NB: Only to be used diluted!<br data-mce-fragment="1">- Dilute Clean 11 Concentrate with 0.9% saline solution to make foam<br data-mce-fragment="1">- Apply foam and let it soak for 30 seconds<br data-mce-fragment="1">- Remove all eye makeup, including waterproof mascara<br data-mce-fragment="1"> </p>
+</div>
+<div class="description-tag-trigger" data-mce-fragment="1"><strong>INGREDIENTS</strong></div>
+<div class="description-tag-content" data-mce-fragment="1">
+<p data-mce-fragment="1">Aqua, PEG-40 Glyceryl Cocoate, Phenoxyethanol, Sodium Coceth Sulfate, Chlorphenesin, Melaleuca Alternifolia Leaf Oil, Caprylyl Glycol, Glycerin, Limonene</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lash shampoo</s:tag>
+    <s:tag>ruthie belle</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6537975988401</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6230721331377</id>
+    <published>2021-01-25T13:37:08-08:00</published>
+    <updated>2021-01-25T13:37:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/amaterasu-eyeliner-black"/>
+    <title>Amaterasu Eyeliner - Black</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-01-25at1.34.37PM.png?v=1622147385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">If you are looking for THE Liquid Eyeliner <em data-mce-fragment="1"><strong data-mce-fragment="1">(formerly 'The Geisha Liner')</strong></em>, that does it all, look no further! Amaterasu’s Liquid Eyeliner will not disappoint. The brush is meticulously hand assembled in Japan, using only the best quality microfibre that will not fray. It is known as the ultimate brush tip for perfect application in the makeup industry.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Even newbies or those with super unsteady hands can easily create the most polished looks with this eyeliner. If you think only makeup artists can help you achieve perfectly lined eyes, think again! This eyeliner is a game changer.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">The other key feature of this eyeliner is in its staying power. Brand Creator Sara Au Yeong tested the eyeliner in every possible condition where it might smudge: the shower, massages, workouts, and on her trips to Asia in over 40 degree Celsius weather. It stays on beautifully every time. Some of our clients even took it on camping trips where this product earned its nickname "The 24-hour Eyeliner."</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">At Amaterasu, we believe purity is just as important as performance so we have continued to perfect this formula; even the most sensitive individuals can wear it. As with all Amaterasu makeup, this Liquid Eyeliner is paraben-free and phthalate-free. The clean ingredients and unique formulation ensures that you can use these products with peace of mind.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Weight: 0.6 ml / 0.02 fl oz</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Waterproof</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Smudge-proof</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Micro-fiber Tip Brush</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">24 hour formula</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Paraben and Phthalate Free</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AMATERASU</s:tag>
+    <s:tag>eyeliner</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6230721331377</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6187162140849</id>
+    <published>2021-01-08T13:59:10-08:00</published>
+    <updated>2021-01-08T13:59:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lbla-break-up-with-your-makeup-makeup-remover-mitts"/>
+    <title>LBLA Break Up with Your Makeup - Makeup Remover Mitts</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>LASHBOXLA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/lashbox-la-make-up-mitts_300x_5662f05b-8f61-4488-b683-87ae116d5187.jpg?v=1610143151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LASHBOXLA<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="smart-tabs-untabbed-content" data-mce-fragment="1">
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>REMOVES MAKEUP FAST</strong>: Package of 2 reusable makeup removing cloth finger mitts that wipe away makeup, dirt and oil in just seconds.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>REUSABLE &amp; MACHINE WASHABLE</strong>: These cloth mitts fit over your fingers to clean smaller, precision areas like the lash line and lips and are machine washable - throw in the wash to use again and again.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>FREE OF CHEMICALS</strong>: Using only warm water or with Lashbox LA Bubble Wash. These ultra-soft, woven polyester-blend cloths get rid of tough makeup without leaving behind residue - just fresh, healthy soft, skin.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>FOR BEST RESULTS</strong>: Completely soak cloth in water or Lashbox LA Bubble Wash and use circular motions on your face, being gentle around the eye area. Rinse and lay flat to dry.</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LBLA</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>remover</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6187162140849</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>54</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6135783063729</id>
+    <published>2020-12-12T11:52:46-08:00</published>
+    <updated>2020-12-12T11:52:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/revolashion-cleansing-brushes"/>
+    <title>REVOLASHION Cleansing Brush</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>REVOLASHION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/REVOLASHIONCleansingBrushes.jpg?v=1607802767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>REVOLASHION<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">Rub-A-Dub-Dub! You know you gotta scrub, scrub, scrub! All together now!</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Makeup residue, debris, impurities and oils – #youcantsitwithus</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">What better way to promote client aftercare then by providing them with the proper tools to do it!</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Our acrylic cleansing brushes aren’t just hella cute, but they are a total must have for every workstation + retail shelf!</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Help clients protect their fluffy investment and get the most out of their extensions by integrating this item into their routine.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">These brushes are specifically designed for lash aftercare. Super soft yet firm enough for the deepest clean for any lash line to keep it healthy and fluffy. Each brush comes with a snap-on cap to keep the brushes clean on-the-go.</span></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">SPECS</b></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Clear snap-on plastic protective cap included</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Acrylic handle</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Synthetic nylon bristles, vegan.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Bristles do not have a cuticle to reduce oil and pigment absorption.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Size: 13.5cm in length</span></li>
+</ul>
+<p><b>USE</b></p>
+<ul>
+<li>
+<span>This is an item that should not be used on more than </span><i><span>one client </span></i><span>in-studio.</span><span> </span>
+</li>
+<li><span>Throw away after each in-studio use or give to client to take home.</span></li>
+<li><span>Use with gentle, non-burning cleanser or shampoo specifically formulated to be eyelash extension friendly. Do not use with DIY or store bought cleansers intended for other purposes.</span></li>
+<li><span>Can also be used in conjunction with makeup removers.</span></li>
+<li><span>Clean brushes using makeup brush cleanser or soap and warm water. Do not use any sterilizing agents such as barbicide.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>revolashion</s:tag>
+    <s:tag>tools</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6135783063729</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6130644648113</id>
+    <published>2020-12-10T14:16:38-08:00</published>
+    <updated>2020-12-10T14:16:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/borboleta-angled-cleansing-brush"/>
+    <title>Borboleta - Angled Cleansing Brush</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>BORBOLETA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/angledbrush1.jpg?v=1622147015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BORBOLETA<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-mce-fragment="1">The Angled Lash Cleansing Brush is a key tool to achieving clean lashes. Its soft, flexible bristles and angled shape <span data-mce-fragment="1">allows for optimum, gentle movement between the lashes for the deepest clean - </span><span data-mce-fragment="1">that's what gives the most longevity to your lashes! <br data-mce-fragment="1"><br data-mce-fragment="1"></span>
+</div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div data-mce-fragment="1">
+<div data-mce-fragment="1"><strong data-mce-fragment="1">USES:</strong></div>
+<div data-mce-fragment="1">Start off every lash appointment using our<span data-mce-fragment="1"> </span><a href="https://borboletabeauty.com/products/lash-cleansing-brush-set" data-mce-fragment="1" data-mce-href="https://borboletabeauty.com/products/lash-cleansing-brush-set">Cleansing Brush Set</a><span data-mce-fragment="1"> </span>and Foam Lash Cleanser to make your life as an artist much easier as far as application, lash retention and customer referrals.<br data-mce-fragment="1"><br data-mce-fragment="1">
+</div>
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Send eyelash extension brushes and cleanser home with your clients, or sell them at your salon to help your clients m</span><span data-mce-fragment="1">aintain a healthy, clean lash routine.<br data-mce-fragment="1"><br data-mce-fragment="1"></span>
+</div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div data-mce-fragment="1"><b data-mce-fragment="1">RECOMMENDATION:</b></div>
+<div data-mce-fragment="1">The eyelash extension brush pairs perfectly with our<span data-mce-fragment="1"> </span><a href="https://borboletabeauty.com/collections/accessories/products/lash-cleanser" data-mce-fragment="1" data-mce-href="https://borboletabeauty.com/collections/accessories/products/lash-cleanser">Cleanser for Eyelash Extensions</a>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/6130644648113</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6130351603889</id>
+    <published>2020-12-10T14:16:23-08:00</published>
+    <updated>2020-12-10T14:16:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/borboleta-lash-dreamer-set"/>
+    <title>Borboleta - Lash Dreamer Set</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>BORBOLETA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Borboleta-Holiday-Kit-2020_grande_7c33d8cd-8df4-4977-8c85-c52002659589.jpg?v=1622148546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BORBOLETA<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Sweet dreams are made of this: our cult-favorite <strong>Lash Serum and Cooldown Eye Masks</strong> (5 pack), paired with a matching luxe pillowcase and scrunchie, stashed into an eye-catching collectible case—a rectangular cube for easy access and max visibility. Made of matte faux-silk, the pillowcase decreases the look of wrinkles, smoothes hair by reducing frizz and split ends, and gently protects your lashes, so you wake up feeling lush and fresh. All together you have the perfect gift for any lash dreamer in your life (including you).<br></p>
+<p data-mce-fragment="1"><span data-stringify-type="paragraph-break" class="c-mrkdwn__br" data-mce-fragment="1"></span><span data-stringify-type="paragraph-break" class="c-mrkdwn__br" data-mce-fragment="1"></span><span data-mce-fragment="1">If you secured a collectible case last year you’ll find this one to be the perfect addition with its matching material. If you haven’t started your collection yet, it’s never too late. Grab one before they’re gone!</span></p>
+<span data-mce-fragment="1">Lash Dreamer Set Contents:</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Full-Size Borboleta Lash Serum</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Cooldown Calming Eye Masks (5-pack)</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Luxe pillowcase</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Scrunchie</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Collectible case</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aftercare</s:tag>
+    <s:tag>borboleta</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6130351603889</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6114013970609</id>
+    <published>2020-12-02T13:00:34-08:00</published>
+    <updated>2020-12-02T13:00:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/eye-define-black-liquid-eyeliner"/>
+    <title>Eye Define Black Liquid Eyeliner</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>EYENVY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/EyE-Define.jpg?v=1622147950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EYENVY<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">EyE Define is the latest trend for creating that perfect black line. EyE Define is an impressive black, liquid eyeliner. The ergonomics of the EyE Define offers effortless manipulation and its formula not only glides easily as a water-resistant line, but  also helps to make it easy to create precision when applying a liquid eyeliner!</span></p>
+<p><strong>Ingredients:</strong>﻿ <span data-mce-fragment="1">Water, Styrene/Acrylates, Copolymer, Ci77266, Ammonium, propylene Glycol, Sodium Laureth-12, Sulfate, Phenoxyethanol, Tocopheryl Acetate</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye liner</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6114013970609</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4627322765360</id>
+    <published>2020-07-13T19:55:05-07:00</published>
+    <updated>2020-07-13T19:55:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/max2originale-lash-sealant-1"/>
+    <title>Max2Originale - Lash Sealant</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>MAX2LASH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/image.png?v=1594695369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAX2LASH<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p> </p>
+<h3>ㆍProtects extended eyelashes from moisture, oils, perspiration, dust, and debris. <br>ㆍThis specialized formula shapes and holds eyelash extensions into place. <br>ㆍProlongs the life of eyelash extensions <br>ㆍColor : Clear/Black/Blue <br>ㆍType : Mascara Brush/ Pen Brush <br>ㆍ10ML <br><br><br><b>HOW TO USE : </b><br>ㆍApply Coating Sealant 10 minutes after the eyelash extension procedure. <br>ㆍRe-apply to eyelashes every 2-3 days. <br>ㆍApply sparingly and build up coverage from roots to tips. <br>ㆍUse before make up. <br><br><br><b>CAUTIONS : </b><br>Do not use max2 Lash Coating Sealant if you are over sensitive or allergic to this product. Do not use max2 Lash Coating Sealant if you have any disorder or open wound around the eye. Keep away from children. Avoid direct sunlight.</h3>
+<div class="f1 animate stack"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cosmetic</s:tag>
+    <s:tag>MAX2LASH</s:tag>
+    <s:tag>max2originale</s:tag>
+    <s:tag>Special Mascara Gold</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4627322765360</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4603321057328</id>
+    <published>2020-06-19T18:49:03-07:00</published>
+    <updated>2020-06-19T18:49:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/foam-bottles"/>
+    <title>Empty Foam Bottle</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/1pcs-50ml-Plastic-Clear-Foaming-Bottle-Soap-Mousses-Liquid-Dispenser-Froth-Pump-Shampoo-Lotion-Bottling-Foam.jpg?v=1622147747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Foaming pump adds the needed air to turn your favourite liquid soap into a rich foam! </span></p>
+<p><span data-mce-fragment="1">*Combine 1 part liquid soap with 8 parts water or fill with foaming soap solution, dilute with more water if needed*</span></p>
+<p><span data-mce-fragment="1">50ml</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aftercare</s:tag>
+    <s:tag>Bottle</s:tag>
+    <s:tag>Foam</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4603321057328</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4486442549296</id>
+    <published>2020-03-31T17:07:29-07:00</published>
+    <updated>2020-03-31T17:07:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/copy-of-borboleta-break-down-makeup-remover"/>
+    <title>Borboleta Break Down - Travel Makeup Remover</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>BORBOLETA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Aftercare-minis-onwater-breakdown-1024x1024_1_1024x1024_e2014be9-d614-4a8f-a83f-85f7ff46f387.jpg?v=1622147300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BORBOLETA<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span data-sheets-value='{"1":2,"2":"Finally, a makeup remover that’s gentle, powerful, yet totally lash-safe. Our innovative, oil-free formula feels like water, yet emulsifies on contact to completely dissolve even long-wear eye makeup. No rubbing, no tugging and, best of all, no damage to your lashes! And unlike other removers, there’s no greasy residue. Formulated with fatty acids to dissolve makeup and prevent moisture loss, Breakdown works so well, you’ll want to use it even when you’re not wearing lashes."}' data-sheets-userformat='{"2":15167,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'>Finally, a makeup remover that’s gentle, powerful, yet totally lash-safe. Our innovative, oil-free formula feels like water, yet emulsifies on contact to completely dissolve even long-wear eye makeup. No rubbing, no tugging and, best of all, no damage to your lashes! And unlike other removers, there’s no greasy residue. Formulated with fatty acids to dissolve makeup and prevent moisture loss, Breakdown works so well, you’ll want to use it even when you’re not wearing lashes.</span></p>
+<p>Size<b>:</b> 30<b> </b>mL/ 1 fl oz.</p>
+<p> </p>
+<p><strong>HOW TO USE:</strong></p>
+<p>Saturate <a href="https://cartellash.ca/collections/borboleta/products/new-borboleta-cleansing-brush-with-drying-stand" target="_blank" rel="noopener noreferrer">Clean Swoop Brush</a> with Breakdown, gently working into the lash line and around the eye area to dissolve makeup. Wet brush with water and run over lashes to rinse. Pat dry.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aftercare</s:tag>
+    <s:tag>borboleta</s:tag>
+    <s:tag>cosmetic</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>remover</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4486442549296</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>89</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4486436651056</id>
+    <published>2020-03-31T17:03:10-07:00</published>
+    <updated>2020-03-31T17:03:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/copy-of-borboleta-lash-bath-gel-cleanser"/>
+    <title>Borboleta Lash Bath - Travel Gel Cleanser</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>BORBOLETA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Aftercare-minis-onwater-lashbath-1024x1024_1024x1024_107c89ad-9456-4c2f-bf9e-36596ebf7eab.jpg?v=1622147040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BORBOLETA<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"Custom all new formulas keep lids and lashes clean, healthy and nourished. Formulated with targeted ingredients like moisture-binding hyaluronic acid and amino acids to replenish and hydrate for more youthful looking skin while strengthening and conditioning natural lashes. "}' data-sheets-userformat='{"2":15167,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}' data-mce-fragment="1">Custom all new formulas keep lids and lashes clean, healthy and nourished. Formulated with targeted ingredients like moisture-binding hyaluronic acid and amino acids to replenish and hydrate for more youthful looking skin while strengthening and conditioning natural lashes.</span> </p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"Custom all new formulas keep lids and lashes clean, healthy and nourished. Formulated with targeted ingredients like moisture-binding hyaluronic acid and amino acids to replenish and hydrate for more youthful looking skin while strengthening and conditioning natural lashes. "}' data-sheets-userformat='{"2":15167,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}' data-mce-fragment="1">Use once daily for best results.<br data-mce-fragment="1"><br data-mce-fragment="1">Use to clean pre-application and to break down fumes and remove residue post-application. <br data-mce-fragment="1"><br data-mce-fragment="1"></span></p>
+<p data-mce-fragment="1">Size<strong data-mce-fragment="1">:</strong><span data-mce-fragment="1"> 15ml / .05 fl oz</span> </p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"Custom all new formulas keep lids and lashes clean, healthy and nourished. Formulated with targeted ingredients like moisture-binding hyaluronic acid and amino acids to replenish and hydrate for more youthful looking skin while strengthening and conditioning natural lashes. "}' data-sheets-userformat='{"2":15167,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}' data-mce-fragment="1"><strong data-mce-fragment="1">DIRECTIONS:</strong> Dispense a dime sized amount of Lash Bath Gel into palm of hand. Wet Borboleta Clean Swoop Brush and swirl to create a lather. Apply to lids and gently brush through lashes. To finish, use Clean Swoop to rinse lids and lashes with water. Pat dry. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aftercare</s:tag>
+    <s:tag>borboleta</s:tag>
+    <s:tag>cleanser</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>lashbath</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4486436651056</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>39</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4471732174896</id>
+    <published>2020-03-12T11:42:55-07:00</published>
+    <updated>2020-03-12T11:42:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/dr-belter-make-up-remover"/>
+    <title>Dr. Belter Make-up Remover</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>DR.BELTER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/88bb10_8d8d93a67f61495694cb7ac4b3bd2c85.jpg?v=1622148142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DR.BELTER<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Radiant eyes reflect your inner beauty…</span></p>
+<p><span style="font-weight: 400;">They deserve to be given the best care and attention.</span></p>
+<p><span style="font-weight: 400;">Eyes can tell tales. Tales of our soul and mental state. Sometimes tales of sleepless nights, worry and fatigue.</span></p>
+<p><span style="font-weight: 400;">Due to its fragile anatomy and constant facial expressions the eye area is particularly in need of timely, specific and gentle care.</span></p>
+<p><span style="font-weight: 400;">Line »ocula« achieves a successful balance of natural, skin identical especially compatible ingredients combined with effective, highly innovative yet non-irritant actives.</span></p>
+<p><span style="font-weight: 400;">The »ocula« products have a wonderfully relaxing and calming effect on the eyes, reducing dryness, wrinkles and puffiness while preventing premature tissue exhaustion. Our special tip for the beauty of your eyes: sunglasses are an essential you should never be without!</span></p>
+<p><span style="font-weight: 400;">The »ocula« care line is suitable for any age - prevention is better than cure.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aftercare</s:tag>
+    <s:tag>Dr.Belter</s:tag>
+    <s:tag>Makeup</s:tag>
+    <s:tag>Remover</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4471732174896</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4440937037872</id>
+    <published>2020-02-05T16:06:54-08:00</published>
+    <updated>2020-02-05T16:06:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/borboleta-makeup-remover-1"/>
+    <title>Borboleta Makeup Remover</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>BORBOLETA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ProductPhoto_MakeupRemover_Table-Web_1024x1024_ffca65e4-597c-4e55-8fca-9993fd59f12f.jpg?v=1622146635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BORBOLETA<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"> </p>
+<div style="text-align: left;" data-mce-fragment="1">Borboleta just launched their first ever makeup remover. Now you can safely remove your eye makeup while keeping lashes secure. <span>This product is water-based and 100% oil-free. It contains ingredients that gently dissolve makeup from eyeliner, mascara, eye-shadow, lips and brows, removing everything but your lashes. </span>
+</div>
+<div style="text-align: left;"><span></span></div>
+<div style="text-align: left;">
+<span>Since its ingredients are so gentle but powerful, it doesn’t cause physical strain on the lash extensions, making for great retention.  </span><span></span>  </div>
+<div style="text-align: left;" data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"Finally, a makeup remover that’s gentle, powerful, yet totally lash-safe. Our innovative, oil-free formula feels like water, yet emulsifies on contact to completely dissolve even long-wear eye makeup. No rubbing, no tugging and, best of all, no damage to your lashes! And unlike other removers, there’s no greasy residue. Formulated with fatty acids to dissolve makeup and prevent moisture loss, Breakdown works so well, you’ll want to use it even when you’re not wearing lashes."}' data-sheets-userformat='{"2":15167,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}' data-mce-fragment="1"><strong data-mce-fragment="1"></strong></span></div>
+<div style="text-align: left;" data-mce-fragment="1">
+<span data-sheets-value='{"1":2,"2":"Finally, a makeup remover that’s gentle, powerful, yet totally lash-safe. Our innovative, oil-free formula feels like water, yet emulsifies on contact to completely dissolve even long-wear eye makeup. No rubbing, no tugging and, best of all, no damage to your lashes! And unlike other removers, there’s no greasy residue. Formulated with fatty acids to dissolve makeup and prevent moisture loss, Breakdown works so well, you’ll want to use it even when you’re not wearing lashes."}' data-sheets-userformat='{"2":15167,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}' data-mce-fragment="1"><strong data-mce-fragment="1">DIRECTIONS:</strong> </span>Saturate Clean Swoop Brush with makeup remover, gently working into lash line and around eye area to dissolve makeup. Wet brush with water and run over lashes to rinse.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aftercare</s:tag>
+    <s:tag>borboleta</s:tag>
+    <s:tag>cosmetic</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>remover</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4440937037872</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>126</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4371403341872</id>
+    <published>2019-11-29T16:59:18-08:00</published>
+    <updated>2019-11-29T16:59:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lbla-bubble-lash-shampoo"/>
+    <title>LBLA Bubble Lash Shampoo</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>LASHBOXLA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Bubble_Lash_Shampoo.jpg?v=1623187802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LASHBOXLA<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A very gentle, non-burning formula which was developed using the same PH as your skin, used to keep eyelids healthy and clean. Perfect for everyday use. Foam will remove all proteins and impurities from lashes. </span></p>
+<p><span>Perfect to use daily as a make up remover and also for deep cleaning before lash extensions are applied. </span></p>
+<p>150ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/4371403341872</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4180126564400</id>
+    <published>2019-10-09T14:27:49-07:00</published>
+    <updated>2019-10-09T14:27:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/new-borboleta-cleansing-brush-with-drying-stand"/>
+    <title>Borboleta Cleansing Brush With Drying Stand</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>BORBOLETA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Borboleta_CleanSwoopBrush.jpg?v=1622146662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BORBOLETA<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Makeup and residue don't stand a chance. This brush hugs the lash line for a deep, gentle cleanse, and the custom stand keeps it clean and dry between uses. Snap into drying stand and store upright to dry&quot;}" data-sheets-userformat='{"2":15167,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'>Makeup and residue don't stand a chance. This brush hugs the lash line for a deep, gentle cleanse, and the custom stand keeps it clean and dry between uses. Snap into drying stand and store upright to dry.</span></p>
+<p><span data-sheets-value='{"1":2,"2":"To remove makeup, use with Breakdown, working into lashline and lids. Once makeup is loosened, run brush under water to rinse product from brush and through lashes to rinse product from eyes. Pat eyes gently with a towel to dry.  To cleanse lashes, dispense Lash Bath into palm of hand and swirl to create a lather or use brush to pick up foam. Apply to eye area and lashes by swooping brush over and under lashes. Run brush under water to rinse product from brush and through lashes to rinse product from eyes. Pat eyes gently with a towel to dry. Gently squeeze any excess water from brush before snapping into drying stand and storing upright to dry. If brush aquires any excess makeup remover or oil over time, gently cleanse bristles with shampoo, rinse with water, squeeze excess water from brush and dry in stand. "}' data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":0,"10":0,"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'><strong>DIRECTIONS:</strong> </span></p>
+<p><strong>To remove makeup</strong>, use with Breakdown, working into lashline and lids. Once makeup is loosened, run brush under water to rinse product from brush and through lashes to rinse product from eyes. Pat eyes gently with a towel to dry.</p>
+<p><strong>To cleanse lashes</strong>, dispense Lash Bath into palm of hand and swirl to create a lather or use brush to pick up foam. Apply to eye area and lashes by swooping brush over and under lashes. Run brush under water to rinse product from brush and through lashes to rinse product from eyes. Pat eyes gently with a towel to dry. Gently squeeze any excess water from brush before snapping into drying stand and storing upright to dry. If brush acquires any excess makeup remover or oil over time, gently cleanse bristles with shampoo, rinse with water, squeeze excess water from brush and dry in stand.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aftercare</s:tag>
+    <s:tag>borboleta</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4180126564400</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/3743094341680</id>
+    <published>2019-05-27T17:51:52-07:00</published>
+    <updated>2019-05-27T17:51:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/borboleta-lash-sealant"/>
+    <title>Borboleta Lash Sealant</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>BORBOLETA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ProductPhoto_ClearSealant_Table-Web_1024x1024_c28a1d80-72b9-48dd-8c44-cf139b9efcfe.jpg?v=1606697394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BORBOLETA<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Borboleta Beauty's unique clear eyelash extension sealer adds shine to classic eyelash extensions while creating a protective barrier, helping to repel dust and dirt. </span><span data-mce-fragment="1">We especially love this coating for lash extensions in more humid climates.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aftercare</s:tag>
+    <s:tag>borboleta</s:tag>
+    <s:tag>sealant</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/3743094341680</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>19000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/3743091261488</id>
+    <published>2019-05-27T17:50:18-07:00</published>
+    <updated>2019-05-27T17:50:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/borboleta-lash-bath-gel"/>
+    <title>Borboleta Lash Bath - Gel Cleanser</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>BORBOLETA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Borboleta_LashBathGel.jpg?v=1622147312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BORBOLETA<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"Custom all new formulas keep lids and lashes clean, healthy and nourished. Formulated with targeted ingredients like moisture-binding hyaluronic acid and amino acids to replenish and hydrate for more youthful looking skin while strengthening and conditioning natural lashes. "}' data-sheets-userformat='{"2":15167,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}' data-mce-fragment="1">Custom all new formulas keep lids and lashes clean, healthy and nourished. Formulated with targeted ingredients like moisture-binding hyaluronic acid and amino acids to replenish and hydrate for more youthful looking skin while strengthening and conditioning natural lashes.</span> </p>
+<p data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"Custom all new formulas keep lids and lashes clean, healthy and nourished. Formulated with targeted ingredients like moisture-binding hyaluronic acid and amino acids to replenish and hydrate for more youthful looking skin while strengthening and conditioning natural lashes. "}' data-sheets-userformat='{"2":15167,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}' data-mce-fragment="1">Use once daily for best results.<br data-mce-fragment="1"><br data-mce-fragment="1">Use to clean pre-application and to break down fumes and remove residue post-application. <br data-mce-fragment="1"><br data-mce-fragment="1"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Size</span><strong data-mce-fragment="1">:</strong><span data-mce-fragment="1"> 50ml / 1.7 fl oz</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"Custom all new formulas keep lids and lashes clean, healthy and nourished. Formulated with targeted ingredients like moisture-binding hyaluronic acid and amino acids to replenish and hydrate for more youthful looking skin while strengthening and conditioning natural lashes. "}' data-sheets-userformat='{"2":15167,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}' data-mce-fragment="1"><strong data-mce-fragment="1">DIRECTIONS:</strong> Dispense a dime sized amount of Lash Bath Gel into palm of hand. Wet <a href="https://cartellash.ca/collections/borboleta/products/new-borboleta-cleansing-brush-with-drying-stand" target="_blank">Borboleta Clean Swoop Brush</a> and swirl to create a lather. Apply to lids and gently brush through lashes. To finish, use Clean Swoop to rinse lids and lashes with water. Pat dry. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aftercare</s:tag>
+    <s:tag>borboleta</s:tag>
+    <s:tag>cleanser</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>lashbath</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/3743091261488</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>69</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/3743089295408</id>
+    <published>2019-05-27T17:48:49-07:00</published>
+    <updated>2019-05-27T17:48:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/borboleta-makeup-remover"/>
+    <title>Borboleta Break Down - Makeup Remover</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>BORBOLETA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Borboleta_MakeupRemover.jpg?v=1622147452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BORBOLETA<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span data-sheets-value='{"1":2,"2":"Finally, a makeup remover that’s gentle, powerful, yet totally lash-safe. Our innovative, oil-free formula feels like water, yet emulsifies on contact to completely dissolve even long-wear eye makeup. No rubbing, no tugging and, best of all, no damage to your lashes! And unlike other removers, there’s no greasy residue. Formulated with fatty acids to dissolve makeup and prevent moisture loss, Breakdown works so well, you’ll want to use it even when you’re not wearing lashes."}' data-sheets-userformat='{"2":15167,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'>Finally, a makeup remover that’s gentle, powerful, yet totally lash-safe. Our innovative, oil-free formula feels like water, yet emulsifies on contact to completely dissolve even long-wear eye makeup. No rubbing, no tugging and, best of all, no damage to your lashes! And unlike other removers, there’s no greasy residue. Formulated with fatty acids to dissolve makeup and prevent moisture loss, Breakdown works so well, you’ll want to use it even when you’re not wearing lashes.</span></p>
+<p><span>Size</span><strong>:</strong><span> 100ml / 3.38 fl oz</span></p>
+<p><span></span><span>HOW TO USE:</span></p>
+<p>Saturate <a href="https://cartellash.ca/collections/borboleta/products/new-borboleta-cleansing-brush-with-drying-stand" target="_blank" rel="noopener noreferrer">Clean Swoop Brush</a> with Breakdown, gently working into the lash line and around the eye area to dissolve makeup. Wet brush with water and run over lashes to rinse. Pat dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aftercare</s:tag>
+    <s:tag>borboleta</s:tag>
+    <s:tag>cosmetic</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>remover</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/3743089295408</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cartellash.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cartellash.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cartellash.ca/collections/lash-artisan-1.atom"/>
+  <title>CARTEL LASH &amp; SUPPLY CO</title>
+  <updated>2020-12-07T12:13:49-08:00</updated>
+  <author>
+    <name>CARTEL LASH &amp; SUPPLY CO</name>
+  </author>
+  <entry>
+    <id>https://cartellash.ca/products/6122269278385</id>
+    <published>2020-12-07T12:13:49-08:00</published>
+    <updated>2020-12-07T12:13:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lash-artisan-blush-small-lashbox"/>
+    <title>Lash Artisan - Blush Small Lashbox</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>LASH ARTISAN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Blushsm1.jpg?v=1622150561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LASH ARTISAN<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">The Lash Artisan Small Blush Lashbox™ was designed with a lash professional in mind. This box keeps all your lash tiles in one neat and convenient place, with a double sided feature. Our Lashbox™ is of the highest quality crystal clear acrylic and has 3 acrylic printed trays with lines and numbers for easy classification and organization of lash types.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Small 3 Tile Lash Box - 118x82x128mm, tiles size: 108x118mm</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/6122269278385</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6122263806129</id>
+    <published>2020-12-07T12:06:45-08:00</published>
+    <updated>2020-12-07T12:06:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lash-artisan-mattonella-lash-palette"/>
+    <title>Lash Artisan - Mattonella Lash Palette</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>LASH ARTISAN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Mattonella1.jpg?v=1622150658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LASH ARTISAN<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">The newly designed Lash Artisan Mattonella Palette has being revamped</span></p>
+<p data-mce-fragment="1">• heavier tile and rubber stopper to prevent sliding</p>
+<p data-mce-fragment="1">• larger size to allow for 2 strips side by side</p>
+<p data-mce-fragment="1">• lines to note your curl and diameter on tiles</p>
+<p data-mce-fragment="1">• cover to keep your lashes hygienic</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/6122263806129</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6122260463793</id>
+    <published>2020-12-07T12:03:24-08:00</published>
+    <updated>2020-12-07T12:03:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/chiara-lashbox"/>
+    <title>Lash Artisan - Chiara Lashbox</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>LASH ARTISAN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Chiaralashbox.jpg?v=1607371352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LASH ARTISAN<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">The Lash Artisan Chiara Lashbox™ was designed with a lash professional in mind. This box keeps all your lash tiles in one neat and convenient place, with a double sided feature. Our Lashbox™ is of the highest quality crystal clear acrylic and has acrylic printed trays with lines for easy classification and organization of lash types. </span></p>
+<p data-mce-fragment="1">Features:</p>
+<p data-mce-fragment="1">heavy double tiles</p>
+<p data-mce-fragment="1">rubber stoppers on the bottom of tiles to prevent moving while lashing</p>
+<p data-mce-fragment="1">6 Tiles included per box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/6122260463793</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

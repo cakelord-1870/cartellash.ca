@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cartellash.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cartellash.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cartellash.ca/collections/tape.atom"/>
+  <title>CARTEL LASH &amp; SUPPLY CO</title>
+  <updated>2021-08-18T11:56:53-07:00</updated>
+  <author>
+    <name>CARTEL LASH &amp; SUPPLY CO</name>
+  </author>
+  <entry>
+    <id>https://cartellash.ca/products/6890456678577</id>
+    <published>2021-08-18T11:56:53-07:00</published>
+    <updated>2021-08-18T11:56:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/white-tape-dispenser"/>
+    <title>White Tape Dispenser</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-18at11.35.15AM.png?v=1629313013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tape Dispenser</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890456678577</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6569393127601</id>
+    <published>2021-03-09T14:28:40-08:00</published>
+    <updated>2021-03-09T14:28:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/pink-heart-tape-dispenser"/>
+    <title>Pink Heart Tape Dispenser</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-03-09at2.24.15PM.png?v=1615328721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Heart</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Tape dispenser</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6569393127601</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6187148738737</id>
+    <published>2021-01-08T13:51:33-08:00</published>
+    <updated>2021-01-08T13:51:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/silicone-clear-gel-tape"/>
+    <title>Silicone Clear Gel Tape</title>
+    <s:type>Application</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Silicone-Gel-Tape-1_1024x1024_0917fc81-3cbd-4041-a89a-89faff86bfa8.jpg?v=1622146623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive tape</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>silicone</s:tag>
+    <s:tag>tools</s:tag>
+    <s:tag>tools for extension</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6187148738737</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6187140186289</id>
+    <published>2021-01-08T13:48:03-08:00</published>
+    <updated>2021-01-08T13:48:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/sensitive-tape"/>
+    <title>Nichiban - Sensitive Tape (Japan)</title>
+    <s:type>Application</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Nichiban-Tape-for-Eyelash-Extension14.jpg?v=1622146084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive tape</s:tag>
+    <s:tag>sensitive</s:tag>
+    <s:tag>tools</s:tag>
+    <s:tag>tools for extension</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6187140186289</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6144270598321</id>
+    <published>2020-12-15T12:40:26-08:00</published>
+    <updated>2020-12-15T12:40:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/micropore-medical-tape"/>
+    <title>Micropore Medical Tape</title>
+    <s:type>Application</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2020-12-15at12.30.55PM.png?v=1622144395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><b data-mce-fragment="1">Feature:</b><br data-mce-fragment="1"><span data-mce-fragment="1">- Eyelash Tape can be used to isolate upper eyelashes and lower lashes during eyelash extension procedure.</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Fabric medical material, breathable, will not hurt your skin.</span><br data-mce-fragment="1"><span data-mce-fragment="1">- The lash tape has good adhesive and easy to tear and can be cut into any shape.</span><br data-mce-fragment="1"><span data-mce-fragment="1">-Suitable for makeup salon, cosmetics studio, makeup artist, professional and personal use.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><b data-mce-fragment="1">Specifications:</b><br data-mce-fragment="1"><span data-mce-fragment="1">Material: Polyolefin film</span><br data-mce-fragment="1"><span data-mce-fragment="1">Color: Green, Pink</span><br data-mce-fragment="1"><span data-mce-fragment="1">Product size: 0.5 inch x 10 yard</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cartel</s:tag>
+    <s:tag>Tape</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6144270598321</id>
+      <title>Green</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6144270598321</id>
+      <title>Pink</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/3685558616112</id>
+    <published>2019-05-22T13:39:30-07:00</published>
+    <updated>2019-05-22T13:39:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lash-tape-dispenser"/>
+    <title>Lash Tape Dispenser</title>
+    <s:type>Application</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/TapeDispenser.jpg?v=1606697509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Weighted dispenser with non-slip base is ea</span>sy to load and rolls quickly. A must have for every eyelash cart!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>tape</s:tag>
+    <s:tag>tape dispenser</s:tag>
+    <s:tag>tools</s:tag>
+    <s:tag>tools for extension</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/3685558616112</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>78</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/2199384621104</id>
+    <published>2019-02-04T15:18:31-08:00</published>
+    <updated>2019-02-04T15:18:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lbla-foam-tape"/>
+    <title>LBLA Foam Tape</title>
+    <s:type>Application</s:type>
+    <s:vendor>LASHBOXLA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Foam_Tape.png?v=1623187020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LASHBOXLA<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><form data-productid="7024636867" method="post" class="clearfix product_form init is-visible" id="product-form-7024636867" data-money-format="${{amount}}" data-shop-currency="USD" data-select-id="product-select-7024636867productproduct-template" data-enable-state="true" data-product='{"id":7024636867,"title":"Under Eye Foam Tape","handle":"microform-tape","description":"\u003cdiv style=\"text-align: center;\" abp=\"1621\"\u003e\u003c\/div\u003e\n\u003cdiv abp=\"1621\" class=\"\"\u003eThis is a great tape for multi-purpose use during lash extension procedure. You can use it under the eye instead of gel patches, as well as on the top of the eyelid to lift lid and natural lashes. This tape is very soft and gives a good cushion for tweezers, works well with clients who are allergic to collagen and gel patches, it is perfectly thick and gives natural lashes a lift when needed, and safe for skin and lashes.\u003c\/div\u003e\n\u003cdiv abp=\"1621\" class=\"\"\u003e\u003c\/div\u003e\n\u003cdiv abp=\"1622\" class=\"\"\u003e\u003cspan\u003e\u003c\/span\u003e\u003c\/div\u003e\n\u003cdiv abp=\"1622\" class=\"\"\u003e\u003cspan\u003eUsage information:\u003c\/span\u003e\u003c\/div\u003e\n\u003cdiv abp=\"1623\" class=\"\"\u003e\u003cspan\u003eSimply cut a piece of the tape along the width and shape it as required for your client. Use sharp scissors to have smooth edges. Before applying to the skin, stick few times on to you hand, to make sure glue on the tape is reduced to minimum.\u003c\/span\u003e\u003c\/div\u003e\n\u003cdiv abp=\"1623\" class=\"\"\u003e\u003c\/div\u003e\n\u003cdiv abp=\"1623\" class=\"\"\u003e\u003cspan\u003e\u003c\/span\u003e\u003c\/div\u003e\n\u003cdiv abp=\"1623\" class=\"\"\u003e\u003cspan\u003eTape size  - 2 inches\u003c\/span\u003e\u003c\/div\u003e\n\u003cp\u003e \u003c\/p\u003e\n\u003cdiv style=\"text-align: center;\" abp=\"1623\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: center;\" abp=\"1623\"\u003e\u003c\/div\u003e","published_at":"2016-06-10T05:20:00-07:00","created_at":"2016-06-10T05:21:32-07:00","vendor":"Lash Box LA","type":"Application","tags":["accessories-application","accessories-prep","Application"],"price":1750,"price_min":1750,"price_max":1750,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":21698655299,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"UEFT","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Under Eye Foam Tape","public_title":null,"options":["Default Title"],"price":1750,"weight":57,"compare_at_price":null,"inventory_quantity":186,"inventory_management":"shopify","inventory_policy":"deny","barcode":""}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/1280\/8881\/products\/Tissue.png?v=1523508186","\/\/cdn.shopify.com\/s\/files\/1\/1280\/8881\/products\/tape_micro.PNG?v=1523508186"],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/1280\/8881\/products\/Tissue.png?v=1523508186","options":["Title"],"content":"\u003cdiv style=\"text-align: center;\" abp=\"1621\"\u003e\u003c\/div\u003e\n\u003cdiv abp=\"1621\" class=\"\"\u003eThis is a great tape for multi-purpose use during lash extension procedure. You can use it under the eye instead of gel patches, as well as on the top of the eyelid to lift lid and natural lashes. This tape is very soft and gives a good cushion for tweezers, works well with clients who are allergic to collagen and gel patches, it is perfectly thick and gives natural lashes a lift when needed, and safe for skin and lashes.\u003c\/div\u003e\n\u003cdiv abp=\"1621\" class=\"\"\u003e\u003c\/div\u003e\n\u003cdiv abp=\"1622\" class=\"\"\u003e\u003cspan\u003e\u003c\/span\u003e\u003c\/div\u003e\n\u003cdiv abp=\"1622\" class=\"\"\u003e\u003cspan\u003eUsage information:\u003c\/span\u003e\u003c\/div\u003e\n\u003cdiv abp=\"1623\" class=\"\"\u003e\u003cspan\u003eSimply cut a piece of the tape along the width and shape it as required for your client. Use sharp scissors to have smooth edges. Before applying to the skin, stick few times on to you hand, to make sure glue on the tape is reduced to minimum.\u003c\/span\u003e\u003c\/div\u003e\n\u003cdiv abp=\"1623\" class=\"\"\u003e\u003c\/div\u003e\n\u003cdiv abp=\"1623\" class=\"\"\u003e\u003cspan\u003e\u003c\/span\u003e\u003c\/div\u003e\n\u003cdiv abp=\"1623\" class=\"\"\u003e\u003cspan\u003eTape size  - 2 inches\u003c\/span\u003e\u003c\/div\u003e\n\u003cp\u003e \u003c\/p\u003e\n\u003cdiv style=\"text-align: center;\" abp=\"1623\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: center;\" abp=\"1623\"\u003e\u003c\/div\u003e"}' data-product-id="7024636867" action="https://www.lashboxla.com/cart/add">
+<div class="purchase clearfix inline_purchase"><button type="submit" name="add" class="action_button add_to_cart" data-label="Add to Cart"><span class="text">ADD TO CART</span><svg x="0px" y="0px" width="32px" height="32px" viewbox="0 0 32 32" class="checkmark"><path fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M9,17l3.9,3.9c0.1,0.1,0.2,0.1,0.3,0L23,11"></path></svg></button></div>
+</form>
+<div class="description bottom" itemprop="description">
+<div abp="1621"></div>
+<div class="" abp="1621">This is a great tape for multi-purpose use during lash extension procedure. You can use it under the eye instead of gel patches, as well as on the top of the eyelid to lift lid and natural lashes. This tape is very soft and gives a good cushion for tweezers, works well with clients who are allergic to collagen and gel patches, it is perfectly thick and gives natural lashes a lift when needed, and safe for skin and lashes.</div>
+<div class="" abp="1621"></div>
+<div class="" abp="1622"><span></span></div>
+<div class="" abp="1622"><strong>Usage information:</strong></div>
+<div class="" abp="1623"><span>- Simply cut a piece of the tape along the width and shape it as required for your client. - Use sharp scissors to have smooth edges. Before applying to the skin, stick few times on to you hand, to make sure glue on the tape is reduced to minimum.</span></div>
+<div class="" abp="1623"></div>
+<div class="" abp="1623"><span></span></div>
+<div class="" abp="1623"><span>Tape size  - 2 inches</span></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive tape</s:tag>
+    <s:tag>foamtape</s:tag>
+    <s:tag>lashboxla</s:tag>
+    <s:tag>LBLA</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/2199384621104</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/10738458696</id>
+    <published>2017-09-25T13:10:36-07:00</published>
+    <updated>2017-09-25T13:10:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/duct-tape"/>
+    <title>Lash Palette Tape</title>
+    <s:type>Application</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/white-duct-tape.jpg?v=1622147772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Great tool for protecting surfaces, such as eyelash headbands or tiles. Creates a disposable and smooth workspace!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/10738458696</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>81</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/10252181320</id>
+    <published>2017-07-22T11:06:25-07:00</published>
+    <updated>2017-07-22T11:06:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/3m-silicone-tape"/>
+    <title>3M - Silicone Tape</title>
+    <s:type>Application</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/3M-REMOVAL-SILICONE-TAPE-1-e1532483262515.png?v=1622147200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span><strong>3M Kind Removal Silicone Tape</strong> – Unique characteristics make this our favorite surgical tape for the eyelash extension procedure. </span></p>
+<p><span>The new proprietary silicone based technology means you can securely cover the lower lashes without fear of trauma and pain when removing the tape. It also provides ample coverage and weight to help protect the upper eyelid when used to help keep the eye closed during the procedure. The 1” roll tears neatly through the center providing a ½” strip for ease of coverage and is a great alternative to people hyper-sensitive to pressure sensitive tapes or more costly gel patches. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive tape</s:tag>
+    <s:tag>tools</s:tag>
+    <s:tag>tools for extension</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/10252181320</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/10070712968</id>
+    <published>2017-03-27T17:03:00-07:00</published>
+    <updated>2017-03-27T17:03:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/3m-1-micropore-tape"/>
+    <title>3M - 1&quot; Micropore Tape</title>
+    <s:type>Application</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/3m1.jpg?v=1622146070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><b>max2</b><span>originale</span></p>
+<meta charset="utf-8">
+<p>ㆍMedical Quality adhesive tape for eyelash extension.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive tape</s:tag>
+    <s:tag>tools</s:tag>
+    <s:tag>tools for extension</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/10070712968</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/9038988872</id>
+    <published>2017-03-27T17:03:00-07:00</published>
+    <updated>2017-03-27T17:03:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/max2originale-adhesive-tape"/>
+    <title>3M - 1/2&quot; Micropore Tape</title>
+    <s:type>Application</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/mph.jpg?v=1621464299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><b>max2</b><span>originale</span></p>
+<meta charset="utf-8">
+<p>ㆍMedical Quality adhesive tape for eyelash extension.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive tape</s:tag>
+    <s:tag>tools</s:tag>
+    <s:tag>tools for extension</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/9038988872</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+</feed>

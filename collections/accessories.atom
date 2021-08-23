@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cartellash.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cartellash.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cartellash.ca/collections/accessories.atom"/>
+  <title>CARTEL LASH &amp; SUPPLY CO</title>
+  <updated>2021-08-18T13:18:18-07:00</updated>
+  <author>
+    <name>CARTEL LASH &amp; SUPPLY CO</name>
+  </author>
+  <entry>
+    <id>https://cartellash.ca/products/6890614849713</id>
+    <published>2021-08-18T13:18:18-07:00</published>
+    <updated>2021-08-18T13:18:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/cart-phone-mount"/>
+    <title>Cart Phone Mount</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-18at1.13.29PM.png?v=1629317898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Phone Mount</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890614849713</id>
+      <title>Strawberry</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890614849713</id>
+      <title>Rainbow</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6872408326321</id>
+    <published>2021-08-11T14:47:45-07:00</published>
+    <updated>2021-08-11T14:47:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/eyelash-cleansing-brush"/>
+    <title>Eyelash Cleansing Brush</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-11at2.43.29PM.png?v=1628718465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aftercare</s:tag>
+    <s:tag>Lash Cleanser</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872408326321</id>
+      <title>White Gold</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872408326321</id>
+      <title>White Silver</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872408326321</id>
+      <title>Pink Gold</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6295729012913</id>
+    <published>2021-02-23T14:15:25-08:00</published>
+    <updated>2021-02-23T14:15:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/fruit-hand-held-mirror"/>
+    <title>Fruit Hand Held Mirror</title>
+    <s:type>Accesssories</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-02-23at1.29.25PM.png?v=1622148534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Accesssories<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">1. Portable handheld mirror for on the go</span><br data-mce-fragment="1"><span data-mce-fragment="1">2. Clear finish glass with higher definition, perfect for makeup, hairdressing, shaving</span><br data-mce-fragment="1"><span data-mce-fragment="1">3. Colorful and fashionable, suitable to use at home &amp; office</span><br data-mce-fragment="1"><span data-mce-fragment="1">4. Ergonomic handle design can be better to hold it, very handy to use.</span><br data-mce-fragment="1"><span data-mce-fragment="1">5. The mirror is firmly encased in the high quality frame, safe &amp; durable.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Simple pattern, fashionable design, compact and easy to carry.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Material: Shell: ABS, Glass</span><br data-mce-fragment="1"><span data-mce-fragment="1">Packaging Materials: PET</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">NOTE:</span><br data-mce-fragment="1"><span data-mce-fragment="1">1. Keep away from high temperatures and fire.</span><br data-mce-fragment="1"><span data-mce-fragment="1">2. Fragile, handle with care.</span><br data-mce-fragment="1"><span data-mce-fragment="1">3. Keep out of reach of children. Children should use this product under adult supervision.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mirror</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6295729012913</id>
+      <title>Grapefruit</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6295729012913</id>
+      <title>Watermelon</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6295729012913</id>
+      <title>Banana</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6230721331377</id>
+    <published>2021-01-25T13:37:08-08:00</published>
+    <updated>2021-01-25T13:37:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/amaterasu-eyeliner-black"/>
+    <title>Amaterasu Eyeliner - Black</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-01-25at1.34.37PM.png?v=1622147385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">If you are looking for THE Liquid Eyeliner <em data-mce-fragment="1"><strong data-mce-fragment="1">(formerly 'The Geisha Liner')</strong></em>, that does it all, look no further! Amaterasu’s Liquid Eyeliner will not disappoint. The brush is meticulously hand assembled in Japan, using only the best quality microfibre that will not fray. It is known as the ultimate brush tip for perfect application in the makeup industry.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Even newbies or those with super unsteady hands can easily create the most polished looks with this eyeliner. If you think only makeup artists can help you achieve perfectly lined eyes, think again! This eyeliner is a game changer.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">The other key feature of this eyeliner is in its staying power. Brand Creator Sara Au Yeong tested the eyeliner in every possible condition where it might smudge: the shower, massages, workouts, and on her trips to Asia in over 40 degree Celsius weather. It stays on beautifully every time. Some of our clients even took it on camping trips where this product earned its nickname "The 24-hour Eyeliner."</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">At Amaterasu, we believe purity is just as important as performance so we have continued to perfect this formula; even the most sensitive individuals can wear it. As with all Amaterasu makeup, this Liquid Eyeliner is paraben-free and phthalate-free. The clean ingredients and unique formulation ensures that you can use these products with peace of mind.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Weight: 0.6 ml / 0.02 fl oz</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Waterproof</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Smudge-proof</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Micro-fiber Tip Brush</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">24 hour formula</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Paraben and Phthalate Free</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AMATERASU</s:tag>
+    <s:tag>eyeliner</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6230721331377</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6218164437169</id>
+    <published>2021-01-20T14:10:34-08:00</published>
+    <updated>2021-01-20T14:10:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lbla-teal-faux-leather-magnetic-tweezer-case"/>
+    <title>LBLA - TEAL FAUX LEATHER MAGNETIC TWEEZER CASE</title>
+    <s:type>Accesssories</s:type>
+    <s:vendor>LASHBOXLA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-01-20at2.09.30PM.png?v=1623187267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LASHBOXLA<br>
+        <strong>Type: </strong>Accesssories<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The New Lashbox LA Tweezer Case in soft teal faux leather is both on point and essential; especially with its aged-metal gold embellishment. The interior features a double-pink suede flap to keep your tools from scratching and has double strength magnets to keep your tweezers in place.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LBLA</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6218164437169</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6187169906865</id>
+    <published>2021-01-08T14:07:17-08:00</published>
+    <updated>2021-01-08T14:07:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lbla-eyelash-extensions-towel-set-of-2"/>
+    <title>LBLA Eyelash Extensions Towel - Set of 2</title>
+    <s:type>Accesssories</s:type>
+    <s:vendor>LASHBOXLA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/CatBag_CatTowel_HR_2000x_847ee976-10eb-4b65-a090-fd502749bdee.jpg?v=1610143639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LASHBOXLA<br>
+        <strong>Type: </strong>Accesssories<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">LBLA specially designed lash towel is gentle and soft for your eyelash extensions. The non-woven structure doesn't pull or tug on lashes and keeps them in their best fluffy condition. Our cloth is twice as absorbing than other regular face towels and dries lashes instantly! </p>
+<p data-mce-fragment="1">A great retail item for a studio. Recommended for salon and in home use. Our Lash Cloth can also be used as a face wash cloth and face towel. </p>
+<p data-mce-fragment="1">Set of 2 cloths in our cute breathable kitten bag to keep your cloths in great condition and lint free.</p>
+<p data-mce-fragment="1">Towel color - Black</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lashboxla</s:tag>
+    <s:tag>LBLA</s:tag>
+    <s:tag>towel</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6187169906865</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>98</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6135783063729</id>
+    <published>2020-12-12T11:52:46-08:00</published>
+    <updated>2020-12-12T11:52:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/revolashion-cleansing-brushes"/>
+    <title>REVOLASHION Cleansing Brush</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>REVOLASHION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/REVOLASHIONCleansingBrushes.jpg?v=1607802767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>REVOLASHION<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">Rub-A-Dub-Dub! You know you gotta scrub, scrub, scrub! All together now!</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Makeup residue, debris, impurities and oils – #youcantsitwithus</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">What better way to promote client aftercare then by providing them with the proper tools to do it!</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Our acrylic cleansing brushes aren’t just hella cute, but they are a total must have for every workstation + retail shelf!</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Help clients protect their fluffy investment and get the most out of their extensions by integrating this item into their routine.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">These brushes are specifically designed for lash aftercare. Super soft yet firm enough for the deepest clean for any lash line to keep it healthy and fluffy. Each brush comes with a snap-on cap to keep the brushes clean on-the-go.</span></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">SPECS</b></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Clear snap-on plastic protective cap included</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Acrylic handle</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Synthetic nylon bristles, vegan.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Bristles do not have a cuticle to reduce oil and pigment absorption.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Size: 13.5cm in length</span></li>
+</ul>
+<p><b>USE</b></p>
+<ul>
+<li>
+<span>This is an item that should not be used on more than </span><i><span>one client </span></i><span>in-studio.</span><span> </span>
+</li>
+<li><span>Throw away after each in-studio use or give to client to take home.</span></li>
+<li><span>Use with gentle, non-burning cleanser or shampoo specifically formulated to be eyelash extension friendly. Do not use with DIY or store bought cleansers intended for other purposes.</span></li>
+<li><span>Can also be used in conjunction with makeup removers.</span></li>
+<li><span>Clean brushes using makeup brush cleanser or soap and warm water. Do not use any sterilizing agents such as barbicide.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>revolashion</s:tag>
+    <s:tag>tools</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6135783063729</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6130351603889</id>
+    <published>2020-12-10T14:16:23-08:00</published>
+    <updated>2020-12-10T14:16:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/borboleta-lash-dreamer-set"/>
+    <title>Borboleta - Lash Dreamer Set</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>BORBOLETA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Borboleta-Holiday-Kit-2020_grande_7c33d8cd-8df4-4977-8c85-c52002659589.jpg?v=1622148546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BORBOLETA<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Sweet dreams are made of this: our cult-favorite <strong>Lash Serum and Cooldown Eye Masks</strong> (5 pack), paired with a matching luxe pillowcase and scrunchie, stashed into an eye-catching collectible case—a rectangular cube for easy access and max visibility. Made of matte faux-silk, the pillowcase decreases the look of wrinkles, smoothes hair by reducing frizz and split ends, and gently protects your lashes, so you wake up feeling lush and fresh. All together you have the perfect gift for any lash dreamer in your life (including you).<br></p>
+<p data-mce-fragment="1"><span data-stringify-type="paragraph-break" class="c-mrkdwn__br" data-mce-fragment="1"></span><span data-stringify-type="paragraph-break" class="c-mrkdwn__br" data-mce-fragment="1"></span><span data-mce-fragment="1">If you secured a collectible case last year you’ll find this one to be the perfect addition with its matching material. If you haven’t started your collection yet, it’s never too late. Grab one before they’re gone!</span></p>
+<span data-mce-fragment="1">Lash Dreamer Set Contents:</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Full-Size Borboleta Lash Serum</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Cooldown Calming Eye Masks (5-pack)</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Luxe pillowcase</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Scrunchie</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Collectible case</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aftercare</s:tag>
+    <s:tag>borboleta</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6130351603889</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4635014496304</id>
+    <published>2020-07-25T13:32:20-07:00</published>
+    <updated>2020-07-25T13:32:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lbla-magnifying-glasses-by-200"/>
+    <title>LBLA Magnifying Glasses by 200%</title>
+    <s:type>Accesssories</s:type>
+    <s:vendor>LASHBOXLA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/LBLAMagGlasses.png?v=1606697509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LASHBOXLA<br>
+        <strong>Type: </strong>Accesssories<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Having trouble seeing natural lashes and creating volume fans? With our glasses you can see everything big and clear. Our glasses will not make you feel dizzy. These are very comfortable to wear and are safe for your eyes.</p>
+<p>These glasses offer a 200% of magnifying.</p>
+<p>Due to the nature of this product, this item is Final Sale.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LBLA</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4635014496304</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>104</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4373109735472</id>
+    <published>2019-11-30T13:32:04-08:00</published>
+    <updated>2019-11-30T13:32:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lbla-luggage-tag"/>
+    <title>LBLA Luggage Tag</title>
+    <s:type>Accesssories</s:type>
+    <s:vendor>LASHBOXLA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Luggage_Tag.jpg?v=1606697395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LASHBOXLA<br>
+        <strong>Type: </strong>Accesssories<br>
+        <strong>Price: </strong>
+            20.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stand out in a crowd at the baggage carousel with a custom luggage tag from Lashbox LA. Sturdy and weatherproof, this luggage tag is ready to stand-up to the travel demands of any road Lash Warrior or Lash boss. Use it as a luggage tag or as a lanyard around your neck at your next event.</p>
+<ul>
+<li>Dimensions: 2"l x 3.5"w (standard business card size)</li>
+<li>Clear Pocket for your ID or photo</li>
+<li>Made of ultra-durable material</li>
+<li>UV resistant and waterproof</li>
+<li> Lashbox La lanyard included</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/4373109735472</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/3743097651248</id>
+    <published>2019-05-27T17:53:52-07:00</published>
+    <updated>2019-05-27T17:53:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/borboleta-leather-tweezer-organizer"/>
+    <title>Borboleta Leather Tweezer Organizer</title>
+    <s:type>Accesssories</s:type>
+    <s:vendor>BORBOLETA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ProductPhoto_TweezerCase_Table-Web_1024x1024_85725906-d4a8-4ac6-82b8-114055c16ff6.jpg?v=1606697394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BORBOLETA<br>
+        <strong>Type: </strong>Accesssories<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Keep your </span><a href="https://borboletabeauty.com/collections/tweezers/products/no-6-tweezer" data-mce-fragment="1" data-mce-href="https://borboletabeauty.com/collections/tweezers/products/no-6-tweezer">professional tweezers</a><span data-mce-fragment="1"> looking their best with our faux leather tweezer holder. It holds up to 10 lash tweezers, keeping them safe and in the best condition. This tweezer organizer is perfect for lash artists on the go and great for storing your eyelash tools.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>borboleta</s:tag>
+    <s:tag>leather</s:tag>
+    <s:tag>organizer</s:tag>
+    <s:tag>tweezers</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/3743097651248</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/3743095259184</id>
+    <published>2019-05-27T17:52:28-07:00</published>
+    <updated>2019-05-27T17:52:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/borboleta-sleep-mask"/>
+    <title>Borboleta Sleep Mask</title>
+    <s:type>Accesssories</s:type>
+    <s:vendor>BORBOLETA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ProductPhoto_EyeMask-Black_Table-Web_1024x1024_6fdc404e-682d-48ff-b1df-86f5ca856c34.jpg?v=1606697394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BORBOLETA<br>
+        <strong>Type: </strong>Accesssories<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Sleep tight, lash loves! Our new Borby Sleep Mask for lash extensions protects lashes while sleeping in style. The raised pockets ensure your </span><a href="https://borboletabeauty.com/collections/eyelash-extensions" data-mce-fragment="1" data-mce-href="https://borboletabeauty.com/collections/eyelash-extensions">eyelash extensions</a><span data-mce-fragment="1"> won't get squished or rubbed, and the adjustable strap makes this blackout sleep mask so comfortable and easy to fit to any size. This eyelash extension eye mask is perfect for long flights, night-shifters, and sensitive sleepers. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aftercare</s:tag>
+    <s:tag>borboleta</s:tag>
+    <s:tag>sleepmask</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/3743095259184</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/2244651089968</id>
+    <published>2019-03-08T10:14:09-08:00</published>
+    <updated>2019-03-08T10:14:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/cartel-umbrella"/>
+    <title>Cartel Umbrella</title>
+    <s:type>Accesssories</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/image_d99c7072-8f41-4777-b0fc-8c63cf266087.jpg?v=1622142152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Accesssories<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Are you a part of our Lash Cartel? Well, you can rep the squad AND keep your eyelashes dry during rainy season with our new umbrella!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/2244651089968</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>330</s:grams>
+    </s:variant>
+  </entry>
+</feed>

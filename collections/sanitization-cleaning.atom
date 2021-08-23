@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cartellash.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cartellash.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cartellash.ca/collections/sanitization-cleaning.atom"/>
+  <title>CARTEL LASH &amp; SUPPLY CO</title>
+  <updated>2021-08-09T13:53:33-07:00</updated>
+  <author>
+    <name>CARTEL LASH &amp; SUPPLY CO</name>
+  </author>
+  <entry>
+    <id>https://cartellash.ca/products/6537941680305</id>
+    <published>2021-08-09T13:53:33-07:00</published>
+    <updated>2021-08-09T13:53:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/preempt-rtu-1l"/>
+    <title>PREempt RTU - 1L</title>
+    <s:type>Sanitization | PPE</s:type>
+    <s:vendor>PREEMPT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-02-24at2.04.19PM.png?v=1614204463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PREEMPT<br>
+        <strong>Type: </strong>Sanitization | PPE<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ppe</s:tag>
+    <s:tag>Preempt</s:tag>
+    <s:tag>sanitization</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6537941680305</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6790031573169</id>
+    <published>2021-08-09T13:52:47-07:00</published>
+    <updated>2021-08-09T13:52:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/microban-425-g-citrus-scent-24-hour-disinfectant-sanitizing-spray-1"/>
+    <title>Microban 425g Fresh Scent 24 Hour Disinfectant Sanitizing Spray</title>
+    <s:type></s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/p_1001553648.jpg?v=1624565565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p class="acl-py--x-small hdca-text-body--small">Microban 24 Hour Sanitizing Spray keeps killing 99.9% of bacteria for up to 24 Hours, even after multiple touches, to support a clean and healthy home. This 3-in-1 cleaner Sanitizes for 24 Hours, Disinfects and Eliminates odours. Use on high touch hard surface areas like door handles, light switches, remotes and kids toys. Let Microban bring you and your family peace of mind when it comes to disinfecting against germs and maintaining a healthy home. You can also use on soft surfaces, like couches, coats, sports bags, strollers and backpacks.</p>
+<section id="productFeature" class="acl-my--x-small">
+<ol acl-list="" textsize="small" type="bulleted" class="acl-lheight--large acl-text-size--medium acl-list acl-list--type--bulleted acl-text-size--small ng-star-inserted" _nghost-hdca-c93="">
+<li acl-list-item="" class="acl-lheight--regular acl-my--xx-small acl-text-size--small acl-list-item" _nghost-hdca-c92="">Keeps surfaces sanitized for up to 24 hours, even after multiple touches on hard non porous, non-food contact surfaces</li>
+</ol>
+<ol acl-list="" textsize="small" type="bulleted" class="acl-lheight--large acl-text-size--medium acl-list acl-list--type--bulleted acl-text-size--small ng-star-inserted" _nghost-hdca-c93="">
+<li acl-list-item="" class="acl-lheight--regular acl-my--xx-small acl-text-size--small acl-list-item" _nghost-hdca-c92="">Keeps Killing 99.9% of Bacteria</li>
+</ol>
+<ol acl-list="" textsize="small" type="bulleted" class="acl-lheight--large acl-text-size--medium acl-list acl-list--type--bulleted acl-text-size--small ng-star-inserted" _nghost-hdca-c93="">
+<li acl-list-item="" class="acl-lheight--regular acl-my--xx-small acl-text-size--small acl-list-item" _nghost-hdca-c92="">Kills 99.9% of germs, including cold and flu viruses</li>
+</ol>
+<ol acl-list="" textsize="small" type="bulleted" class="acl-lheight--large acl-text-size--medium acl-list acl-list--type--bulleted acl-text-size--small ng-star-inserted" _nghost-hdca-c93="">
+<li acl-list-item="" class="acl-lheight--regular acl-my--xx-small acl-text-size--small acl-list-item" _nghost-hdca-c92="">Eliminates odours</li>
+</ol>
+<ol acl-list="" textsize="small" type="bulleted" class="acl-lheight--large acl-text-size--medium acl-list acl-list--type--bulleted acl-text-size--small ng-star-inserted" _nghost-hdca-c93="">
+<li acl-list-item="" class="acl-lheight--regular acl-my--xx-small acl-text-size--small acl-list-item" _nghost-hdca-c92="">Sanitizes both hard &amp; soft surfaces</li>
+</ol>
+<ol acl-list="" textsize="small" type="bulleted" class="acl-lheight--large acl-text-size--medium acl-list acl-list--type--bulleted acl-text-size--small ng-star-inserted" _nghost-hdca-c93="">
+<li acl-list-item="" class="acl-lheight--regular acl-my--xx-small acl-text-size--small acl-list-item" _nghost-hdca-c92="">Prevents the growth of mold and mildew for 7 days on hard surfaces</li>
+</ol>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/6790031573169</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6666719199409</id>
+    <published>2021-04-19T23:51:10-07:00</published>
+    <updated>2021-04-19T23:51:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/microban-425-g-citrus-scent-24-hour-disinfectant-sanitizing-spray"/>
+    <title>Microban 358g Citrus Scent 24 Hour Disinfectant Sanitizing Spray</title>
+    <s:type></s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/image_f39528fd-e3b8-4ab9-972c-2e758032debc.jpg?v=1622148673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p class="acl-py--x-small hdca-text-body--small">Microban 24 Hour Sanitizing Spray keeps killing 99.9% of bacteria for up to 24 Hours, even after multiple touches, to support a clean and healthy home. This 3-in-1 cleaner Sanitizes for 24 Hours, Disinfects and Eliminates odours. Use on high touch hard surface areas like door handles, light switches, remotes and kids toys. Let Microban bring you and your family peace of mind when it comes to disinfecting against germs and maintaining a healthy home. You can also use on soft surfaces, like couches, coats, sports bags, strollers and backpacks.</p>
+<section id="productFeature" class="acl-my--x-small">
+<ol acl-list="" textsize="small" type="bulleted" class="acl-lheight--large acl-text-size--medium acl-list acl-list--type--bulleted acl-text-size--small ng-star-inserted" _nghost-hdca-c93="">
+<li acl-list-item="" class="acl-lheight--regular acl-my--xx-small acl-text-size--small acl-list-item" _nghost-hdca-c92="">Keeps surfaces sanitized for up to 24 hours, even after multiple touches on hard non porous, non-food contact surfaces</li>
+</ol>
+<ol acl-list="" textsize="small" type="bulleted" class="acl-lheight--large acl-text-size--medium acl-list acl-list--type--bulleted acl-text-size--small ng-star-inserted" _nghost-hdca-c93="">
+<li acl-list-item="" class="acl-lheight--regular acl-my--xx-small acl-text-size--small acl-list-item" _nghost-hdca-c92="">Keeps Killing 99.9% of Bacteria</li>
+</ol>
+<ol acl-list="" textsize="small" type="bulleted" class="acl-lheight--large acl-text-size--medium acl-list acl-list--type--bulleted acl-text-size--small ng-star-inserted" _nghost-hdca-c93="">
+<li acl-list-item="" class="acl-lheight--regular acl-my--xx-small acl-text-size--small acl-list-item" _nghost-hdca-c92="">Kills 99.9% of germs, including cold and flu viruses</li>
+</ol>
+<ol acl-list="" textsize="small" type="bulleted" class="acl-lheight--large acl-text-size--medium acl-list acl-list--type--bulleted acl-text-size--small ng-star-inserted" _nghost-hdca-c93="">
+<li acl-list-item="" class="acl-lheight--regular acl-my--xx-small acl-text-size--small acl-list-item" _nghost-hdca-c92="">Eliminates odours</li>
+</ol>
+<ol acl-list="" textsize="small" type="bulleted" class="acl-lheight--large acl-text-size--medium acl-list acl-list--type--bulleted acl-text-size--small ng-star-inserted" _nghost-hdca-c93="">
+<li acl-list-item="" class="acl-lheight--regular acl-my--xx-small acl-text-size--small acl-list-item" _nghost-hdca-c92="">Sanitizes both hard &amp; soft surfaces</li>
+</ol>
+<ol acl-list="" textsize="small" type="bulleted" class="acl-lheight--large acl-text-size--medium acl-list acl-list--type--bulleted acl-text-size--small ng-star-inserted" _nghost-hdca-c93="">
+<li acl-list-item="" class="acl-lheight--regular acl-my--xx-small acl-text-size--small acl-list-item" _nghost-hdca-c92="">Prevents the growth of mold and mildew for 7 days on hard surfaces</li>
+</ol>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/6666719199409</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6648016666801</id>
+    <published>2021-04-09T12:02:22-07:00</published>
+    <updated>2021-04-09T12:02:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/sterilization-box-disinfection-container"/>
+    <title>Sterilization Box Disinfection Container</title>
+    <s:type>Sanitization &amp; Cleaning</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/whtsterlbox.jpg?v=1622147665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Sanitization &amp; Cleaning<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul class="a-unordered-list a-vertical a-spacing-mini" data-mce-fragment="1">
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">♥【 Professional Sterilizer Box】 Cartel's sterilizer box adopts high quality plastic material, more durable. It can be used for sterilizing lashing tools.</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">♥【Multi-domain Using】This sterilizer is not only applicable for the disinfection, sterilization and cleaning of lashing tools, but also applies to other metal tools, such as salon peelers, eye-brow beauty and tattoo tool.</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">♥【Ensure To Be Cleaned】As a lash salon, lash tools should be kept clean. You can fill with your sterilizing liquid of choice.  We recommend CS20 also known as PreEmpt</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">♥【Easy To Use】 Tray can be lift up automatically when the cover opens. Detachable tray and self-draining basket design for convenient use.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/6648016666801</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>322</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4650973036592</id>
+    <published>2020-08-28T14:37:56-07:00</published>
+    <updated>2020-08-28T14:37:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/black-face-mask"/>
+    <title>Black Face Mask</title>
+    <s:type>Sanitization | PPE</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/600.jpg?v=1622147003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Sanitization | PPE<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><b>[IDEAL FOR]</b><br><span>Keeping the face covered while looking stylish</span><br><span>Could be worn during cardio exercise</span><br><span>Protecting the nose and mouth from pollutants in the air</span><br><br><b>[INGREDIENTS/MATERIAL]</b><br><span>Dense mesh filter to block pollen and dust</span><br><span>Pourous fabric for breathability</span><br><span>Thin yet durable polyurethane construction</span><br><br><b>[FEATURES]</b><br><span>Effectively keeps out pollutants such as pollen and dust</span><br><span>Soft and dimensional design that imparts comfort</span><br><span>Spongy and elastic material that doesn't irritate the skin</span><br></p>
+<p>3 Mask Included </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Face Mask</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4650973036592</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4617834168368</id>
+    <published>2020-07-03T14:16:11-07:00</published>
+    <updated>2020-07-03T14:16:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/purell-dispensers-refillers"/>
+    <title>Purell Dispensers &amp; Refillers</title>
+    <s:type>Sanitization | PPE</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/91DEEDB936BF326E52909425EB84A6AE7521E6B5EB70840EA1A8A455A5804965.jpg?v=1622147962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Sanitization | PPE<br>
+        <strong>Price: </strong>
+            35.00 - 40.00
+            <a href="https://cartellash.ca/products/purell-dispensers-refillers">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>covid19</s:tag>
+    <s:tag>Dispensers</s:tag>
+    <s:tag>Purell</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4617834168368</id>
+      <title>Purell Dispenser</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4617834168368</id>
+      <title>Purell Refill - Gel</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4617834168368</id>
+      <title>Gojo Refill - Foam</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4617830072368</id>
+    <published>2020-07-03T14:09:00-07:00</published>
+    <updated>2020-07-03T14:09:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/protection-goggles"/>
+    <title>Protection Goggles</title>
+    <s:type>Sanitization | PPE</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/H74434701a3a6413f8dbe752a2ac9497an.jpg_q50.jpg?v=1593810540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Sanitization | PPE<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>covid19</s:tag>
+    <s:tag>Goggles</s:tag>
+    <s:tag>Protection</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4617830072368</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4617826304048</id>
+    <published>2020-07-03T14:03:55-07:00</published>
+    <updated>2020-07-03T14:03:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/thermometer-digital-electronic-gun-multi-purpose-non-contact"/>
+    <title>Thermometer Digital Electronic Gun - Multi-purpose Non-contact</title>
+    <s:type>Sanitization | PPE</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/infraredgun2.jpg?v=1622148567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Sanitization | PPE<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Covid</s:tag>
+    <s:tag>Gun</s:tag>
+    <s:tag>Thermometer</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4617826304048</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4603337539632</id>
+    <published>2020-06-19T18:49:03-07:00</published>
+    <updated>2020-06-19T18:49:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/preempt-cs20-1l"/>
+    <title>PREempt CS20 - 1La</title>
+    <s:type>Sanitization | PPE</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/CS20_800x800_36327b7b-bba6-4f2d-a8ce-ce6d03938270.jpg?v=1622146854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Sanitization | PPE<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cs20</s:tag>
+    <s:tag>Preempt</s:tag>
+    <s:tag>sanitization</s:tag>
+    <s:tag>Sterilize</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4603337539632</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4598304243760</id>
+    <published>2020-06-17T07:50:15-07:00</published>
+    <updated>2020-06-17T07:50:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/social-distancing-floor-decals-8-round"/>
+    <title>Social Distancing Floor Decals - 8&quot; Round (Pack of 4)</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/unnamed.gif?v=1594417432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>covid19</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4598304243760</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4598286254128</id>
+    <published>2020-06-17T07:50:15-07:00</published>
+    <updated>2020-06-17T07:50:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/disposable-face-masks-level-1"/>
+    <title>Disposable Face Masks - Level 1</title>
+    <s:type>Sanitization | PPE</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/mask_1_1024x1024_50c7a688-ab46-4efd-a952-3b89cf586176.png?v=1622146944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Sanitization | PPE<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">FDA/CE Compliant, Meets EN14683 Rating, Medical Use, High Fluid Resistance Level</span></li>
+<li><span class="a-list-item">PERFORMANCE: BFE: &gt;95% at 3 microns, Fluid Resistance: 120 mm Hg, Breathability-Delta P &lt; 5.0 mm H2O/cm2.</span></li>
+<li><span class="a-list-item">Made of 3-ply Environment-friendly Material, Moisture-proof, Non-toxic, Non-irritant, Soft and Comfortable, Adjustable Nose Piece, Stretchable Ear-loops</span></li>
+<li><span class="a-list-item">Due to hygienic reasons, this product is non-returnable &amp; non-refundable</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>covid</s:tag>
+    <s:tag>covid19</s:tag>
+    <s:tag>facemask</s:tag>
+    <s:tag>PPE</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4598286254128</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4598259089456</id>
+    <published>2020-06-17T07:50:15-07:00</published>
+    <updated>2020-06-17T07:50:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/primaguard80-level-1-face-mask"/>
+    <title>PrimaGuard80 - Level 1 Face Mask</title>
+    <s:type>Sanitization | PPE</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Primed-Primagard-80-Face-Masks-1.jpg?v=1622150200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Sanitization | PPE<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Main Uses:</p>
+<ul>
+<li>Protects both the patient and clinician from fluids and particles generated during medical procedures outside of the operating room, including wound care, line changes, dental work and more.</li>
+<li>Protects the wearer from contamination from droplets generated by coughing, talking, or sneezing of nearby persons.</li>
+<li>Also used for respiratory etiquette to contain droplets from symptomatic individuals.</li>
+</ul>
+<p>Features &amp; Benefits:</p>
+<ul>
+<li>Full-width, aluminum alloy nose piece will not kink and ensures a secure fit over the nose and across the cheeks</li>
+<li>Soft, stretchy ear loops comfortably fit a wide variety of face sizes</li>
+<li>Suitable for surgical procedures where there is a minimal risk of fluid splash</li>
+<li>All seams are ultrasonically welded</li>
+<li>Latex free</li>
+</ul>
+<p>Level 1 Barrier</p>
+<p>BFE (%): ≥ 99<br>PFE (%): ≥ 99<br>ΔP (mmH<sub>2</sub>0/cm²): ≤ 2.1<br>Fluid Resistance: 80 mm Hg<br>Flame Spread: Class 1</p>
+<p>Colour: Blue</p>
+<p><strong>Unit Measurement:</strong><span> </span>50/Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/4598259089456</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4564313407536</id>
+    <published>2020-05-25T00:44:10-07:00</published>
+    <updated>2020-05-25T00:44:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/surface-sanitizer-7-5l-local-pick-up-only"/>
+    <title>Surface Sanitizer - 7.5L (Local Pick-up Only)</title>
+    <s:type>Sanitization | PPE</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/pail_b22640aa-c033-4ed0-a949-8b3a4a5ebc3f.jpg?v=1590393393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Sanitization | PPE<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/4564313407536</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>7711</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4564313112624</id>
+    <published>2020-05-25T00:44:10-07:00</published>
+    <updated>2020-05-25T00:44:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/liquid-hand-sanitizer-7-5l-local-pick-up-only"/>
+    <title>Liquid Hand Sanitizer - 7.5L (Local Pick-up Only)</title>
+    <s:type>Sanitization | PPE</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/pail.jpg?v=1590393366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Sanitization | PPE<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/4564313112624</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>7711</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4555362566192</id>
+    <published>2020-05-19T14:07:40-07:00</published>
+    <updated>2020-05-19T14:07:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/teddy-bear-face-mask"/>
+    <title>Teddy Bear Face Mask</title>
+    <s:type>Sanitization | PPE</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/image_bb9775d0-d1bb-4210-8b2d-171a93a45a19.jpg?v=1622145420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Sanitization | PPE<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bear</s:tag>
+    <s:tag>Face Mask</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4555362566192</id>
+      <title>Brown Bear</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4555362566192</id>
+      <title>Black Bear</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4543998853168</id>
+    <published>2020-05-11T12:39:05-07:00</published>
+    <updated>2020-05-11T12:39:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/plus-guardian-reusable-face-mask"/>
+    <title>Plus Guardian - Reusable Face Mask</title>
+    <s:type>Sanitization &amp; Cleaning</s:type>
+    <s:vendor>PLUS GUARDIAN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Face_Mask1.jpg?v=1622146757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PLUS GUARDIAN<br>
+        <strong>Type: </strong>Sanitization &amp; Cleaning<br>
+        <strong>Price: </strong>
+            3.00 - 15.00
+            <a href="https://cartellash.ca/products/plus-guardian-reusable-face-mask">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class=""><strong>Mask Is Uni-Sex ( Fits Male + Female Faces ) </strong></p>
+<p class=""><strong><b>Outer layer ( Mask )</b></strong><span> </span> - 100% Polyester  </p>
+<p class=""><strong>Middle Layer ( Mask )</strong><span> </span>- 100% Polyester</p>
+<div>
+<b>Inside Lining</b> <strong>( Mask )</strong><span> </span>- 100% Cotton ( For Comfort &amp; Breathability) <br><br><strong>3 Layer Mask Protection  + 5 Layer PM2.5 Filter = 8 Layers</strong><br> </div>
+<div>
+<b>Breathing valve</b>s - Professional valves with foam filter, allows for easy flow and one way valves with no contra-flow.The dual filter valve design allows for easier breathing and doesn't heat or fog up inside the mask. <br><br>
+</div>
+<div>
+<b>Adjustable earloop</b><span> </span>- One Size Fits All <br><br>
+</div>
+<div>
+<b>Adjustable nose clip</b><span> </span>- Made from aluminum which allows each customer to adjust the mask around their nose to the way they want it.<br><br>
+</div>
+<p class=""><strong>Outstanding Comfort</strong> – These reusable respirator masks are designed with military-grade filtration technology. These washable face masks are engineered with a valve that will automatically open and close allowing you to easily breathe clean air.<br></p>
+<p class=""><strong>Dimensions</strong><span> – <br>( Width ) - Up &amp; Down Measurement - 5 1/2 Inches<br></span>( Length ) - Across From The Middle - 8 1/2 Inches<br><br><strong>* Note,</strong><span> </span>we built this mask so that it is unisex, and it fits the majority of all face structures. The way we achieved this is by creating a mesh nylon fabric lining that has stretch so it fits comfortably on your face. We also added an adjustable earloop which seals the mask from the sides. The adjustable nose clip that is aluminum will seal the top part of the mask and the chin lining we created will seal the bottom of your face. <br><br><strong>Valve &amp; Packaging</strong><span> </span>- We are slowly transitioning into our new packaging + valve, please note packaging + valve may vary in design but does the exact same job.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disposable</s:tag>
+    <s:tag>Face Mask</s:tag>
+    <s:tag>Filter</s:tag>
+    <s:tag>Reusable</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4543998853168</id>
+      <title>Reusable Face Mask + 1 Free Filter</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4543998853168</id>
+      <title>PM2.5 Filter - Disposable Filter</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4480677380144</id>
+    <published>2020-03-25T14:48:01-07:00</published>
+    <updated>2020-03-25T14:48:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/dr-althea-gel-hand-sanitizer"/>
+    <title>Dr. Althea - Gel Hand Sanitizer</title>
+    <s:type>Sanitization | PPE</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Dr.Althea_Instant_hand_cleanser_gel_800x_82c1fb38-7e4e-43c2-ae3a-f8f3fa16555b.png?v=1622145271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Sanitization | PPE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h2><em><strong>Advanced Handcare Recipe</strong></em></h2>
+<ul>
+<li>Hand Sanitizer — for cleansing, protecting and moisturizing</li>
+<li>62.7% Alcohol</li>
+<li>Made in South Korea</li>
+</ul>
+<p><span>Action 1</span>: Protects and cleans hands without water or soap</p>
+<p><span>Action 2</span>: A convenient instant, on-the-go hand cleansing gel</p>
+<p><span>Net Weight: 50ml</span></p>
+<p> </p>
+<ul></ul>
+<p><span><strong>KEY INGREDIENTS</strong></span></p>
+<p><em><span>Alcohol, Water, Glycerin, Triethanolamine, Carbomer, Fragrance, Tocopheryl Acetate, 1,2-Hexanediol, Hamamelis Virginiana (Witch Hazel) Leaf Extract, Butylene glycol, Pentylene Glycol, Aloe Barbadensis Leaf Extract, Camellia Sinensis Leaf Extract</span></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/4480677380144</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+</feed>

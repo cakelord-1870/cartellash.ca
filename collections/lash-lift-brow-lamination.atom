@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cartellash.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cartellash.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cartellash.ca/collections/lash-lift-brow-lamination.atom"/>
+  <title>CARTEL LASH &amp; SUPPLY CO</title>
+  <updated>2021-08-18T13:25:15-07:00</updated>
+  <author>
+    <name>CARTEL LASH &amp; SUPPLY CO</name>
+  </author>
+  <entry>
+    <id>https://cartellash.ca/products/6890626482353</id>
+    <published>2021-08-18T13:25:15-07:00</published>
+    <updated>2021-08-18T13:25:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/long-lash-lift-comb-1pc"/>
+    <title>Long Lash Lift Comb - 1pc</title>
+    <s:type>Lash Lift</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-18at11.41.19AM.png?v=1629318227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Lash Lift<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lash Lift</s:tag>
+    <s:tag>Lash lift Comb</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890626482353</id>
+      <title>Teal</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890626482353</id>
+      <title>Pink</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6890444488881</id>
+    <published>2021-08-18T11:49:11-07:00</published>
+    <updated>2021-08-18T11:49:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/eyelash-plastic-wrap"/>
+    <title>Eyelash Plastic Wrap</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-18at11.29.33AM.png?v=1629312551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Eyelash plastic wrap is great for lash removals or lash lifts and tinting.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lash Lift</s:tag>
+    <s:tag>Plastic Wrap</s:tag>
+    <s:tag>Remover</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890444488881</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6872424546481</id>
+    <published>2021-08-11T14:59:03-07:00</published>
+    <updated>2021-08-11T14:59:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/short-lash-lift-comb"/>
+    <title>Short Lash Lift Comb</title>
+    <s:type>Lash Lift</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-11at2.55.31PM.png?v=1628719143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Lash Lift<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lash Lift</s:tag>
+    <s:tag>Lash lift comb</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872424546481</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6098925813937</id>
+    <published>2020-11-24T14:09:11-08:00</published>
+    <updated>2020-11-24T14:09:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/eyebrow-knife"/>
+    <title>Eyebrow Razor</title>
+    <s:type>Lash Lift</s:type>
+    <s:vendor>EYELASH MAKER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Screen_Shot_2020-11-24_at_2.03.57_PM.png?v=1622147793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EYELASH MAKER<br>
+        <strong>Type: </strong>Lash Lift<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Lightweight and non-slip grip for easy control, making this a perfect tool for grooming/shaping eyebrows. </span><span data-mce-fragment="1">Can also be used on upper lip. </span></p>
+<p><span data-mce-fragment="1"><br></span></p>
+<p> </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>tools</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6098925813937</id>
+      <title>Folding</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6098925813937</id>
+      <title>Stick</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6098749030577</id>
+    <published>2020-11-24T12:55:09-08:00</published>
+    <updated>2020-11-24T12:55:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/silicone-lot-5-pairs"/>
+    <title>Silicone Lot (5 Pairs)</title>
+    <s:type>Lash Lifts</s:type>
+    <s:vendor>EYELASH MAKER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/SILICON-LOT-2-000.png?v=1622146786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EYELASH MAKER<br>
+        <strong>Type: </strong>Lash Lifts<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h3 class="av-special-heading-tag" data-mce-fragment="1" itemprop="headline"><span data-mce-fragment="1">SILICONE LOT 2</span></h3>
+<div class="av-subheading av-subheading_below av_custom_color" data-mce-fragment="1">
+<p data-mce-fragment="1"><span data-mce-fragment="1">XL(Green) / L(Blue) / M(Light pink) / S(Orange) / XS(Lemon)</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">5 pair</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/6098749030577</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6016225411249</id>
+    <published>2020-10-31T12:21:30-07:00</published>
+    <updated>2020-10-31T12:21:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/sugarlash-black-glaze-15ml"/>
+    <title>SUGARLASH Black Glaze (15mL)</title>
+    <s:type>Liquids</s:type>
+    <s:vendor>SUGARLASH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/SUGARLASHBlackGlaze.jpg?v=1604171977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUGARLASH<br>
+        <strong>Type: </strong>Liquids<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h3 data-mce-fragment="1"><span>Sugarlash Black Glaze</span></h3>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Sugarlash Black Glaze does triple duty with an ultra-nourishing keratin formula that helps condition and strengthen lashes, holds curled lashes in place, and also lightly tints them. With two colour options (Espresso and Black), Glaze is perfect for clients with brittle and/or light-coloured lashes that need a little tint and a hint of drama. <br data-mce-fragment="1"><br data-mce-fragment="1">+ Size: 15ml<br data-mce-fragment="1">+ 30 clients / bottle<br data-mce-fragment="1"> <br data-mce-fragment="1">Store at room temperature<br data-mce-fragment="1">Pour a small amount of Glaze into a clean dampen dish, then apply to lashes using a micro brush at the end of the lash lift service. Glaze can be left on the client's lashes when they leave your salon.<br data-mce-fragment="1"> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sugarlash</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6016225411249</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/3752490303536</id>
+    <published>2019-06-03T15:02:14-07:00</published>
+    <updated>2019-06-03T15:02:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/beauty-wave-eyelash-lamination-kit"/>
+    <title>Beauty Wave - Lash Lift Kit</title>
+    <s:type>Lash Lifts</s:type>
+    <s:vendor>EYELASH MAKER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Beauty_Wave_eyelash_lamination_kit.jpg?v=1622147178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EYELASH MAKER<br>
+        <strong>Type: </strong>Lash Lifts<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Beauty Wave</strong> is a awesome affordable lash lift kit. It comes in tubes so it help easier to apply. This lamination kit will s</span>moothens, give a visible volume to your eyelashes. It also create <strong>pretty curls</strong> for you nature lash, which <strong>lasts up to 5 weeks</strong>. <strong>Keratin Vitamin and Natural Essence added</strong> will nourish your lashes after perming procedures. </p>
+<p>Here are what you will receive in this lash lift kit:<br></p>
+<ul>
+<li>Fixing Gel 8g</li>
+<li>Wave #1 (15g) cream</li>
+<li>Wave #2 (15g) cream</li>
+<li>Natural Essence (15g)</li>
+<li>Keratin Vitamin (15g)</li>
+<li>Wave Pads (5 pairs)</li>
+<li>Strawberry Combi Brush (4ea)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/3752490303536</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>152</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/2269510500400</id>
+    <published>2019-03-21T12:11:39-07:00</published>
+    <updated>2019-03-21T12:11:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lash-lift-fixing-gel"/>
+    <title>Eyelash Lift - Strong Fixing Gel</title>
+    <s:type>Lash Lifts</s:type>
+    <s:vendor>EYELASH MAKER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/image_46465540-bf6a-4d33-8530-5ab91140781d.jpg?v=1622146959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EYELASH MAKER<br>
+        <strong>Type: </strong>Lash Lifts<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eyelash lifting fixing gel is designed to adhere natural eyelashes and silicon mould to the eyelid. Strong Fixer is perfectly apply both thin and thick eyelashs by providing more secure and effective hold than previous version. The nutrition is<span data-mce-fragment="1"> not only lifts your lashes but nourishes the lashes too. </span><br></p>
+<p><span>Fall in the Volume 2 Fixing Gel 5g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eyelashmaker</s:tag>
+    <s:tag>fixinggel</s:tag>
+    <s:tag>lash lift</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/2269510500400</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/2172967354416</id>
+    <published>2018-12-18T18:13:28-08:00</published>
+    <updated>2018-12-18T18:13:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/silicone-lot"/>
+    <title>Silicone Lot (3 Pairs)</title>
+    <s:type>Lash Lifts</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/SILICON-LOT-1-1.png?v=1547336960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Lash Lifts<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For Lash Lift - 3 pairs in 1 package.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/2172967354416</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/2164285374512</id>
+    <published>2018-12-04T13:33:10-08:00</published>
+    <updated>2018-12-04T13:33:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/cotton-pads-90ct"/>
+    <title>Cotton Pads - 90ct</title>
+    <s:type>Application</s:type>
+    <s:vendor>EYELASH MAKER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/EMBOSSING-COTTON-PAD-0.png?v=1622147189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EYELASH MAKER<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">High quality, dense textured lint free cotton pads.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton pads</s:tag>
+    <s:tag>tools</s:tag>
+    <s:tag>tools for extension</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/2164285374512</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>76</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/1486017298480</id>
+    <published>2018-10-10T14:45:41-07:00</published>
+    <updated>2018-10-10T14:45:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lint-free-applicators-50ct"/>
+    <title>Lint Free Applicators</title>
+    <s:type>Application</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/834ed118f90ad353f7c04fc45e3cc49f.JPG?v=1622144968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Brushes are disposable made from durable lint free material.</p>
+<p>Soft, gentle and multi-purpose.</p>
+<p>Great for cleaning or applying primer, remover, and sealer to lashes effectively without dripping, spilling, and wasting product.</p>
+<p>Ideal alternative to traditional cotton swabs, which contain fibers that may get caught between natural eyelashes and eyelash extensions</p>
+<p>Approx size: 3.5"</p>
+<p>50 count</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/1486017298480</id>
+      <title>Sparkly Pink / 50pcs</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/1486017298480</id>
+      <title>Sparkly Blue / 50pcs</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/1486017298480</id>
+      <title>Sparkly Purple / 50pcs</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/10205847368</id>
+    <published>2017-07-18T06:45:38-07:00</published>
+    <updated>2017-07-18T06:45:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/microbrush-regular"/>
+    <title>Microbrush - 100pcs</title>
+    <s:type>Application</s:type>
+    <s:vendor>EYELASH MAKER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/micro-brush-regular-25-mm.jpg?v=1622146098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EYELASH MAKER<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For Eyelash Extensions and Lash Lifts / Perms</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/10205847368</id>
+      <title>Blue - Regular (2.5mm)</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>69</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/10122867848</id>
+    <published>2017-07-09T09:18:31-07:00</published>
+    <updated>2017-07-09T09:18:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/copy-of-hydrogel-eyemask-b-shape"/>
+    <title>Hydrogel Eyemask - B shape (10 pairs)</title>
+    <s:type>Application</s:type>
+    <s:vendor>EYELASH MAKER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/hydroB.jpg?v=1622144321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EYELASH MAKER<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item"><strong>HYDROGEL EYE PADS</strong>: fits different eye shapes and sizes, curved to fit most eyes, do not need to trim like other pads,they have a special surface which prevents them from moving during the application process and are the most thinnest and highest quality eye pads</span></li>
+<li><span class="a-list-item"><strong>LINT FREE</strong>: no unwanted fabric from the patches and lashes will not stick to the foam surface during application,these dual purpose under eye gel pads effectively cover the lower lashes whilst delivering a fresh, hydrating treatment to the eye skin brighten</span></li>
+<li><span class="a-list-item"><strong>USED FOR</strong>: they are used to cover and protect the lower lashes during the eyelash extension treatment, facials, eyelash perming, eyelash Tinting or just use it to reduce dark circle, eye puffiness</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eyemasks</s:tag>
+    <s:tag>tools</s:tag>
+    <s:tag>tools for extension</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/10122867848</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/10122866376</id>
+    <published>2017-07-09T09:18:31-07:00</published>
+    <updated>2017-07-09T09:18:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/hydrogel-eyemask-a-shape"/>
+    <title>Hydrogel Eyemask - A shape (10 pairs)</title>
+    <s:type>Application</s:type>
+    <s:vendor>EYELASH MAKER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/maskA_ec29131a-fe12-438a-8a9a-29f43a69a58a.jpg?v=1622144368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EYELASH MAKER<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item"><strong>HYDROGEL EYE PADS</strong>: fits different eye shapes and sizes,curved to fit most eyes, do not need to trim like other pads,they have a special surface which prevents them from moving during the application process and are the most thinnest and highest quality eye pads</span></li>
+<li><span class="a-list-item"><strong>LINT FREE</strong>: no unwanted fabric from the patches and lashes will not stick to the foam surface during application,these dual purpose under eye gel pads effectively cover the lower lashes whilst delivering a fresh, hydrating treatment to the eye skin brighten</span></li>
+<li><span class="a-list-item">USED FOR: they are used to cover and protect the lower lashes during the eyelash extension treatment, facials, eyelash perming, eyelash Tinting or just use it to reduce dark circle, eye puffiness</span></li>
+</ul>
+</div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eyemasks</s:tag>
+    <s:tag>tools</s:tag>
+    <s:tag>tools for extension</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/10122866376</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+  </entry>
+</feed>

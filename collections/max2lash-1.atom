@@ -1,0 +1,1912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cartellash.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cartellash.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cartellash.ca/collections/max2lash-1.atom"/>
+  <title>CARTEL LASH &amp; SUPPLY CO</title>
+  <updated>2020-02-25T13:46:03-08:00</updated>
+  <author>
+    <name>CARTEL LASH &amp; SUPPLY CO</name>
+  </author>
+  <entry>
+    <id>https://cartellash.ca/products/4456938078256</id>
+    <published>2020-02-25T13:46:03-08:00</published>
+    <updated>2020-02-25T13:46:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/max2originale-black-gold-mixed-length-trays"/>
+    <title>Max2Originale - Black Gold Mixed Length Trays</title>
+    <s:type>Lashes</s:type>
+    <s:vendor>MAX2LASH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/2034390403_1PwQdLRV_blackgolds_a273ecf3-e2ef-46a8-8826-5f190b99d34d.png?v=1622142279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAX2LASH<br>
+        <strong>Type: </strong>Lashes<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blackgold</s:tag>
+    <s:tag>MAX2LASH</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456938078256</id>
+      <title>C / 0.05 / Mixed Even (8 10 12 14)</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456938078256</id>
+      <title>C / 0.05 / Mixed Odd (9 11 13 15)</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456938078256</id>
+      <title>C / 0.07 / Mixed Even (8 10 12 14)</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456938078256</id>
+      <title>C / 0.07 / Mixed Odd (9 11 13 15)</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456938078256</id>
+      <title>C / 0.15 / Mixed Even (8 10 12 14)</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456938078256</id>
+      <title>C / 0.15 / Mixed Odd (9 11 13 15)</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456938078256</id>
+      <title>CO / 0.05 / Mixed Even (8 10 12 14)</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456938078256</id>
+      <title>CO / 0.05 / Mixed Odd (9 11 13 15)</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456938078256</id>
+      <title>CO / 0.07 / Mixed Even (8 10 12 14)</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456938078256</id>
+      <title>CO / 0.07 / Mixed Odd (9 11 13 15)</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456938078256</id>
+      <title>CO / 0.15 / Mixed Even (8 10 12 14)</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456938078256</id>
+      <title>CO / 0.15 / Mixed Odd (9 11 13 15)</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456938078256</id>
+      <title>O / 0.05 / Mixed Even (8 10 12 14)</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456938078256</id>
+      <title>O / 0.05 / Mixed Odd (9 11 13 15)</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456938078256</id>
+      <title>O / 0.07 / Mixed Even (8 10 12 14)</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456938078256</id>
+      <title>O / 0.07 / Mixed Odd (9 11 13 15)</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456938078256</id>
+      <title>O / 0.15 / Mixed Even (8 10 12 14)</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456938078256</id>
+      <title>O / 0.15 / Mixed Odd (9 11 13 15)</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4456917893168</id>
+    <published>2020-02-25T13:46:03-08:00</published>
+    <updated>2020-02-25T13:46:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/max2originale-black-gold-single-length"/>
+    <title>Max2Originale - Black Gold Single Length</title>
+    <s:type>Lashes</s:type>
+    <s:vendor>MAX2LASH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/2034390403_1PwQdLRV_blackgolds.png?v=1621462705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAX2LASH<br>
+        <strong>Type: </strong>Lashes<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Max2Originale™</strong> is the leading eyelash extension brand, promises to provide exceptional products with competitive price and satisfactory service.</p>
+<p data-mce-fragment="1">Black Gold is <strong>premium edition</strong> from Max2Originale™ which made of high lustering synthetic fiber. <span data-mce-fragment="1">Black Gold highlights itself with <strong>soft and resilient application</strong>, promises to give you <strong>ultra glossy eyelashes and</strong></span><strong> a vivid eye-line</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blackgold</s:tag>
+    <s:tag>MAX2LASH</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.05 / 8</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.05 / 9</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.05 / 10</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.05 / 11</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.05 / 12</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.05 / 13</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.05 / 14</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.05 / 15</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.05 / 16</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.07 / 8</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.07 / 9</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.07 / 10</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.07 / 11</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.07 / 12</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.07 / 13</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.07 / 14</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.07 / 15</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.07 / 16</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.15 / 8</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.15 / 9</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.15 / 10</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.15 / 11</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.15 / 12</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.15 / 13</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.15 / 14</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.15 / 15</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>C / 0.15 / 16</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.05 / 8</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.05 / 9</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.05 / 10</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.05 / 11</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.05 / 12</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.05 / 13</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.05 / 14</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.05 / 15</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.05 / 16</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.07 / 8</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.07 / 9</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.07 / 10</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.07 / 11</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.07 / 12</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.07 / 13</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.07 / 14</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.07 / 15</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.07 / 16</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.15 / 8</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.15 / 9</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.15 / 10</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.15 / 11</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.15 / 12</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.15 / 13</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.15 / 14</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.15 / 15</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>CO / 0.15 / 16</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.05 / 8</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.05 / 9</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.05 / 10</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.05 / 11</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.05 / 12</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.05 / 13</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.05 / 14</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.05 / 15</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.05 / 16</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.07 / 8</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.07 / 9</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.07 / 10</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.07 / 11</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.07 / 12</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.07 / 13</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.07 / 14</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.07 / 15</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.07 / 16</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.15 / 8</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.15 / 9</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.15 / 10</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.15 / 11</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.15 / 12</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.15 / 13</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.15 / 14</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.15 / 15</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456917893168</id>
+      <title>O / 0.15 / 16</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4456871919664</id>
+    <published>2020-02-25T13:05:01-08:00</published>
+    <updated>2020-02-25T13:05:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/max2originale-mixed-length-trays"/>
+    <title>Max2Originale - Silk Mixed Length Trays</title>
+    <s:type>Lashes</s:type>
+    <s:vendor>MAX2LASH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/pi_583_13f63547-6ab8-4aa4-8d29-59e2420a3a32.png?v=1621461678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAX2LASH<br>
+        <strong>Type: </strong>Lashes<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAX2LASH</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>C / 0.05 / Mixed Even (8 10 12 14)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>C / 0.05 / Mixed Odd (9 11 13 15)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>C / 0.07 / Mixed Even (8 10 12 14)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>C / 0.07 / Mixed Odd (9 11 13 15)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>C / 0.15 / Mixed Even (8 10 12 14)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>C / 0.15 / Mixed Odd (9 11 13 15)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>CO / 0.05 / Mixed Even (8 10 12 14)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>CO / 0.05 / Mixed Odd (9 11 13 15)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>CO / 0.07 / Mixed Even (8 10 12 14)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>CO / 0.07 / Mixed Odd (9 11 13 15)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>CO / 0.15 / Mixed Even (8 10 12 14)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>CO / 0.15 / Mixed Odd (9 11 13 15)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>O / 0.05 / Mixed Even (8 10 12 14)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>O / 0.05 / Mixed Odd (9 11 13 15)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>O / 0.07 / Mixed Even (8 10 12 14)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>O / 0.07 / Mixed Odd (9 11 13 15)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>O / 0.15 / Mixed Even (8 10 12 14)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>O / 0.15 / Mixed Odd (9 11 13 15)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>L / 0.15 / Mixed Even (8 10 12 14)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>L / 0.15 / Mixed Odd (9 11 13 15)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>LJ / 0.07 / Mixed Even (8 10 12 14)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>LJ / 0.07 / Mixed Odd (9 11 13 15)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>LJ / 0.15 / Mixed Even (8 10 12 14)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456871919664</id>
+      <title>LJ / 0.15 / Mixed Odd (9 11 13 15)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4456837840944</id>
+    <published>2020-02-25T13:03:21-08:00</published>
+    <updated>2020-02-25T13:03:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/max2originale-single-length-1"/>
+    <title>Max2Originale - Silk Single Length</title>
+    <s:type>Lashes</s:type>
+    <s:vendor>MAX2LASH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/pi_583_ecfcb940-3493-44d0-824c-613d2a61b502.png?v=1622142002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAX2LASH<br>
+        <strong>Type: </strong>Lashes<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Max2Originale™ is the leading eyelash extension brand, promises to provide exceptional products with competitive price and satisfactory service.</p>
+<p>Silk Lash Collection<span data-mce-fragment="1"> is premium edition from Max2Originale™. The lashes are made of semi-gloss synthetic fiber brings you soft and resilient application.</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAX2LASH</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.05 / 8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.05 / 9</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.05 / 10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.05 / 11</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.05 / 12</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.05 / 13</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.05 / 14</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.05 / 15</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.05 / 16</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.07 / 6</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.07 / 7</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.07 / 8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.07 / 9</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.07 / 10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.07 / 11</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.07 / 12</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.07 / 13</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.07 / 14</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.07 / 15</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.07 / 16</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.07 / 17</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.15 / 6</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.15 / 7</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.15 / 8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.15 / 9</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.15 / 10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.15 / 11</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.15 / 12</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.15 / 13</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.15 / 14</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.15 / 15</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.15 / 16</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>C / 0.15 / 17</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.05 / 8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.05 / 9</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.05 / 10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.05 / 11</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.05 / 12</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.05 / 13</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.05 / 14</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.05 / 15</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.05 / 16</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.07 / 8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.07 / 9</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.07 / 10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.07 / 11</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.07 / 12</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.07 / 13</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.07 / 14</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.07 / 15</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.07 / 16</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.07 / 17</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.15 / 6</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.15 / 7</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.15 / 8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.15 / 9</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.15 / 10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.15 / 11</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.15 / 12</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.15 / 13</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.15 / 14</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.15 / 15</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.15 / 16</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>CO / 0.15 / 17</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.05 / 8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.05 / 9</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.05 / 10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.05 / 11</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.05 / 12</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.05 / 13</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.05 / 14</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.05 / 15</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.05 / 16</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.07 / 6</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.07 / 7</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.07 / 8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.07 / 9</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.07 / 10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.07 / 11</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.07 / 12</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.07 / 13</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.07 / 14</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.07 / 15</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.07 / 16</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.15 / 6</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.15 / 7</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.15 / 8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.15 / 9</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.15 / 10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.15 / 11</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.15 / 12</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.15 / 13</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.15 / 14</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.15 / 15</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.15 / 16</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4456837840944</id>
+      <title>O / 0.15 / 17</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/10783325128</id>
+    <published>2017-10-03T11:34:16-07:00</published>
+    <updated>2017-10-03T11:34:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/protein-cleansing-remover-spray"/>
+    <title>Protein Cleansing Remover Spray</title>
+    <s:type>Liquids</s:type>
+    <s:vendor>MAX2LASH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ProteinSpray.png?v=1507055834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAX2LASH<br>
+        <strong>Type: </strong>Liquids<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h3 class="p3"><span>Product Highlights:</span></h3>
+<p class="p4"> </p>
+<p class="p4">The protein remover is used to prep and disinfect the lashes.</p>
+<p class="p4">Designed to remove residual cosmetics and natural oils, our Primer will cleanse and prepare the lashes for maximum bonding of the adhesive.</p>
+<p class="p4">As the adhesive will bond faster, overall application time will be reduced.</p>
+<p class="p4">Primer can be used on natural or extended lashes making it ideal for both initial application and touch-ups.</p>
+<p class="p4">Our Primer will not affect any existing eyelashes extensions bonds.</p>
+<h3 class="p3">
+<span>How to use:</span><span class="s1"> </span>
+</h3>
+<p class="p6">Client’s eyes should be closed when applying primer, do not apply directly on the eyes.</p>
+<p class="p6">Hold flat cotton pad under lashes to catch excess primer.</p>
+<p class="p6">Squeeze a few drops or one spray of primer on a small to medium makeup brush.</p>
+<p class="p6">Brush primer on lashes, drying time is approximately 2 seconds.</p>
+<p class="p6">Dry lashes thoroughly with an air-blower or fan before applying eyelash extensions as usual</p>
+<h3 class="p3"><span>Disclaimer:<span class="s1"> </span></span></h3>
+<ul>
+<li>We recommend that you keep the primer in refrigerator or somewhere cooler than room temperature for a longer storage life.</li>
+<li>If the primer is kept in a refrigerator, it is required to be left out for about 1 to 2 hours before use.</li>
+<li>For advanced technicians only. Do not use on yourself.</li>
+<li>We are not responsible for the misuse of the primer.</li>
+<li>You are solely responsible for the product once you purchase it from us. Performance and results of the primer vary from person to person.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAX2LASH</s:tag>
+    <s:tag>protein remover</s:tag>
+    <s:tag>Protein Remover Pads</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/10783325128</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/588961284144</id>
+    <published>2017-07-18T07:01:52-07:00</published>
+    <updated>2017-07-18T07:01:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/keratin-lash-shampoo"/>
+    <title>Keratin Lash Shampoo (Bath)</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>MAX2LASH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/keratinlashfoam_1200x1200_e105e5c2-abd2-42a3-a3cc-339395ed4886.png?v=1622146583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAX2LASH<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Great Keratin Lash Foam </strong>﻿Effectively removes dirt, oil, and make-up, including waterproof eye make-up without any harsh soaps or oils that can sting or irritate the sensitive eye area. It rinses completely clean and won't leave any pore-clogging residue. Contains Keratin and Panthenol, which provide superb skin conditioning. This elegant formulation was designed for both professional and individual users.</p>
+<p><strong>How to use: </strong></p>
+<p>1. Gently shake the bottle several times before opening.</p>
+<p>2. Massage a pea size amount onto the eye area, including eyelids and eyelashes. Avoid direct contact with eyes.</p>
+<p>3. Rinse thoroughly 5-6 times and pat dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cleanser</s:tag>
+    <s:tag>lash shampoo</s:tag>
+    <s:tag>MAX2LASH</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/588961284144</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>138</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/9037041096</id>
+    <published>2017-03-27T13:43:00-07:00</published>
+    <updated>2017-03-27T13:43:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/max2originale-protein-remover-pads-protein-remover-cleansing-pads-specially-made-for-eyelash-extension"/>
+    <title>Max2Originale - Protein Remover Pads</title>
+    <s:type>Application</s:type>
+    <s:vendor>MAX2LASH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/removerpads.png?v=1543208669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAX2LASH<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>PROTEIN REMOVER CLEANSING PADS</strong><br></p>
+<p><strong>SPECIALLY MADE FOR EYELASH EXTENSION</strong></p>
+<meta charset="utf-8">
+<p>ㆍAs gently moisturizing the skin, cotton pads remove eye make-up and facial oil. <br>ㆍPhytoncide and vitamin E protect the delicated skin area. <br>ㆍ75 Pads</p>
+<meta charset="utf-8">
+<p><strong>How To Use : </strong><br></p>
+<ul>
+<li>When removing makeup: Take off one pad, putting it and pushing it softly while close your eyes. After a few seconds later, take off the pad and then you can see the makeup, mascara, and wasted protein is clearly removed. Softly wipe remaining mascara on your eyes.</li>
+<li>When eyelash extension: Before operation, take off one pad, putting it on the eyes and pushing it softly and wipe eyelashes and skin oil softly. You can see the makeup, mascara, and wasted protein is clearly removed. When skin oil is certainly removed, duration period will be almost doubled.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cosmetic</s:tag>
+    <s:tag>MAX2LASH</s:tag>
+    <s:tag>max2originale</s:tag>
+    <s:tag>Protein Remover Pads</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/9037041096</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>93</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/9035800200</id>
+    <published>2017-03-27T12:41:00-07:00</published>
+    <updated>2017-03-27T12:41:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/max2originale-cream-remover-adhesive-remover-cream-type-for-eyelash-extension"/>
+    <title>Max2Originale - Cream Remover</title>
+    <s:type>Liquids</s:type>
+    <s:vendor>MAX2LASH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/creamremover1.JPG?v=1490643947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAX2LASH<br>
+        <strong>Type: </strong>Liquids<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><b>max2</b><span>originale</span></p>
+<p><strong>ADHESIVE REMOVER CREAM TYPE FOR EYELASH EXTENSION</strong></p>
+<meta charset="utf-8">
+<p>- For removing extended lashes <br>- Crazy Quick Perfect Remover. <br>- Easy to use <br>- Well balanced viscosity</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cream remover</s:tag>
+    <s:tag>MAX2LASH</s:tag>
+    <s:tag>max2originale</s:tag>
+    <s:tag>remover</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/9035800200</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/9035628168</id>
+    <published>2017-03-27T12:01:00-07:00</published>
+    <updated>2017-03-27T12:01:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/max2originale-liquid-remover"/>
+    <title>Max2Originale - Liquid Remover</title>
+    <s:type>Liquids</s:type>
+    <s:vendor>MAX2LASH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/max2liq_remover.png?v=1622147632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAX2LASH<br>
+        <strong>Type: </strong>Liquids<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><b>max2</b><span>originale</span></p>
+<p>ㆍodorless liquid type remover. Easy to remove extended eyelashes. For experts. </p>
+<p>ㆍ15g</p>
+<meta charset="utf-8"><br><b>How To Use : </b><br>ㆍ<strong>It is available to be applied while client lay down on the bed. </strong><br><strong>ㆍPick micro swab and dip remover. </strong><br><strong>ㆍTouch on eyelash and rub smoothly where you want to remove. </strong><br><strong>ㆍUsually taking off after 1 minute. </strong><br><strong>ㆍ2~3 times of rubbing maybe necessary for the stiff eyelash. </strong><br><strong>ㆍYou may adjust the amount of remover properly and be careful not to soaked into eye.</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>liquid remover</s:tag>
+    <s:tag>MAX2LASH</s:tag>
+    <s:tag>max2originale</s:tag>
+    <s:tag>remover</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/9035628168</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cartellash.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cartellash.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cartellash.ca/collections/all.atom"/>
+  <title>CARTEL LASH &amp; SUPPLY CO</title>
+  <updated>2021-08-18T14:46:46-07:00</updated>
+  <author>
+    <name>CARTEL LASH &amp; SUPPLY CO</name>
+  </author>
+  <entry>
+    <id>https://cartellash.ca/products/6890774921393</id>
+    <published>2021-08-18T14:46:46-07:00</published>
+    <updated>2021-08-18T14:46:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lash-mirror"/>
+    <title>Lash Mirror</title>
+    <s:type>Application</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-18at2.43.26PM.png?v=1629323206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lash Mirror</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890774921393</id>
+      <title>Black</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890774921393</id>
+      <title>Pink</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890774921393</id>
+      <title>White</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6890758668465</id>
+    <published>2021-08-18T14:36:46-07:00</published>
+    <updated>2021-08-18T14:36:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/rose-gold-phone-holder"/>
+    <title>Rose Gold Phone Holder</title>
+    <s:type>Accesssories</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-18at2.34.41PM.png?v=1629322636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Accesssories<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Phone Holder</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890758668465</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6890626482353</id>
+    <published>2021-08-18T13:25:15-07:00</published>
+    <updated>2021-08-18T13:25:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/long-lash-lift-comb-1pc"/>
+    <title>Long Lash Lift Comb - 1pc</title>
+    <s:type>Lash Lift</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-18at11.41.19AM.png?v=1629318227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Lash Lift<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lash Lift</s:tag>
+    <s:tag>Lash lift Comb</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890626482353</id>
+      <title>Teal</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890626482353</id>
+      <title>Pink</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6890614849713</id>
+    <published>2021-08-18T13:18:18-07:00</published>
+    <updated>2021-08-18T13:18:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/cart-phone-mount"/>
+    <title>Cart Phone Mount</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-18at1.13.29PM.png?v=1629317898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Phone Mount</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890614849713</id>
+      <title>Strawberry</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890614849713</id>
+      <title>Rainbow</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6890592305329</id>
+    <published>2021-08-18T13:08:36-07:00</published>
+    <updated>2021-08-18T13:08:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/assorted-mascara-brush-tube-case-10pcs"/>
+    <title>Assorted Mascara Brush Tube Case - 10pcs</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-18at11.37.52AM.png?v=1629317316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case</s:tag>
+    <s:tag>Mascara Wand</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890592305329</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6890456678577</id>
+    <published>2021-08-18T11:56:53-07:00</published>
+    <updated>2021-08-18T11:56:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/white-tape-dispenser"/>
+    <title>White Tape Dispenser</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-18at11.35.15AM.png?v=1629313013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tape Dispenser</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890456678577</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6890444488881</id>
+    <published>2021-08-18T11:49:11-07:00</published>
+    <updated>2021-08-18T11:49:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/eyelash-plastic-wrap"/>
+    <title>Eyelash Plastic Wrap</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-18at11.29.33AM.png?v=1629312551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Eyelash plastic wrap is great for lash removals or lash lifts and tinting.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lash Lift</s:tag>
+    <s:tag>Plastic Wrap</s:tag>
+    <s:tag>Remover</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890444488881</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6890438295729</id>
+    <published>2021-08-18T11:45:29-07:00</published>
+    <updated>2021-08-18T11:45:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/blooming-heart-glue-ring-10pcs"/>
+    <title>Blooming Heart Glue Ring - 10pcs</title>
+    <s:type>Application</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-18at11.27.41AM.png?v=1629312329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blooming Ring</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Glue Ring</s:tag>
+    <s:tag>Heart</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890438295729</id>
+      <title>Blue</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890438295729</id>
+      <title>Pink</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6872424546481</id>
+    <published>2021-08-11T14:59:03-07:00</published>
+    <updated>2021-08-11T14:59:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/short-lash-lift-comb"/>
+    <title>Short Lash Lift Comb</title>
+    <s:type>Lash Lift</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-11at2.55.31PM.png?v=1628719143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Lash Lift<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lash Lift</s:tag>
+    <s:tag>Lash lift comb</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872424546481</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6872416092337</id>
+    <published>2021-08-11T14:53:23-07:00</published>
+    <updated>2021-08-11T14:53:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/silicone-lash-palette"/>
+    <title>Silicone Lash Palette</title>
+    <s:type>Application</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-11at2.49.52PM.png?v=1628718803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lash Palette</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872416092337</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6872408326321</id>
+    <published>2021-08-11T14:47:45-07:00</published>
+    <updated>2021-08-11T14:47:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/eyelash-cleansing-brush"/>
+    <title>Eyelash Cleansing Brush</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-11at2.43.29PM.png?v=1628718465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aftercare</s:tag>
+    <s:tag>Lash Cleanser</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872408326321</id>
+      <title>White Gold</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872408326321</id>
+      <title>White Silver</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872408326321</id>
+      <title>Pink Gold</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6872402690225</id>
+    <published>2021-08-11T14:42:19-07:00</published>
+    <updated>2021-08-11T14:42:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/quartz-lash-palette"/>
+    <title>Quartz Lash Palette</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-11at2.38.34PM.png?v=1628718139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lash Palette</s:tag>
+    <s:tag>Palette</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872402690225</id>
+      <title>Aquamarine</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872402690225</id>
+      <title>Rose</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872402690225</id>
+      <title>Smoky</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6872397185201</id>
+    <published>2021-08-11T14:38:07-07:00</published>
+    <updated>2021-08-11T14:38:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/pink-foldable-phone-holder"/>
+    <title>Pink Foldable Phone Holder</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-11at2.36.09PM.png?v=1628717888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Phone Holder</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872397185201</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6872385355953</id>
+    <published>2021-08-11T14:31:03-07:00</published>
+    <updated>2021-08-11T14:31:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/mini-melts-pencil-holder"/>
+    <title>Mini Melts Pencil Holder</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-11at2.24.48PM.png?v=1628717464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Holder</s:tag>
+    <s:tag>Setup</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872385355953</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6872366448817</id>
+    <published>2021-08-11T14:23:28-07:00</published>
+    <updated>2021-08-11T14:23:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/glue-drop-palette"/>
+    <title>Glue Drop Palette</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-11at2.20.19PM.png?v=1628716957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glue</s:tag>
+    <s:tag>Glue Palette</s:tag>
+    <s:tag>Glue Tray</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872366448817</id>
+      <title>Baby Pink</title>
+      <s:price currency="CAD">0.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872366448817</id>
+      <title>Hot Pink</title>
+      <s:price currency="CAD">0.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6537941680305</id>
+    <published>2021-08-09T13:53:33-07:00</published>
+    <updated>2021-08-09T13:53:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/preempt-rtu-1l"/>
+    <title>PREempt RTU - 1L</title>
+    <s:type>Sanitization | PPE</s:type>
+    <s:vendor>PREEMPT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-02-24at2.04.19PM.png?v=1614204463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PREEMPT<br>
+        <strong>Type: </strong>Sanitization | PPE<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ppe</s:tag>
+    <s:tag>Preempt</s:tag>
+    <s:tag>sanitization</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6537941680305</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6790045597873</id>
+    <published>2021-08-09T13:53:04-07:00</published>
+    <updated>2021-08-09T13:53:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lbla-volume-jl-gold-tweezer"/>
+    <title>LBLA Volume JL Gold Tweezer</title>
+    <s:type>Tweezers</s:type>
+    <s:vendor>LASHBOXLA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Volume_JL_Gold_Jan_07_2019_10203_2000x_bcec2cf3-df80-422a-a682-7a990116ae11.jpg?v=1624566076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LASHBOXLA<br>
+        <strong>Type: </strong>Tweezers<br>
+        <strong>Price: </strong>
+            25.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">LBLA JL Tweezer is designed to have the similarities to both our Volume J and L+ tweezers. It has a very precise tip that perfectly grabs and spreads Volume lashes in a diameter of 0.06 - 0.10mm. Golden plated for a smooth, comfortable hold.  The recommended pickup for these tweezers is usually 2mm - 3mm in from the tip.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LBLA</s:tag>
+    <s:tag>tweezers</s:tag>
+    <s:tag>Volume</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6790045597873</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6790031573169</id>
+    <published>2021-08-09T13:52:47-07:00</published>
+    <updated>2021-08-09T13:52:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/microban-425-g-citrus-scent-24-hour-disinfectant-sanitizing-spray-1"/>
+    <title>Microban 425g Fresh Scent 24 Hour Disinfectant Sanitizing Spray</title>
+    <s:type></s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/p_1001553648.jpg?v=1624565565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p class="acl-py--x-small hdca-text-body--small">Microban 24 Hour Sanitizing Spray keeps killing 99.9% of bacteria for up to 24 Hours, even after multiple touches, to support a clean and healthy home. This 3-in-1 cleaner Sanitizes for 24 Hours, Disinfects and Eliminates odours. Use on high touch hard surface areas like door handles, light switches, remotes and kids toys. Let Microban bring you and your family peace of mind when it comes to disinfecting against germs and maintaining a healthy home. You can also use on soft surfaces, like couches, coats, sports bags, strollers and backpacks.</p>
+<section id="productFeature" class="acl-my--x-small">
+<ol acl-list="" textsize="small" type="bulleted" class="acl-lheight--large acl-text-size--medium acl-list acl-list--type--bulleted acl-text-size--small ng-star-inserted" _nghost-hdca-c93="">
+<li acl-list-item="" class="acl-lheight--regular acl-my--xx-small acl-text-size--small acl-list-item" _nghost-hdca-c92="">Keeps surfaces sanitized for up to 24 hours, even after multiple touches on hard non porous, non-food contact surfaces</li>
+</ol>
+<ol acl-list="" textsize="small" type="bulleted" class="acl-lheight--large acl-text-size--medium acl-list acl-list--type--bulleted acl-text-size--small ng-star-inserted" _nghost-hdca-c93="">
+<li acl-list-item="" class="acl-lheight--regular acl-my--xx-small acl-text-size--small acl-list-item" _nghost-hdca-c92="">Keeps Killing 99.9% of Bacteria</li>
+</ol>
+<ol acl-list="" textsize="small" type="bulleted" class="acl-lheight--large acl-text-size--medium acl-list acl-list--type--bulleted acl-text-size--small ng-star-inserted" _nghost-hdca-c93="">
+<li acl-list-item="" class="acl-lheight--regular acl-my--xx-small acl-text-size--small acl-list-item" _nghost-hdca-c92="">Kills 99.9% of germs, including cold and flu viruses</li>
+</ol>
+<ol acl-list="" textsize="small" type="bulleted" class="acl-lheight--large acl-text-size--medium acl-list acl-list--type--bulleted acl-text-size--small ng-star-inserted" _nghost-hdca-c93="">
+<li acl-list-item="" class="acl-lheight--regular acl-my--xx-small acl-text-size--small acl-list-item" _nghost-hdca-c92="">Eliminates odours</li>
+</ol>
+<ol acl-list="" textsize="small" type="bulleted" class="acl-lheight--large acl-text-size--medium acl-list acl-list--type--bulleted acl-text-size--small ng-star-inserted" _nghost-hdca-c93="">
+<li acl-list-item="" class="acl-lheight--regular acl-my--xx-small acl-text-size--small acl-list-item" _nghost-hdca-c92="">Sanitizes both hard &amp; soft surfaces</li>
+</ol>
+<ol acl-list="" textsize="small" type="bulleted" class="acl-lheight--large acl-text-size--medium acl-list acl-list--type--bulleted acl-text-size--small ng-star-inserted" _nghost-hdca-c93="">
+<li acl-list-item="" class="acl-lheight--regular acl-my--xx-small acl-text-size--small acl-list-item" _nghost-hdca-c92="">Prevents the growth of mold and mildew for 7 days on hard surfaces</li>
+</ol>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/6790031573169</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6790035439793</id>
+    <published>2021-08-09T13:52:24-07:00</published>
+    <updated>2021-08-09T13:52:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/copy-of-lysol-disinfectant-wipes-spring-waterfall"/>
+    <title>Lysol Disinfectant Wipes - Spring Waterfall</title>
+    <s:type></s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ppe-lysol-adv100spring__99762.1599842872.png?v=1624565918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/6790035439793</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6855321354417</id>
+    <published>2021-08-03T13:53:43-07:00</published>
+    <updated>2021-08-03T13:53:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/sugarlash-lash-lift-tint-brush-dual-ended"/>
+    <title>Sugarlash - Lash Lift Tint Brush (Dual Ended)</title>
+    <s:type>Application</s:type>
+    <s:vendor>SUGARLASH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Tint-Brushes.png?v=1628024017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUGARLASH<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">To rock your next lash tint application, you need the right tools. Featuring specially-designed oval and angled tips, these brushes are perfect for mixing and applying Tints to your clients' lashes.</span></p>
+<p><meta charset="utf-8"><span>Silicone brushes can be used during the lash lift application to replace your disposable tools with these reusable silicone brush heads. Clean with soap and water and approved disinfectant after use.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brush</s:tag>
+    <s:tag>lash lift</s:tag>
+    <s:tag>sugarlash</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6855321354417</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6848362381489</id>
+    <published>2021-07-30T14:59:14-07:00</published>
+    <updated>2021-07-30T14:59:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/eyelash-large-mirror-multifunction-magnifying"/>
+    <title>Eyelash Large Mirror Multifunction Magnifying</title>
+    <s:type>Application</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Gold1.jpg?v=1627682251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">The Eyelash Mirror can be used to check position, angle of the eyelash extensions and the gaps in makeup. The Beauty Mirror has a light weight and a long stainless steel handle which is comfortable to handle and use. The Handle Mirror has a large rectangle mirror part to view all areas that there is no unseen place in the field of vision.</span></p>
+<ul>
+<li><span data-mce-fragment="1">Portable control mirror for eyelash extension.</span></li>
+<li><span data-mce-fragment="1">Can be disinfected high temperature.</span></li>
+<li><span data-mce-fragment="1">Be made of stainless steel and durable.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mirror</s:tag>
+    <s:tag>tools</s:tag>
+    <s:tag>tools for extension</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6848362381489</id>
+      <title>Black</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6848362381489</id>
+      <title>Gold</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6848362381489</id>
+      <title>Pink</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6798521794737</id>
+    <published>2021-07-15T13:39:54-07:00</published>
+    <updated>2021-07-15T13:39:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lashgod-supernatural-bond"/>
+    <title>LASHGOD SUPERNATURAL BOND</title>
+    <s:type>Adhesive</s:type>
+    <s:vendor>LASHGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-06-30at1.33.45PM.png?v=1625085696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LASHGOD<br>
+        <strong>Type: </strong>Adhesive<br>
+        <strong>Price: </strong>
+            67.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>SUPERNATURAL BOND</p>
+<p>This adhesive will make history within the lash industry, it is by far the most innovative formula we have ever created. Over a year in the making, this adhesive is revolutionary because it is the first adhesive that is 1/10 fume level, has a .5 second, INSTANT CONTACT dry time and is FREE of Butyl based Cyanoacrylate while still maintaining 8-10 week retention. Butyl Cyanoacrylate is the main bonding ingredient in 99.9% of adhesives but is also the #1 cause of allergies, eye irritation and redness. This adhesive is oil resistant.. yes you heard it oil resistant because is made from carrot seed oil.</p>
+<p> </p>
+<p>This adhesive dries instantly on contact when it touches the moisture in the natural lash. Our substitute for butyl-based Cyanoacrylate is the extremely mild 2-methoxyethyl acrylate This adhesive has a medium viscosity and is extremely elastic, it moves with the natural lash for high performance lasting retention. Jet black in colour will give your client an instant eyeliner effect when lashes are applied.</p>
+<p> </p>
+<p>This adhesive has the longest shelf life on the market 10 months unopened and 3+ months opened with correct storage. This adhesive functions in 5% -90% humidity making it an amazing option for lash artists worldwide even in extremely hot countries. This lash adhesive will change lash extensions as we know it. A new era of retention and a new solution for the most sensitive of clients. Finally, clients and lash techs with ongoing adhesive sensitivities may be the solution for you!</p>
+<p> </p>
+<p>This adhesive requires express shipping to countries over 27 degrees and in the summer months. Store in a cool dry environment when not in use or in a small container of rice. *shake well for one minute before use Our carrot oil formula allows for lashes to be nourished even with lash extensions, SUPERNATURAL bond promotes growth and healthy natural lashes</p>
+<p> </p>
+<p>SUPERNATURAL BOND FAQ: Dry time: instant (.2-.5 seconds)Viscosity: MediumElasticity: HIGH</p>
+<p>Colour: jet black</p>
+<p>Humidity 5%-90%</p>
+<p>Fume level: 1/10</p>
+<p>Shelf life: 10 months unopened</p>
+<p>Opened:3.5 monthsSkill level: expert</p>
+<p>Oil PROOF Adhesive ingredients: 2-methoxyethyl acrylate, dimethyl silicone polymer with silica( from the acrylate family 2-methoxyethyl acrylate is the mildest form of acrylate, our medical-grade clinically tested formula releases low fumes or irritation causing properties), carrot seed oil extract, black pigment, water.</p>
+<p>Free of formaldehyde, latex and odour and high fume ingredients; Butyl. Safe to use with all primers, sealants and retention extenders. Every sensitive client who has experienced past Cyanocrylate allergies is different and should ALWAYS patch test before receiving a full set as Acrylate allergies can be to the only Cyanoacrylate or to all forms of acrylate. Our medical-grade 2-methoxyethyl acrylate formula is extremely sensitive and fast-drying, in combination with supernatural bond certified lash technicians should place lashes a minimum of 1mm from the base of the lash line to avoid irritation on previously reactant clients. Supernatural bond is an excellent choice for non-reactant clients as well as it has low fumes, instant dry time and impeccable retention!</p>
+<p>*for certified professionals only*</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>lashgod</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6798521794737</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6798600241329</id>
+    <published>2021-06-30T14:57:00-07:00</published>
+    <updated>2021-06-30T14:57:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lashgod-kitty-fan"/>
+    <title>LASHGOD KITTY FAN</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>LASHGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-06-30at2.55.18PM.png?v=1625090220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LASHGOD<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAN</s:tag>
+    <s:tag>LASHGOD</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6798600241329</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6798594965681</id>
+    <published>2021-06-30T14:52:52-07:00</published>
+    <updated>2021-06-30T14:52:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lashgod-og-famous-cashmere-jet-black-volume-single-tray"/>
+    <title>LASHGOD OG FAMOUS CASHMERE JET BLACK VOLUME SINGLE TRAY</title>
+    <s:type>Lashes</s:type>
+    <s:vendor>LASHGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-06-30at2.37.33PM_b3aeaa2b-6ddb-4404-8ae8-9ab47210b95b.png?v=1625089973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LASHGOD<br>
+        <strong>Type: </strong>Lashes<br>
+        <strong>Price: </strong>
+            17.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The same LASHGOD original lashes you love in our new 100% recycled paper pop culture boxes! Recyclable, resuable and biodegradable! 100% vegan, cruelty free and hypoallergenic! Our matte shine lashes are industry famous for their ability to fan symmetrically and easily! They hold their colour and curl like no other! Our OG lashes in packaging you'll love to look at that's good for the earth! Help reduce waste from plastic to recycled paper! Having an eco friendly lash brand is a huge selling feature when talking about your brand to potential consumers!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lash extensions</s:tag>
+    <s:tag>lashes</s:tag>
+    <s:tag>LASHGOD</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6798594965681</id>
+      <title>C+ 0.05 / 14</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6798594965681</id>
+      <title>C+ 0.05 / 15</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6798594965681</id>
+      <title>D+ 0.05 / 14</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6798594965681</id>
+      <title>D+ 0.05 / 15</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6798588543153</id>
+    <published>2021-06-30T14:42:02-07:00</published>
+    <updated>2021-06-30T14:42:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lashgod-og-famous-cashmere-jet-black-volume-mixed-tray"/>
+    <title>LASHGOD OG FAMOUS CASHMERE JET BLACK VOLUME MIXED TRAY</title>
+    <s:type>Lashes</s:type>
+    <s:vendor>LASHGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-06-30at2.37.33PM.png?v=1625089279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LASHGOD<br>
+        <strong>Type: </strong>Lashes<br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The same LASHGOD original lashes you love in our new 100% recycled paper pop culture boxes! Recyclable, resuable and biodegradable! 100% vegan, cruelty free and hypoallergenic! Our matte shine lashes are industry famous for their ability to fan symmetrically and easily! They hold their colour and curl like no other! Our OG lashes in packaging you'll love to look at that's good for the earth! Help reduce waste from plastic to recycled paper! Having an eco friendly lash brand is a huge selling feature when talking about your brand to potential consumers!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lash extentions</s:tag>
+    <s:tag>Lashes</s:tag>
+    <s:tag>Lashgod</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6798588543153</id>
+      <title>C+ 0.05 / ( 8 9 10 11 12 )</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

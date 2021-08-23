@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cartellash.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cartellash.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cartellash.ca/collections/removers.atom"/>
+  <title>CARTEL LASH &amp; SUPPLY CO</title>
+  <updated>2021-08-18T11:49:11-07:00</updated>
+  <author>
+    <name>CARTEL LASH &amp; SUPPLY CO</name>
+  </author>
+  <entry>
+    <id>https://cartellash.ca/products/6890444488881</id>
+    <published>2021-08-18T11:49:11-07:00</published>
+    <updated>2021-08-18T11:49:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/eyelash-plastic-wrap"/>
+    <title>Eyelash Plastic Wrap</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-18at11.29.33AM.png?v=1629312551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Eyelash plastic wrap is great for lash removals or lash lifts and tinting.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lash Lift</s:tag>
+    <s:tag>Plastic Wrap</s:tag>
+    <s:tag>Remover</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890444488881</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6187162140849</id>
+    <published>2021-01-08T13:59:10-08:00</published>
+    <updated>2021-01-08T13:59:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lbla-break-up-with-your-makeup-makeup-remover-mitts"/>
+    <title>LBLA Break Up with Your Makeup - Makeup Remover Mitts</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>LASHBOXLA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/lashbox-la-make-up-mitts_300x_5662f05b-8f61-4488-b683-87ae116d5187.jpg?v=1610143151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LASHBOXLA<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="smart-tabs-untabbed-content" data-mce-fragment="1">
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>REMOVES MAKEUP FAST</strong>: Package of 2 reusable makeup removing cloth finger mitts that wipe away makeup, dirt and oil in just seconds.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>REUSABLE &amp; MACHINE WASHABLE</strong>: These cloth mitts fit over your fingers to clean smaller, precision areas like the lash line and lips and are machine washable - throw in the wash to use again and again.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>FREE OF CHEMICALS</strong>: Using only warm water or with Lashbox LA Bubble Wash. These ultra-soft, woven polyester-blend cloths get rid of tough makeup without leaving behind residue - just fresh, healthy soft, skin.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>FOR BEST RESULTS</strong>: Completely soak cloth in water or Lashbox LA Bubble Wash and use circular motions on your face, being gentle around the eye area. Rinse and lay flat to dry.</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LBLA</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>remover</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6187162140849</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>54</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4486442549296</id>
+    <published>2020-03-31T17:07:29-07:00</published>
+    <updated>2020-03-31T17:07:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/copy-of-borboleta-break-down-makeup-remover"/>
+    <title>Borboleta Break Down - Travel Makeup Remover</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>BORBOLETA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Aftercare-minis-onwater-breakdown-1024x1024_1_1024x1024_e2014be9-d614-4a8f-a83f-85f7ff46f387.jpg?v=1622147300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BORBOLETA<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span data-sheets-value='{"1":2,"2":"Finally, a makeup remover that’s gentle, powerful, yet totally lash-safe. Our innovative, oil-free formula feels like water, yet emulsifies on contact to completely dissolve even long-wear eye makeup. No rubbing, no tugging and, best of all, no damage to your lashes! And unlike other removers, there’s no greasy residue. Formulated with fatty acids to dissolve makeup and prevent moisture loss, Breakdown works so well, you’ll want to use it even when you’re not wearing lashes."}' data-sheets-userformat='{"2":15167,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'>Finally, a makeup remover that’s gentle, powerful, yet totally lash-safe. Our innovative, oil-free formula feels like water, yet emulsifies on contact to completely dissolve even long-wear eye makeup. No rubbing, no tugging and, best of all, no damage to your lashes! And unlike other removers, there’s no greasy residue. Formulated with fatty acids to dissolve makeup and prevent moisture loss, Breakdown works so well, you’ll want to use it even when you’re not wearing lashes.</span></p>
+<p>Size<b>:</b> 30<b> </b>mL/ 1 fl oz.</p>
+<p> </p>
+<p><strong>HOW TO USE:</strong></p>
+<p>Saturate <a href="https://cartellash.ca/collections/borboleta/products/new-borboleta-cleansing-brush-with-drying-stand" target="_blank" rel="noopener noreferrer">Clean Swoop Brush</a> with Breakdown, gently working into the lash line and around the eye area to dissolve makeup. Wet brush with water and run over lashes to rinse. Pat dry.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aftercare</s:tag>
+    <s:tag>borboleta</s:tag>
+    <s:tag>cosmetic</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>remover</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4486442549296</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>89</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4471732174896</id>
+    <published>2020-03-12T11:42:55-07:00</published>
+    <updated>2020-03-12T11:42:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/dr-belter-make-up-remover"/>
+    <title>Dr. Belter Make-up Remover</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>DR.BELTER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/88bb10_8d8d93a67f61495694cb7ac4b3bd2c85.jpg?v=1622148142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DR.BELTER<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Radiant eyes reflect your inner beauty…</span></p>
+<p><span style="font-weight: 400;">They deserve to be given the best care and attention.</span></p>
+<p><span style="font-weight: 400;">Eyes can tell tales. Tales of our soul and mental state. Sometimes tales of sleepless nights, worry and fatigue.</span></p>
+<p><span style="font-weight: 400;">Due to its fragile anatomy and constant facial expressions the eye area is particularly in need of timely, specific and gentle care.</span></p>
+<p><span style="font-weight: 400;">Line »ocula« achieves a successful balance of natural, skin identical especially compatible ingredients combined with effective, highly innovative yet non-irritant actives.</span></p>
+<p><span style="font-weight: 400;">The »ocula« products have a wonderfully relaxing and calming effect on the eyes, reducing dryness, wrinkles and puffiness while preventing premature tissue exhaustion. Our special tip for the beauty of your eyes: sunglasses are an essential you should never be without!</span></p>
+<p><span style="font-weight: 400;">The »ocula« care line is suitable for any age - prevention is better than cure.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aftercare</s:tag>
+    <s:tag>Dr.Belter</s:tag>
+    <s:tag>Makeup</s:tag>
+    <s:tag>Remover</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4471732174896</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4447171280944</id>
+    <published>2020-02-13T18:05:46-08:00</published>
+    <updated>2020-02-13T18:05:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/untamed-artistry-undo-remover"/>
+    <title>Untamed Artistry - Undo Remover</title>
+    <s:type>Liquids</s:type>
+    <s:vendor>UNTAMED ARTISTRY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/CustomSize_37.png?v=1621736271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UNTAMED ARTISTRY<br>
+        <strong>Type: </strong>Liquids<br>
+        <strong>Price: </strong>
+            2.50 - 29.00
+            <a href="https://cartellash.ca/products/untamed-artistry-undo-remover">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><b data-mce-fragment="1">The product:</b><br data-mce-fragment="1"><span data-mce-fragment="1">TBH no one likes when gel remover burns their client &amp; ain’t no one got time to wait 15 minutes for cream remover to work. That’s where we come in. When it comes to removing lash extensions, you’re gonna be obsessed with using UNDO. 😍  </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Not only is she quick &amp; effective, our special lash nerd formula causes no irritation. We’re also the only ones in the industry to package our special formula in individual packets. Plus, UNDO is literally the </span>perfect <span data-mce-fragment="1">consistency. Not quite gel, not quite cream, but just right. 👌</span></p>
+<p data-mce-fragment="1"><br data-mce-fragment="1"><b data-mce-fragment="1">The facts(TL;DR):</b><br data-mce-fragment="1"><span data-mce-fragment="1">✔ results in 3-5 minutes </span><br data-mce-fragment="1"><span data-mce-fragment="1">✔ fresh, rosey smell 🌹</span><br data-mce-fragment="1"><span data-mce-fragment="1">✔ consistency that is juuusssstttt right (not too runny, not too solid)</span><br data-mce-fragment="1"><span data-mce-fragment="1">✔ works for entire sets or spot removal</span><br data-mce-fragment="1"><span data-mce-fragment="1">✔ 20 X 1g sachets  </span></p>
+<p data-mce-fragment="1"><br data-mce-fragment="1"><b data-mce-fragment="1">the tea:</b><br data-mce-fragment="1"><span data-mce-fragment="1">💡 Untamed Artistry wants you to waste less product &amp; keep a clean workspace, so we package UNDO in single sachets to help you out.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>remover</s:tag>
+    <s:tag>untamed artistry</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4447171280944</id>
+      <title>Box</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/4447171280944</id>
+      <title>Single</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/4440937037872</id>
+    <published>2020-02-05T16:06:54-08:00</published>
+    <updated>2020-02-05T16:06:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/borboleta-makeup-remover-1"/>
+    <title>Borboleta Makeup Remover</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>BORBOLETA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ProductPhoto_MakeupRemover_Table-Web_1024x1024_ffca65e4-597c-4e55-8fca-9993fd59f12f.jpg?v=1622146635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BORBOLETA<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"> </p>
+<div style="text-align: left;" data-mce-fragment="1">Borboleta just launched their first ever makeup remover. Now you can safely remove your eye makeup while keeping lashes secure. <span>This product is water-based and 100% oil-free. It contains ingredients that gently dissolve makeup from eyeliner, mascara, eye-shadow, lips and brows, removing everything but your lashes. </span>
+</div>
+<div style="text-align: left;"><span></span></div>
+<div style="text-align: left;">
+<span>Since its ingredients are so gentle but powerful, it doesn’t cause physical strain on the lash extensions, making for great retention.  </span><span></span>  </div>
+<div style="text-align: left;" data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"Finally, a makeup remover that’s gentle, powerful, yet totally lash-safe. Our innovative, oil-free formula feels like water, yet emulsifies on contact to completely dissolve even long-wear eye makeup. No rubbing, no tugging and, best of all, no damage to your lashes! And unlike other removers, there’s no greasy residue. Formulated with fatty acids to dissolve makeup and prevent moisture loss, Breakdown works so well, you’ll want to use it even when you’re not wearing lashes."}' data-sheets-userformat='{"2":15167,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}' data-mce-fragment="1"><strong data-mce-fragment="1"></strong></span></div>
+<div style="text-align: left;" data-mce-fragment="1">
+<span data-sheets-value='{"1":2,"2":"Finally, a makeup remover that’s gentle, powerful, yet totally lash-safe. Our innovative, oil-free formula feels like water, yet emulsifies on contact to completely dissolve even long-wear eye makeup. No rubbing, no tugging and, best of all, no damage to your lashes! And unlike other removers, there’s no greasy residue. Formulated with fatty acids to dissolve makeup and prevent moisture loss, Breakdown works so well, you’ll want to use it even when you’re not wearing lashes."}' data-sheets-userformat='{"2":15167,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}' data-mce-fragment="1"><strong data-mce-fragment="1">DIRECTIONS:</strong> </span>Saturate Clean Swoop Brush with makeup remover, gently working into lash line and around eye area to dissolve makeup. Wet brush with water and run over lashes to rinse.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aftercare</s:tag>
+    <s:tag>borboleta</s:tag>
+    <s:tag>cosmetic</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>remover</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/4440937037872</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>126</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/3743089295408</id>
+    <published>2019-05-27T17:48:49-07:00</published>
+    <updated>2019-05-27T17:48:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/borboleta-makeup-remover"/>
+    <title>Borboleta Break Down - Makeup Remover</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>BORBOLETA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/Borboleta_MakeupRemover.jpg?v=1622147452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BORBOLETA<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span data-sheets-value='{"1":2,"2":"Finally, a makeup remover that’s gentle, powerful, yet totally lash-safe. Our innovative, oil-free formula feels like water, yet emulsifies on contact to completely dissolve even long-wear eye makeup. No rubbing, no tugging and, best of all, no damage to your lashes! And unlike other removers, there’s no greasy residue. Formulated with fatty acids to dissolve makeup and prevent moisture loss, Breakdown works so well, you’ll want to use it even when you’re not wearing lashes."}' data-sheets-userformat='{"2":15167,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,10066329]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'>Finally, a makeup remover that’s gentle, powerful, yet totally lash-safe. Our innovative, oil-free formula feels like water, yet emulsifies on contact to completely dissolve even long-wear eye makeup. No rubbing, no tugging and, best of all, no damage to your lashes! And unlike other removers, there’s no greasy residue. Formulated with fatty acids to dissolve makeup and prevent moisture loss, Breakdown works so well, you’ll want to use it even when you’re not wearing lashes.</span></p>
+<p><span>Size</span><strong>:</strong><span> 100ml / 3.38 fl oz</span></p>
+<p><span></span><span>HOW TO USE:</span></p>
+<p>Saturate <a href="https://cartellash.ca/collections/borboleta/products/new-borboleta-cleansing-brush-with-drying-stand" target="_blank" rel="noopener noreferrer">Clean Swoop Brush</a> with Breakdown, gently working into the lash line and around the eye area to dissolve makeup. Wet brush with water and run over lashes to rinse. Pat dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aftercare</s:tag>
+    <s:tag>borboleta</s:tag>
+    <s:tag>cosmetic</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>remover</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/3743089295408</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/2269523542064</id>
+    <published>2019-03-21T12:30:17-07:00</published>
+    <updated>2019-03-21T12:30:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/pure-pink-gel-remover"/>
+    <title>Pure Pink Gel Remover</title>
+    <s:type>Liquids</s:type>
+    <s:vendor>EYELASH MAKER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/EX-PINKGEL-REMOVER-0-2.png?v=1622146928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EYELASH MAKER<br>
+        <strong>Type: </strong>Liquids<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Pure Pink Gel Remover/Grapefruit scent 25ml</span></p>
+<p><br><span>The gentle special formula effectively and comfortably removes extended eyelashes,</span><br><span>conditioning natural lashes and spreading fresh aroma of grapefruit.</span></p>
+<p><strong>How to use</strong></p>
+<p>- Apply the Gel Remover to the lashes carefully using the micro brushes.</p>
+<p>- Wait 2-3 min, place the lash between the brush tips.</p>
+<p>- Slowly and carefully brush upwards to dissolve the adhesive and remove the lash.</p>
+<p><strong>Ingredients</strong></p>
+<p>Gamma Butyrolactone, Glycerin, Hydroxypropylcellulose, Aqua, Perfume, Cl 45410</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eyelashmaker</s:tag>
+    <s:tag>remover</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/2269523542064</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>47</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/10783325128</id>
+    <published>2017-10-03T11:34:16-07:00</published>
+    <updated>2017-10-03T11:34:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/protein-cleansing-remover-spray"/>
+    <title>Protein Cleansing Remover Spray</title>
+    <s:type>Liquids</s:type>
+    <s:vendor>MAX2LASH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ProteinSpray.png?v=1507055834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAX2LASH<br>
+        <strong>Type: </strong>Liquids<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h3 class="p3"><span>Product Highlights:</span></h3>
+<p class="p4"> </p>
+<p class="p4">The protein remover is used to prep and disinfect the lashes.</p>
+<p class="p4">Designed to remove residual cosmetics and natural oils, our Primer will cleanse and prepare the lashes for maximum bonding of the adhesive.</p>
+<p class="p4">As the adhesive will bond faster, overall application time will be reduced.</p>
+<p class="p4">Primer can be used on natural or extended lashes making it ideal for both initial application and touch-ups.</p>
+<p class="p4">Our Primer will not affect any existing eyelashes extensions bonds.</p>
+<h3 class="p3">
+<span>How to use:</span><span class="s1"> </span>
+</h3>
+<p class="p6">Client’s eyes should be closed when applying primer, do not apply directly on the eyes.</p>
+<p class="p6">Hold flat cotton pad under lashes to catch excess primer.</p>
+<p class="p6">Squeeze a few drops or one spray of primer on a small to medium makeup brush.</p>
+<p class="p6">Brush primer on lashes, drying time is approximately 2 seconds.</p>
+<p class="p6">Dry lashes thoroughly with an air-blower or fan before applying eyelash extensions as usual</p>
+<h3 class="p3"><span>Disclaimer:<span class="s1"> </span></span></h3>
+<ul>
+<li>We recommend that you keep the primer in refrigerator or somewhere cooler than room temperature for a longer storage life.</li>
+<li>If the primer is kept in a refrigerator, it is required to be left out for about 1 to 2 hours before use.</li>
+<li>For advanced technicians only. Do not use on yourself.</li>
+<li>We are not responsible for the misuse of the primer.</li>
+<li>You are solely responsible for the product once you purchase it from us. Performance and results of the primer vary from person to person.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAX2LASH</s:tag>
+    <s:tag>protein remover</s:tag>
+    <s:tag>Protein Remover Pads</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/10783325128</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/9037041096</id>
+    <published>2017-03-27T13:43:00-07:00</published>
+    <updated>2017-03-27T13:43:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/max2originale-protein-remover-pads-protein-remover-cleansing-pads-specially-made-for-eyelash-extension"/>
+    <title>Max2Originale - Protein Remover Pads</title>
+    <s:type>Application</s:type>
+    <s:vendor>MAX2LASH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/removerpads.png?v=1543208669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAX2LASH<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>PROTEIN REMOVER CLEANSING PADS</strong><br></p>
+<p><strong>SPECIALLY MADE FOR EYELASH EXTENSION</strong></p>
+<meta charset="utf-8">
+<p>ㆍAs gently moisturizing the skin, cotton pads remove eye make-up and facial oil. <br>ㆍPhytoncide and vitamin E protect the delicated skin area. <br>ㆍ75 Pads</p>
+<meta charset="utf-8">
+<p><strong>How To Use : </strong><br></p>
+<ul>
+<li>When removing makeup: Take off one pad, putting it and pushing it softly while close your eyes. After a few seconds later, take off the pad and then you can see the makeup, mascara, and wasted protein is clearly removed. Softly wipe remaining mascara on your eyes.</li>
+<li>When eyelash extension: Before operation, take off one pad, putting it on the eyes and pushing it softly and wipe eyelashes and skin oil softly. You can see the makeup, mascara, and wasted protein is clearly removed. When skin oil is certainly removed, duration period will be almost doubled.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cosmetic</s:tag>
+    <s:tag>MAX2LASH</s:tag>
+    <s:tag>max2originale</s:tag>
+    <s:tag>Protein Remover Pads</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/9037041096</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>93</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/9035929224</id>
+    <published>2017-03-27T12:53:00-07:00</published>
+    <updated>2017-03-27T12:53:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/max2originale-gel-remover-odorless-gel-type-remover"/>
+    <title>Max2Originale - Gel Remover - Odorless Gel Type Remover</title>
+    <s:type>Liquids</s:type>
+    <s:vendor>MAX2LASH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/gel_remover.png?v=1622145093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAX2LASH<br>
+        <strong>Type: </strong>Liquids<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Max2Originale™ is the leading eyelash extension brand, promises to provide exceptional products with competitive price and satisfactory service.</span></p>
+<p><strong>ODORLESS GEL TYPE REMOVER</strong></p>
+<meta charset="utf-8">
+<p>ㆍOdorless gel type remover. Safe to remove extended eyelashes. For experts. <br>ㆍ15g</p>
+<meta charset="utf-8">
+<div class="f1 animate stack">
+<p><b>How To Use : </b><br>ㆍIt is available to be applied while client lay down on the bed. <br>ㆍPick micro-swab and dip remover. <br>ㆍTouch and rub smoothly on the eyelash which you want to remove. <br>ㆍUsually taking off after 1 minute. <br>ㆍ2~3 times of rubbing maybe necessary for the eyelash hard taking off.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAX2LASH</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/9035929224</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/9035800200</id>
+    <published>2017-03-27T12:41:00-07:00</published>
+    <updated>2017-03-27T12:41:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/max2originale-cream-remover-adhesive-remover-cream-type-for-eyelash-extension"/>
+    <title>Max2Originale - Cream Remover</title>
+    <s:type>Liquids</s:type>
+    <s:vendor>MAX2LASH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/creamremover1.JPG?v=1490643947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAX2LASH<br>
+        <strong>Type: </strong>Liquids<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><b>max2</b><span>originale</span></p>
+<p><strong>ADHESIVE REMOVER CREAM TYPE FOR EYELASH EXTENSION</strong></p>
+<meta charset="utf-8">
+<p>- For removing extended lashes <br>- Crazy Quick Perfect Remover. <br>- Easy to use <br>- Well balanced viscosity</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cream remover</s:tag>
+    <s:tag>MAX2LASH</s:tag>
+    <s:tag>max2originale</s:tag>
+    <s:tag>remover</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/9035800200</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/9035628168</id>
+    <published>2017-03-27T12:01:00-07:00</published>
+    <updated>2017-03-27T12:01:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/max2originale-liquid-remover"/>
+    <title>Max2Originale - Liquid Remover</title>
+    <s:type>Liquids</s:type>
+    <s:vendor>MAX2LASH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/max2liq_remover.png?v=1622147632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAX2LASH<br>
+        <strong>Type: </strong>Liquids<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><b>max2</b><span>originale</span></p>
+<p>ㆍodorless liquid type remover. Easy to remove extended eyelashes. For experts. </p>
+<p>ㆍ15g</p>
+<meta charset="utf-8"><br><b>How To Use : </b><br>ㆍ<strong>It is available to be applied while client lay down on the bed. </strong><br><strong>ㆍPick micro swab and dip remover. </strong><br><strong>ㆍTouch on eyelash and rub smoothly where you want to remove. </strong><br><strong>ㆍUsually taking off after 1 minute. </strong><br><strong>ㆍ2~3 times of rubbing maybe necessary for the stiff eyelash. </strong><br><strong>ㆍYou may adjust the amount of remover properly and be careful not to soaked into eye.</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>liquid remover</s:tag>
+    <s:tag>MAX2LASH</s:tag>
+    <s:tag>max2originale</s:tag>
+    <s:tag>remover</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/9035628168</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cartellash.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cartellash.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cartellash.ca/collections/setup-space-1.atom"/>
+  <title>CARTEL LASH &amp; SUPPLY CO</title>
+  <updated>2021-08-18T14:46:46-07:00</updated>
+  <author>
+    <name>CARTEL LASH &amp; SUPPLY CO</name>
+  </author>
+  <entry>
+    <id>https://cartellash.ca/products/6890774921393</id>
+    <published>2021-08-18T14:46:46-07:00</published>
+    <updated>2021-08-18T14:46:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lash-mirror"/>
+    <title>Lash Mirror</title>
+    <s:type>Application</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-18at2.43.26PM.png?v=1629323206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lash Mirror</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890774921393</id>
+      <title>Black</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890774921393</id>
+      <title>Pink</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890774921393</id>
+      <title>White</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6890758668465</id>
+    <published>2021-08-18T14:36:46-07:00</published>
+    <updated>2021-08-18T14:36:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/rose-gold-phone-holder"/>
+    <title>Rose Gold Phone Holder</title>
+    <s:type>Accesssories</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-18at2.34.41PM.png?v=1629322636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Accesssories<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Phone Holder</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890758668465</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6890614849713</id>
+    <published>2021-08-18T13:18:18-07:00</published>
+    <updated>2021-08-18T13:18:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/cart-phone-mount"/>
+    <title>Cart Phone Mount</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-18at1.13.29PM.png?v=1629317898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Phone Mount</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890614849713</id>
+      <title>Strawberry</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890614849713</id>
+      <title>Rainbow</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6890456678577</id>
+    <published>2021-08-18T11:56:53-07:00</published>
+    <updated>2021-08-18T11:56:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/white-tape-dispenser"/>
+    <title>White Tape Dispenser</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-18at11.35.15AM.png?v=1629313013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tape Dispenser</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890456678577</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6890444488881</id>
+    <published>2021-08-18T11:49:11-07:00</published>
+    <updated>2021-08-18T11:49:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/eyelash-plastic-wrap"/>
+    <title>Eyelash Plastic Wrap</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-18at11.29.33AM.png?v=1629312551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Eyelash plastic wrap is great for lash removals or lash lifts and tinting.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lash Lift</s:tag>
+    <s:tag>Plastic Wrap</s:tag>
+    <s:tag>Remover</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890444488881</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6890438295729</id>
+    <published>2021-08-18T11:45:29-07:00</published>
+    <updated>2021-08-18T11:45:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/blooming-heart-glue-ring-10pcs"/>
+    <title>Blooming Heart Glue Ring - 10pcs</title>
+    <s:type>Application</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-18at11.27.41AM.png?v=1629312329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blooming Ring</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Glue Ring</s:tag>
+    <s:tag>Heart</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890438295729</id>
+      <title>Blue</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6890438295729</id>
+      <title>Pink</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6872416092337</id>
+    <published>2021-08-11T14:53:23-07:00</published>
+    <updated>2021-08-11T14:53:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/silicone-lash-palette"/>
+    <title>Silicone Lash Palette</title>
+    <s:type>Application</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-11at2.49.52PM.png?v=1628718803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lash Palette</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872416092337</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6872402690225</id>
+    <published>2021-08-11T14:42:19-07:00</published>
+    <updated>2021-08-11T14:42:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/quartz-lash-palette"/>
+    <title>Quartz Lash Palette</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-11at2.38.34PM.png?v=1628718139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lash Palette</s:tag>
+    <s:tag>Palette</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872402690225</id>
+      <title>Aquamarine</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872402690225</id>
+      <title>Rose</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872402690225</id>
+      <title>Smoky</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6872397185201</id>
+    <published>2021-08-11T14:38:07-07:00</published>
+    <updated>2021-08-11T14:38:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/pink-foldable-phone-holder"/>
+    <title>Pink Foldable Phone Holder</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-11at2.36.09PM.png?v=1628717888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Phone Holder</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872397185201</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6872385355953</id>
+    <published>2021-08-11T14:31:03-07:00</published>
+    <updated>2021-08-11T14:31:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/mini-melts-pencil-holder"/>
+    <title>Mini Melts Pencil Holder</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-11at2.24.48PM.png?v=1628717464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Holder</s:tag>
+    <s:tag>Setup</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872385355953</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6872366448817</id>
+    <published>2021-08-11T14:23:28-07:00</published>
+    <updated>2021-08-11T14:23:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/glue-drop-palette"/>
+    <title>Glue Drop Palette</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-08-11at2.20.19PM.png?v=1628716957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glue</s:tag>
+    <s:tag>Glue Palette</s:tag>
+    <s:tag>Glue Tray</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872366448817</id>
+      <title>Baby Pink</title>
+      <s:price currency="CAD">0.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6872366448817</id>
+      <title>Hot Pink</title>
+      <s:price currency="CAD">0.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6798600241329</id>
+    <published>2021-06-30T14:57:00-07:00</published>
+    <updated>2021-06-30T14:57:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lashgod-kitty-fan"/>
+    <title>LASHGOD KITTY FAN</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>LASHGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-06-30at2.55.18PM.png?v=1625090220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LASHGOD<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAN</s:tag>
+    <s:tag>LASHGOD</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6798600241329</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6537998893233</id>
+    <published>2021-05-17T12:52:59-07:00</published>
+    <updated>2021-05-17T12:52:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/volume-fan-bubble-1ct"/>
+    <title>Volume Fan Bubble - 1ct</title>
+    <s:type>Application</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-02-24at2.53.32PM.png?v=1622146804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Application<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bubble</s:tag>
+    <s:tag>Volume</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6537998893233</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6686506614961</id>
+    <published>2021-04-28T13:57:47-07:00</published>
+    <updated>2021-04-28T13:57:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/hello-kitty-4-colour-gel-pen"/>
+    <title>Hello Kitty 4 Colour Gel Pen</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-04-28at1.53.22PM.png?v=1622148662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hello Kitty</s:tag>
+    <s:tag>Pen</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6686506614961</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6686491869361</id>
+    <published>2021-04-28T13:46:17-07:00</published>
+    <updated>2021-04-28T13:46:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/hello-kitty-pen-black-ink"/>
+    <title>Hello Kitty Pen - Black Ink</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-04-28at1.41.28PM.png?v=1619642778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            3.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Black ink, 0.5 mm nib, give you a smooth writing experience.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hello Kitty</s:tag>
+    <s:tag>Pen</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6686491869361</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.05</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6686487511217</id>
+    <published>2021-04-28T13:40:53-07:00</published>
+    <updated>2021-04-28T13:40:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/hello-kitty-neck-pillow"/>
+    <title>Hello Kitty Neck Pillow</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-04-28at1.37.23PM.png?v=1619642454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            22.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product-description-wrapper" data-mce-fragment="1">MINISO U-shaped Neck Pillow from Sanrio Hello Kitty Series.<br data-mce-fragment="1"><br data-mce-fragment="1">Give support to your head and neck when napping by using Sanrio Hello Kitty U-shaped neck pillow by MINISO while travelling. The neck pillow easily fits around the neck curve. It is perfect travel buddy for you as it easy to carry around.<br data-mce-fragment="1"><br data-mce-fragment="1">Material: Cover: 95% polyester 5% elastane, Filling: polyurethane.</div>
+<div class="product-description-wrapper" data-mce-fragment="1"></div>
+<div class="product-description-wrapper" data-mce-fragment="1">Colours: Navy &amp; Grey</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hello Kitty</s:tag>
+    <s:tag>Neck Pillow</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6686487511217</id>
+      <title>Grey</title>
+      <s:price currency="CAD">22.37</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6686487511217</id>
+      <title>Navy</title>
+      <s:price currency="CAD">22.37</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6569393127601</id>
+    <published>2021-03-09T14:28:40-08:00</published>
+    <updated>2021-03-09T14:28:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/pink-heart-tape-dispenser"/>
+    <title>Pink Heart Tape Dispenser</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-03-09at2.24.15PM.png?v=1615328721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Heart</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Tape dispenser</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6569393127601</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6293962817713</id>
+    <published>2021-02-23T14:15:57-08:00</published>
+    <updated>2021-02-23T14:15:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lash-setup-organizer"/>
+    <title>Lash Setup Organizer</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-02-22at1.18.15PM.png?v=1622150455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Adopts high quality acrylic or marble material, safe, eco‑friendly non‑toxic, durable to use<br data-mce-fragment="1">Large capacity, compartmentalized storage, more convenient to store and organize your eyelashes tools or other makeup beauty tools.<br data-mce-fragment="1">With exclusive tweezers storage hole design, easy to take out and place, simple and clear, convenient and time‑saving.<br data-mce-fragment="1">Dust cover design on the three compartments on the left, dustproof and waterproof.<br data-mce-fragment="1">Fashionable appearance, compact and high grade, practical for use. A good tool for professional beauty salons or home</p>
+<br data-mce-fragment="1"><br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">Specification:</b></p>
+<p data-spm-anchor-id="a2g0o.detail.1000023.i0.3c101f6dvm8KDA" data-mce-fragment="1">Item Type: Eyelash Beauty Tool Storage Box<br data-mce-fragment="1">Material: Acrylic/Marble<br data-mce-fragment="1">Application: Home, eyelash salon, Beauty salon, etc.<br data-mce-fragment="1">Size: Approx. 22 x 22 x 10cm/8.7 x 8.7 x 3.9 inch</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Organizer</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6293962817713</id>
+      <title>White Marble</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cartellash.ca/products/6293962817713</id>
+      <title>Pink Marble</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6293971009713</id>
+    <published>2021-02-22T13:25:47-08:00</published>
+    <updated>2021-02-22T13:25:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/hello-kitty-humidifier"/>
+    <title>Hello Kitty Humidifier</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-02-22at1.22.00PM.png?v=1622147916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Humidifier</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6293971009713</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6237151461553</id>
+    <published>2021-01-27T13:40:51-08:00</published>
+    <updated>2021-01-27T13:40:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/bbluv-igro-thermometer"/>
+    <title>BBLUV HYGROMETER / THERMOMETER</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-01-27at12.41.38PM.png?v=1611780226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h3 data-mce-fragment="1"><strong data-mce-fragment="1">2-in-1 Digital Thermometer/Hygrometer<span data-mce-fragment="1"> </span></strong></h3>
+<p initial="" rgb="" none="" normal="" gothic="" century="" text-decoration-color:="" text-decoration-style:="" font-variant-caps:="" font-variant-ligatures:="" text-indent:="" background-color:="" line-height:="" letter-spacing:="" widows:="" orphans:="" margin:="" font-style:="" color:="" font-weight:="" text-transform:="" word-spacing:="" white-space:="">The Igrö measures the temperature and humidity levels. The information is easily readable on a digital screen.</p>
+<p initial="" rgb="" none="" normal="" gothic="" century="" text-decoration-color:="" text-decoration-style:="" font-variant-caps:="" font-variant-ligatures:="" text-indent:="" background-color:="" line-height:="" letter-spacing:="" widows:="" orphans:="" margin:="" font-style:="" color:="" font-weight:="" text-transform:="" word-spacing:="" white-space:=""><strong>Features:</strong></p>
+<ul>
+<li>Fast and accurate reading of ambient temperature and humidity level</li>
+<li>Clock and alarm in a 12h format and a 24h format</li>
+<li>Easy to read high contrast LCD screen</li>
+<li>2 temperature modes: ˚C and ˚F</li>
+<li>Dimensions (inches): 2.5 x 4.5 x 0.9</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hygrometer</s:tag>
+    <s:tag>Thermometer</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6237151461553</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6218164437169</id>
+    <published>2021-01-20T14:10:34-08:00</published>
+    <updated>2021-01-20T14:10:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/lbla-teal-faux-leather-magnetic-tweezer-case"/>
+    <title>LBLA - TEAL FAUX LEATHER MAGNETIC TWEEZER CASE</title>
+    <s:type>Accesssories</s:type>
+    <s:vendor>LASHBOXLA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-01-20at2.09.30PM.png?v=1623187267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LASHBOXLA<br>
+        <strong>Type: </strong>Accesssories<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The New Lashbox LA Tweezer Case in soft teal faux leather is both on point and essential; especially with its aged-metal gold embellishment. The interior features a double-pink suede flap to keep your tools from scratching and has double strength magnets to keep your tweezers in place.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LBLA</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6218164437169</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6171281096881</id>
+    <published>2021-01-02T13:31:20-08:00</published>
+    <updated>2021-01-02T13:31:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/borboleta-glass-eyelash-palette"/>
+    <title>Borboleta - Glass Eyelash Palette</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>BORBOLETA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2020-12-30at11.31.15AM.png?v=1622151180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BORBOLETA<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Borboleta Beauty's glass eyelash palette is an excellent tool to add to your lash stash. It's a large, easy to clean palette with a mini crystal stone insert so you can have all your eyelash extensions and </span><a href="https://borboletabeauty.com/collections/adhesive-remover/products/maximum-adhesive%20" data-mce-fragment="1" data-mce-href="https://borboletabeauty.com/collections/adhesive-remover/products/maximum-adhesive%20">professional eyelash adhesive</a><span data-mce-fragment="1"> in one place. The lash palette can fit 8-10 lash strips easily so you can load up multiple curls and lengths on it reducing the time it takes to pull out another strip of lashes. The other great part of Borboleta's glass palette? This eyelash tool is heavier so say goodbye to the days of your palette lifting and sliding around when you're picking up lashes. Palette dimensions are 6.25" x 3.125" x 0.25" (L x W x H).</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>borboleta</s:tag>
+    <s:tag>setup</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6171281096881</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6144506003633</id>
+    <published>2020-12-15T13:46:58-08:00</published>
+    <updated>2020-12-15T13:46:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/black-glue-container"/>
+    <title>Black Glue Storage Container</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ripsiliiman_sailytysrasia_vakuumi_rasia_liimalle_ripsipidennykset__skytukku_ripsitarvike_pidennysvalineet_pidennystarvikkeet_kampaamotukku_hiustukku_kampaamotarvike_sky_group_kauneude.jpg?v=1608068819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-mce-fragment="1">Great storage compartment for glue. Maintains a dry and humidity-free environment. </div>
+<div data-mce-fragment="1"><br></div>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Portable and lightweight</span></div>
+<div data-mce-fragment="1"> </div>
+<div data-mce-fragment="1"><span data-mce-fragment="1"></span></div>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Material: PET Plastic</span></div>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Black color</span></div>
+<p data-spm-anchor-id="a2g0o.detail.1000023.i0.44a35e43b7D3FP" data-mce-fragment="1"><span data-mce-fragment="1">SIZE: 8.8CM*9.5 </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Cartel</s:tag>
+    <s:tag>glue</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6144506003633</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6144312737969</id>
+    <published>2020-12-15T12:53:10-08:00</published>
+    <updated>2020-12-15T12:53:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/eyelash-extension-fan-holder"/>
+    <title>Eyelash Extension Premade Volume Fan Holder Sheet- 1 ct</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>CARTEL LASH &amp; SUPPLY CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2020-12-15at12.46.19PM.png?v=1608065575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTEL LASH &amp; SUPPLY CO<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Save time and store your premade volume fans onto these convenient, easy to use eyelash sheets.   </p>
+<p data-mce-fragment="1">Fits securely into most eyelash box trays. Simply remove the protective backing to expose sticky adhesive, place in an empty lash box and you are all set to start storing your premades!</p>
+<p data-mce-fragment="1">Size:8*4mm per sheet</p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cartel</s:tag>
+    <s:tag>Volume</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6144312737969</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6135832084657</id>
+    <published>2020-12-12T12:22:46-08:00</published>
+    <updated>2020-12-12T12:22:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/revolashion-pro-made-storage-system-storage-tray"/>
+    <title>REVOLASHION Pro Made Storage System - Storage Tray</title>
+    <s:type>Setup + Space</s:type>
+    <s:vendor>REVOLASHION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/REVOLASHIONProMadeStorageSystem-StorageTray.jpg?v=1607804568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>REVOLASHION<br>
+        <strong>Type: </strong>Setup + Space<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Gone are the days of storing your Pro Mades in jars and DYI containers and have them turn into a clumped, sticky mess! Start Pro making like a PRO with these trays and store your fans away safely and securely!<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This is a great accessory to use for practicing and storing fans for future use or in preparation for model/content photoshoots. Also a great item to add to training kits for students to use for practice in class.</span></p>
+<p data-mce-fragment="1"><em data-mce-fragment="1">* Each Pro Made Tray includes 1 card with 16 rows. Refill cards are sold separately (in packs of 5).</em></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">SPECS</b></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">16 rows</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Each row labeled accordingly (4-14cm)</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Each row can house 60+ fans depending on placement</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Each strip is covered with protective removable film to preserve stickiness until use.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Reusable – Strips do not lose stickiness if carefully handled. Can be used multiple times until worn out.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Tray size: 11cm (W) x 14 cm (L)</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>revolashion</s:tag>
+    <s:tag>setup</s:tag>
+    <s:tag>tools for extension</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6135832084657</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

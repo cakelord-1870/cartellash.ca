@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cartellash.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cartellash.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cartellash.ca/collections/ruthie-belle.atom"/>
+  <title>CARTEL LASH &amp; SUPPLY CO</title>
+  <updated>2021-02-24T14:39:55-08:00</updated>
+  <author>
+    <name>CARTEL LASH &amp; SUPPLY CO</name>
+  </author>
+  <entry>
+    <id>https://cartellash.ca/products/6537975988401</id>
+    <published>2021-02-24T14:39:55-08:00</published>
+    <updated>2021-02-24T14:39:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/ruthie-belle-cleaning-11"/>
+    <title>Ruthie Belle - Cleaning 11</title>
+    <s:type>Aftercare</s:type>
+    <s:vendor>RUTHIE BELLE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2021-02-24at2.34.53PM.png?v=1622150408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RUTHIE BELLE<br>
+        <strong>Type: </strong>Aftercare<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="description-tag-trigger" data-mce-fragment="1">Clean 11 Concentrate makes a high-quality pH balanced purifying foam that removes all makeup from the face and eyes, including waterproof mascara. The foam was initially invented for professional lash and brow artists, but is now available for home use. It can be used daily and is compatible with eyelash extensions.<br>
+</div>
+<div class="description-tag-content" data-mce-fragment="1">
+<p data-mce-fragment="1">- Removes all makeup, including waterproof mascara<br data-mce-fragment="1">- Suitable for eyes and entire face<br data-mce-fragment="1">- Compatible with eyelash extensions<br data-mce-fragment="1">- Produces foam that does not dehydrate lashes and skin<br data-mce-fragment="1">- Contains tea tree oil<br data-mce-fragment="1">- Helps prevent inflammation of the eyelids<br data-mce-fragment="1">- Suitable for professional and home use<br data-mce-fragment="1"> </p>
+</div>
+<div class="description-tag-trigger" data-mce-fragment="1"><strong>HOW IT WORKS</strong></div>
+<div class="description-tag-content" data-mce-fragment="1">
+<p data-mce-fragment="1">Ruthie Belle Eyeliner was developed specifically to be compatible with eyelash extension wearers and does not affect adhesive bonds. It creates a defined and deep black line that stays on well, but does not contain nano carbon black, the smallest and most popular carbon black that is used in cosmetic products. The smaller the carbon black particles that are used to make eyeliners black, the quicker they enter the human body, which can lead to irritation. The lack of nano carbon black makes this eyeliner suitable for even very sensitive eyes.<br data-mce-fragment="1"> </p>
+</div>
+<div class="description-tag-trigger" data-mce-fragment="1"><strong>HOW TO USE</strong></div>
+<div class="description-tag-content" data-mce-fragment="1">
+<p data-mce-fragment="1">NB: Only to be used diluted!<br data-mce-fragment="1">- Dilute 4ml of Clean 11 Concentrate per 60ml foamer with distilled water and 10ml of Clean 11 Concentrate per 170ml foamer with distilled water (empty foamers are available in our online shop)<br data-mce-fragment="1">- Apply foam and let it soak for 30 seconds<br data-mce-fragment="1">- Remove all eye makeup, including waterproof mascara<br data-mce-fragment="1">You can also use the foam made from Clean 11 Concentrate to remove makeup residue from eyelash extensions after applying eye makeup. Just use a tiny bit of foam on a mascara brush and brush through lashes until residue is gone. No need to rinse afterwards.<br data-mce-fragment="1"> </p>
+</div>
+<div class="description-tag-trigger" data-mce-fragment="1"><strong>PROFESSIONAL USE</strong></div>
+<div class="description-tag-content" data-mce-fragment="1">
+<p data-mce-fragment="1">NB: Only to be used diluted!<br data-mce-fragment="1">- Dilute Clean 11 Concentrate with 0.9% saline solution to make foam<br data-mce-fragment="1">- Apply foam and let it soak for 30 seconds<br data-mce-fragment="1">- Remove all eye makeup, including waterproof mascara<br data-mce-fragment="1"> </p>
+</div>
+<div class="description-tag-trigger" data-mce-fragment="1"><strong>INGREDIENTS</strong></div>
+<div class="description-tag-content" data-mce-fragment="1">
+<p data-mce-fragment="1">Aqua, PEG-40 Glyceryl Cocoate, Phenoxyethanol, Sodium Coceth Sulfate, Chlorphenesin, Melaleuca Alternifolia Leaf Oil, Caprylyl Glycol, Glycerin, Limonene</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lash shampoo</s:tag>
+    <s:tag>ruthie belle</s:tag>
+    <s:variant>
+      <id>https://cartellash.ca/products/6537975988401</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6114096382129</id>
+    <published>2020-12-27T14:43:53-08:00</published>
+    <updated>2020-12-27T14:43:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/ruthie-belle-brow-filler"/>
+    <title>Ruthie Belle - Brow Filler</title>
+    <s:type>Liquids</s:type>
+    <s:vendor>RUTHIE BELLE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2020-12-02at2.39.24PM.png?v=1622147357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RUTHIE BELLE<br>
+        <strong>Type: </strong>Liquids<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">1ml bottle of our unique and innovative Ruthie Belle - Brow Filler is a perfect sample size to boost your brow hair growth and make them more thick and vital. The main effect of the product is to extend the natural growth phase of brow hair while also nourishing and making them darker.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Perfect to recommend to brow treatment customers as a home care product. This small bottle is enough for 2 weeks. The first brow hairs will start appearing after just 2 weeks of daily use.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>HOW TO USE?</strong><br data-mce-fragment="1"><span data-mce-fragment="1">Shake well before every use! Apply Brow Filler every evening by gently rubbing it to your brows and the surrounding skin area. In about two weeks you'll see first results: more dark and thicker brows and new brow hair growth. After a couple of weeks use you can see basically no hairless brow area and also recovery of natural dark pigment of your brow hairs.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>WHAT'S IT MADE OF?</strong><br data-mce-fragment="1"><span data-mce-fragment="1">Brow Filler is made up of exclusively organic ingredients. It's free of any harmful chemicals. Brow Filler consists of different high-quality natural oils and cold-pressed extracts that stimulate brow hair growth. The product is perfect for vegans.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>INGREDIENTS</strong><br data-mce-fragment="1"><span data-mce-fragment="1">Olea Europaea Fruit Oil, Linum Usitatissimum Seed Oil, Ricinus Communis Seed Oil, Cannabis Sativa Seed Oil, Nigella Sativa Seed Oil, Copernicia Cerifera Cera, Colophonium, Potentilla Erecta Root Extract, Chamomilla Recutita Flower Extract, Quercus Robur Bark Extract, Plantago Lanceolata Leaf Extract, Hamamelis Virginiana Bark/Leaf/Twig Extract, Tocopherol.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/6114096382129</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6114096152753</id>
+    <published>2020-12-27T14:43:35-08:00</published>
+    <updated>2020-12-27T14:43:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/ruthie-belle-glue-stop"/>
+    <title>Ruthie Belle - Glue Stop</title>
+    <s:type>Liquids</s:type>
+    <s:vendor>RUTHIE BELLE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2020-12-02at2.39.03PM.png?v=1606948872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RUTHIE BELLE<br>
+        <strong>Type: </strong>Liquids<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span style="font-size: 1.4em;">Glue Stop is an eyelash adhesive stopper</span><br></p>
+<br data-mce-fragment="1"><strong>WHAT DOES IT DO?</strong><br data-mce-fragment="1"><span data-mce-fragment="1">Glue Stop prevents your lash adhesive from travelling up and closing your lash fans. It works with all eyelash adhesives.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>HOW TO USE?</strong><br data-mce-fragment="1"><span data-mce-fragment="1">Apply it with a brush 1mm from the bottom of the lash line (while lashes are still on the glue strip) and work as you normally would.</span><br data-mce-fragment="1"><span data-mce-fragment="1">When the room temperature is up to 22 degrees, re-apply twice a day.</span><br data-mce-fragment="1"><span data-mce-fragment="1">When the room temperature is more than 22 degrees, re-apply when you see that fans no longer stay open.</span>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><strong>INCI:</strong> Aqua, Alcohol Denat., Panthenol, Parfum, Sodium Chloride, Lactic Acid, Linalool, Hexyl Cinnamal, Phenoxyethanol, Chlorphenesin, CI 42090, Glycerin</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/6114096152753</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6114095464625</id>
+    <published>2020-12-27T14:42:41-08:00</published>
+    <updated>2020-12-27T14:42:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/ruthie-belle-adhesive-superdry"/>
+    <title>Ruthie Belle - Adhesive Superdry</title>
+    <s:type>Liquids</s:type>
+    <s:vendor>RUTHIE BELLE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2020-12-02at2.37.09PM.png?v=1622147443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RUTHIE BELLE<br>
+        <strong>Type: </strong>Liquids<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Adhesive Superdry is a 2-in-1 lash primer/adhesive accelerator that has alcohol content several times lower than typical adhesive accelerator. The only primer and adhesive accelerator that's compatible with <a href="https://cartellash.ca/collections/ruthie-belle/products/ruthie-belle-dark-matter" target="_blank" rel="noopener noreferrer">Dark Matter</a> (and all other adhesives).</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>WHAT DOES IT DO?</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Adhesive Superdry starts bonding the adhesive vapours momentarily upon contact with the cyanoacrylate (we bred it based on Superbonder composition) and does not make the adhesive porous. This product superdries any lash adhesive (no matter the humidity/original curing time) to cure instantly (0.5-1 sec depending on the amount of adhesive used).</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>HOW TO USE?</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">You can either use it as a primer on the natural lashes or cover 1-2 mm at the bottom of the eyelash extensions (while the lashes are still on the strip) with Adhesive Superdry and continue working as usual. Repeat if you feel that the adhesive does not cure instantly.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Summer:</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Summers are usually hot &amp; humid so all adhesives cure faster than in the winter. Sometimes adhesive still remains sticky after you’ve placed the lash though. This is where Superdry comes in handy - use it on the natural lashes exactly like shown in the video. It will gently strip excess sebum (oil) from natural lashes without drying them out like traditional primers/pre-treatment serums do. By gently opening lash cuticles Superdry boosts adhesive curing just enough to prevent it from staying sticky. Yet, adhesive will not cure any faster before it is already placed on the natural lash.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Winter: </span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Winters are usually colder and drier so adhesives cure slower. Use Superdry to make any lash adhesive (no matter the original curing time) cure in less than 1 sec. Use Superdry while lashes are still on the glue strip and if necessary on the natural lashes like shown in the video.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Use a clean micro brush to apply the product on your client’s lashes. Do not double dip the used micro brush in the product jar to avoid any cross-contamination. Always use a clean micro brush when dipping into the jar.  </span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>INGREDIENTS</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Aqua, Alcohol Denat., Diethyl Phtalate, Biotin, Sodium Hydroxide, Sodium Sulfate, Sodium Chloride, Ethyl Methacrylate, Parfum, Citronellol, Hexyl Cinnamal, Linalool, Limonene, Butylphenyl Methylpropional, CI 42090, CI 60725</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/6114095464625</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6114095759537</id>
+    <published>2020-12-27T14:41:53-08:00</published>
+    <updated>2020-12-27T14:41:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/ruthie-belle-lash-bff"/>
+    <title>Ruthie Belle - Lash BFF</title>
+    <s:type>Liquids</s:type>
+    <s:vendor>RUTHIE BELLE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/ScreenShot2020-12-02at2.38.56PM.png?v=1606948847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RUTHIE BELLE<br>
+        <strong>Type: </strong>Liquids<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Lash BFF is like mascara, but better. It enhances eyes just like mascara, but does not dehydrate natural lashes like mascara does.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">- Gives eyelashes a shiny black coating</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Nourishes eyelashes</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Builds volume and length</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Does not leave lumps on the lashes</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Does not smudge or flake</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Helps lashes curl upwards</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Does not dry natural lashes</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Compatible with Dark Matter eyelash extensions glue</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Light and thin viscosity</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Cone-shaped brush with dense bristles</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>HOW IT WORKS</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Ruthie Belle’s Lash BFF works as an alternative to mascara, defining lashes and providing a glossy black coating to eyelashes. Contrary to regular mascara, that dehydrates natural lashes, Lash BFF contains acacia, jojoba and sunflower seed oil, all of which have nourishing properties for hair and eyelashes. Because of its hydrating properties, Lash BFF does not crumble like mascara. Its thin viscosity avoids lumps and flaking.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>HOW TO USE IT</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">- Use instead of regular mascara</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Apply to lashes with the brush provided</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Coat lashes with multiple layers to build more volume and length</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Remove with makeup remover</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>INGREDIENTS</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Aqua, CI 77499, Methylpropanediol, Cera Microcristallina, Copernicia Cerifera Cera, Styrene/Acrylates/Ammonium, Methacrylate Copolymer, Acacia Decurrens/Jojoba/Sunflower Seed Wax Polyglyceryl-3 Esters, Pullulan, Cera Alba, Cetyl Palmitate, Polyglyceryl-6 Distearate, Polymethyl Methacrylate, Stearic Acid, Glycerin, Palmitic Acid, Triethanolamile, Sorbitol, Hydroxyethylcellulose, Phenoxyethanol, Butylene Glycol, Chlorphenesin, Synthetic Wax, Acacia Senegal Gum, C11-15 Pareth-7, Caprylyl Glycol, Sodium Laureth-12 Sulfate, Tetrasodium EDTA, Trehalose, Panthenol, Potassium Sorbate, Biotinoyl, Tripeptide-1</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/6114095759537</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6114059485361</id>
+    <published>2020-12-02T13:48:26-08:00</published>
+    <updated>2020-12-02T13:48:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/ruthie-belle-super-bonder"/>
+    <title>Ruthie Belle - Super Bonder</title>
+    <s:type>Liquids</s:type>
+    <s:vendor>RUTHIE BELLE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/rb.jpg?v=1621739692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RUTHIE BELLE<br>
+        <strong>Type: </strong>Liquids<br>
+        <strong>Price: </strong>
+            78.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1"><strong>Superbonder</strong> does what no other product does: prolongs lash extensions while reducing irritation.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">- Increases lash retention by up to 30%</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Low to no fumes</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Less eye irritation</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Reduces lash brittleness</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Quick 3 minute drying process</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Works with any adhesive</span><br data-mce-fragment="1"><span data-mce-fragment="1">- No need for nanomisting or nebulizing</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Suitable for sensitive eyes and all types of lashes, including volume lashes</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Works in any humidity and temperature conditions</span><br data-mce-fragment="1"><span data-mce-fragment="1">- One bottle is enough for 150-200 treatments/clients</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>HOW IT WORKS</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">This unique lash retention maximizer pushes humidity out of the adhesive surface, sealing it more efficiently and creating a tighter bond. This makes the lash extension stronger. With Superbonder, lash retention grows by up to 30%. The tighter bond also blocks glue fumes and adds elasticity to the adhesive bonding points. The added elasticity makes the lashes more flexible, less sensitive to touch and less prone to breaking or falling off.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The reduced fumes make Superbonder a safer product to use for professionals and their clients. Everyone is more protected from the lash glue fumes, a cyanoacrylate based glue, and clients have reported less irritated eyes.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Instead of the usual 24 hour drying time, within 3 minutes of being applied, lash extensions are done. They can even get wet!</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">With Superbonder there is no need for the typical curing with water droplets. This step is skipped entirely because Superbonder mixes with cyanoacrylate and does the curing process from within. When a Nanomister or Nebulizer is used, the curing process is done from the outside and humidity stays in the adhesive. This means the surface of the adhesive remains porous, so the bond is weaker and more fumes are released. With Superbonder there is no need for a Nanomister or Nebulizer, but you can still use one if you or your client wishes. Just wait for the 3 minutes so that Superbonder dries.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>HOW TO USE IT</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">- Wait 2 minutes after you have attached the last extension of the set</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Apply 2 drops onto a microfibre brush (no need to soak)</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Wipe adhesive bonding points</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Allow to dry for 3 minutes</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>OTHER INFORMATION</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">One 15ml bottle services 150-200 treatments/clients. The product is vegan and produced in the European Union, under EU regulations.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Superbonder has revolutionized how lash extensions are done. Since its launch in 2018, Ruthie Belle Superbonder became the most copied product in the whole lash industry. No one has got even close so why go for a weaker substitute when you can get the original?</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Ingredients: Aqua, Sodium Chloride, Ethyl Methacrylate, Ci 19140, Ci 42090, parfum, Benzyl Alcohol (only 0.01%!), Hexyl Cinnamal, Linalool</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/6114059485361</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cartellash.ca/products/6114057486513</id>
+    <published>2020-12-02T13:45:35-08:00</published>
+    <updated>2020-12-02T13:45:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cartellash.ca/products/ruthie-belle-dark-matter"/>
+    <title>Ruthie Belle - Dark Matter</title>
+    <s:type>Adhesive</s:type>
+    <s:vendor>RUTHIE BELLE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1835/4821/products/darkmatter2.jpg?v=1621449293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RUTHIE BELLE<br>
+        <strong>Type: </strong>Adhesive<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1"><strong>Dark Matter</strong> is a fast-setting and oil-resistant lash glue that results in better retention.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">- Works with virtually any humidity and temperature</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Bonds in half a second to one second</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Minimal fumes</span><br data-mce-fragment="1"><span data-mce-fragment="1">- 100% oil proof</span><br data-mce-fragment="1"><span data-mce-fragment="1">- One glue dot lasts for up to 5 hours</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Stays fresh for 3 months after opening</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Allows you to work faster</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Suitable for intermediate and advanced lash stylists</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Works with all types of lashes and techniques</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Contains castor oil</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Does NOT contain carbon black</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>HOW IT WORKS?</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The purity of the cyanoacrylate used in Dark Matter allows it to work with any humidity and any temperature. Generally, the higher the humidity the longer the glue drop will stay fresh, but tests show Dark Matter works perfectly in humidities varying from 10% to 95%, and the glue is optimized in temperatures that range from 16°C to 39°C (61°F to 102°F).</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">While Dark Matter sets very fast, it does not dry out on your lash plate or lose its adhesive capability. One glue dot can be worked with for 1.5–5 hours. This means one bottle of Dark Matter will last from 3 to 10 times more than other adhesives and you will work much more efficiently as you do not need to refresh your glue dot every 30 minutes.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Dark Matter is sensitive to alcohol, so AVOID all high alcohol content products as they affect retention in a negative way (includes hand sanitizers and regular primers/glue accelerators).</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>HOW TO USE IT?</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">- Shake well for 1 minute before first use</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Apply a drop of Dark Matter on silicone or foil (DO NOT use on plastic, paper, tape or jade stone as these react to the adhesive)</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Allow to air for 5 minutes</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Work from the middle of your glue drop, using a scooping technique to pick up a bubble of adhesive and apply it on the root of the extensions</span><br data-mce-fragment="1"><span data-mce-fragment="1">- No need to replace glue dots even when they begin to dry out from the outer edge. Get a fresh dot only when the texture becomes stringy</span><br data-mce-fragment="1"><span data-mce-fragment="1">- If you use pinching method/finger roll to create volume fans, do not use hand sanitizers with high alcohol content (opt for alcohol-free hand sanitizer) and do not use regular primers/glue accelerators as their main active ingredient is alcohol. Use ONLY Ruthie Belle’s Adhesive Superdry as a primer/adhesive accelerator (Superdry works with all other adhesives too).</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">For more information, watch Ruthie Belle’s “How to use Dark Matter” video </span><a href="https://www.youtube.com/watch?v=xVgiIuPADAY" data-mce-fragment="1" data-mce-href="https://www.youtube.com/watch?v=xVgiIuPADAY">here</a><span data-mce-fragment="1">.</span>
+<p data-mce-fragment="1">NB! Dark Matter is not compatible with Prolong lash cleanser.</p>
+<strong>HOW TO STORE IT?</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">- Shake well for 10 seconds once a day after opened</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Keep container tightly closed when not in use</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Store away from direct sunlight or heat</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Keep in a cool place, preferably under 25°C (77°F). Unopened bottles may be kept on the middle shelf of the refrigerator. In these cases, take out 30 minutes before first use and shake well for 2 minutes. Never keep an opened bottle of Dark Matter in the fridge to avoid condensed water from developing and starting the glue’s curing process within the bottle.</span><br data-mce-fragment="1"><span data-mce-fragment="1">- If stored correctly, Dark Matter stays fresh for 6 months unopened and for up to 3 months after opening</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>OTHER INFORMATION</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Dark Matter is produced only twice a month so that customers always receive fresh glue. You can check the manufacturing date (d/m/y) within the “Ch:…” code found on the bottom of the bottle.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Dark Matter is black, but does not contain carbon black. It is produced in the EU with the same high “medical grade” cyanoacrylate used in wound adhesives. Please note that Dark Matter should be used only by experienced lash artists.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">INCI: 2-Methoxyethyl 2-Cyanoacrylate, Dimethyl Silicone Polymer with Silica, Acrylates, Ricinus Communis Seed Oil, CI 77499</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cartellash.ca/products/6114057486513</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+</feed>
